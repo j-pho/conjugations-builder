@@ -1,0 +1,871 @@
+						
+買う	Present Positive Plain	買う	彼はスーパーで果物を買う。	(かれはすーぱーでくだものをかう。)	He buys fruit at the supermarket.	C1
+買う	Present Negative Plain	買わない	彼は毎日コンビニでお菓子を買わない。	(かれはまいにちこんびにでおかしをかわない。)	He doesn't buy snacks at the convenience store every day.	C1
+買う	Present Positive Polite	買います	彼女は市場で新鮮な魚を買います。	(かのじょはいちばでしんせんなさかなをかいます。)	She buys fresh fish at the market.	C1
+買う	Present Negative Polite	買いません	私は今日は何も買いません。	(わたしはきょうはなにもかいません。)	I won't buy anything today.	C1
+買う	Past Positive Plain	買った	昨日、彼らは新しい車を買った。	(きのう、かれらはあたらしいくるまをかった。)	Yesterday, they bought a new car.	C1
+買う	Past Negative Plain	買わなかった	彼は先週、本を買わなかった。	(かれはせんしゅう、ほんをかわなかった。)	He didn't buy a book last week.	C1
+買う	Past Positive Polite	買いました	彼女は昨日、お土産を買いました。	(かのじょはきのう、おみやげをかいました。)	She bought souvenirs yesterday.	C1
+買う	Past Negative Polite	買いませんでした	その店で靴を買いませんでした。	(そのみせでくつをかいませんでした。)	I didn't buy shoes at that store.	C1
+買う	-te Form	買って	友達と一緒に服を買ってきた。	(ともだちといっしょにふくをかってきた。)	I bought clothes with my friend.	C1
+買う	Volitional	買おう	これから本を買おうと思います。	(これからほんをかおうとおもいます。)	I'm going to buy a book from now on.	C1
+買う	Potential	買える	この店ではクレジットカードで買える。	(このみせではくれじっとかーどでかえる。)	You can buy with a credit card at this store.	C1
+買う	Passive	買われる	その商品はオンラインで買われました。	(そのしょうひんはおんらいんでかわれました。)	The product was bought online.	C1
+買う	Causative	買わせる	私の兄は私に新しい自転車を買わせてくれました。	(わたしのあにはわたしにあたらしいじてんしゃをかわせてくれました。)	My brother let me buy a new bicycle.	C1
+買う	Imperative	買え	早く行って、水を買え！	(はやくいって、みずをかえ！)	Go quickly and buy some water!	C1
+買う	Conditional	買えば	お金があれば、新しいスマートフォンを買えばいいですね。	(おかねがあれば、あたらしいすまーとふぉんをかえばいいですね。)	If you have money, it would be good to buy a new smartphone, wouldn't it?	C1
+思う	Present Positive Plain	思う	彼は未来を明るく思う。	(かれはみらいをあかるくおもう。)	He thinks brightly about the future.	C2
+思う	Present Negative Plain	思わない	私は彼がそんなことをするとは思わない。	(わたしはかれがそんなことをするとはおもわない。)	I don't think he would do such a thing.	C2
+思う	Present Positive Polite	思います	彼女はいつも友達を思います。	(かのじょはいつもともだちをおもいます。)	She always thinks about her friends.	C2
+思う	Present Negative Polite	思いません	彼はその計画が失敗するとは思いませんでした。	(かれはそのけいかくがしっぱいするとはおもいませんでした。)	He didn't think the plan would fail.	C2
+思う	Past Positive Plain	思った	私は彼が来ると思った。	(わたしはかれがくるとおもった。)	I thought he would come.	C2
+思う	Past Negative Plain	思わなかった	彼は彼女がそんなに怒るとは思わなかった。	(かれはかのじょがそんなにおこるとはおもわなかった。)	He didn't think she would get so angry.	C2
+思う	Past Positive Polite	思いました	私はその映画がとても面白いと思いました。	(わたしはそのえいががとてもおもしろいとおもいました。)	I thought the movie was very interesting.	C2
+思う	Past Negative Polite	思いませんでした	彼女は彼の言葉を真剣に受け取らなかったと思いませんでした。	(かのじょはかれのことばをしんけんにうけとらなかったとおもいませんでした。)	She didn't take his words seriously.	C2
+思う	-te Form	思って	彼は何も言わずに出て行ってしまったと思っていました。	(かれはなにもいわずにでていってしまったとおもっていました。)	I thought he left without saying anything.	C2
+思う	Volitional	思おう	この問題について一緒に解決しようと思います。	(このもんだいについていっしょにかいけつしようとおもいます。)	Let's try to solve this problem together.	C2
+思う	Potential	思える	彼女の言葉はとても説得力があって、本当だと思える。	(かのじょのことばはとてもせっとくりょくがあって、ほんとうだとおもえる。)	Her words are very convincing and seem true.	C2
+思う	Passive	思われる	彼の行動はみんなに賞賛されて思われる。	(かれのこうどうはみんなにしょうさんされておもわれる。)	His actions are admired by everyone.	C2
+思う	Causative	思わせる	彼は私に自分の未来を真剣に考えさせた。	(かれはわたしにじぶんのみらいをしんけんにかんがえさせた。)	He made me seriously consider my future.	C2
+思う	Imperative	思え	この決定についてもう一度よく考えてみてください。	(このけっていについてもういちどよくかんがえてみてください。)	Please think carefully about this decision again.	C2
+思う	Conditional	思えば	もっと早く相談していれば、問題は解決できたかもしれないと思えば後悔する。	(もっとはやくそうだんしていれば、もんだいはかいけつできたかもしれないとおもえばこうかいする。)	I regret thinking that if I had consulted earlier, the problem might have been solved.	C2
+言う	Present Positive Plain	言う	彼はいつも正直に言います。	(かれはいつもしょうじきにいいます。)	He always speaks honestly.	C3
+言う	Present Negative Plain	言わない	彼女は怒っている時は何も言わない。	(かのじょはおこっているときはなにもいわない。)	She doesn't say anything when she's angry.	C3
+言う	Present Positive Polite	言います	先生は生徒に常に励ましの言葉を言います。	(せんせいはせいとにつねにはげましのことばをいいます。)	The teacher always says words of encouragement to the students.	C3
+言う	Present Negative Polite	言いません	彼は彼女の秘密を誰にも言いませんでした。	(かれはかのじょのひみつをだれにもいいませんでした。)	He didn't tell anyone about her secret.	C3
+言う	Past Positive Plain	言った	彼は彼女に愛してると言った。	(かれはかのじょにあいしてるといった。)	He said he loves her.	C3
+言う	Past Negative Plain	言わなかった	彼はその計画に賛成したが言わなかった。	(かれはそのけいかくにさんせいしたがいわなかった。)	He agreed with the plan but didn't say it.	C3
+言う	Past Positive Polite	言いました	彼女は私に謝罪の言葉を言いました。	(かのじょはわたしにしゃざいのことばをいいました。)	She apologized to me.	C3
+言う	Past Negative Polite	言いませんでした	私はその時、何も言いませんでした。	(わたしはそのとき、なにもいいませんでした。)	I didn't say anything at that time.	C3
+言う	-te Form	言って	彼は急いで家を出て行くとき、何も言っていませんでした。	(かれはいそいでいえをでていくとき、なにもいっていませんでした。)	He didn't say anything when he hurried out of the house.	C3
+言う	Volitional	言おう	この問題について話し合って、解決しようと言おう。	(このもんだいについてはなしあって、かいけつしようといおう。)	Let's discuss this issue and try to resolve it.	C3
+言う	Potential	言える	彼は英語と日本語を話せる。	(かれはえいごとにほんごをはなせる。)	He can speak English and Japanese.	C3
+言う	Passive	言われる	私は先生に叱られた。	(わたしはせんせいにしかられた。)	I was scolded by the teacher.	C3
+言う	Causative	言わせる	彼は私に彼女の気持ちを素直に言わせた。	(かれはわたしにかのじょのきもちをすなおにいわせた。)	He made me speak honestly about her feelings.	C3
+言う	Imperative	言え	本当のことを言え！	(ほんとうのことをいえ！)	Tell the truth!	C3
+言う	Conditional	言えば	早く彼に謝れば、もっと上手くいくかもしれない。	(はやくかれにあやまれば、もっとじょうずくいくかもしれない。)	If you apologize to him quickly, it might go more smoothly.	C3
+飲む	Present Positive Plain	飲む	私は毎日コーヒーを飲む。	(わたしはまいにちこーひーをのむ。)	I drink coffee every day.	A1
+飲む	Present Negative Plain	飲まない	彼はアルコールを飲まない。	(かれはあるこーるをのまない。)	He doesn't drink alcohol.	A1
+飲む	Present Positive Polite	飲みます	彼女は夜にワインを飲みます。	(かのじょはよるにわいんをのみます。)	She drinks wine at night.	A1
+飲む	Present Negative Polite	飲みません	私は炭酸飲料を普段あまり飲みません。	(わたしはたんさんいんりょうをふだんあまりのみません。)	I don't usually drink carbonated beverages.	A1
+飲む	Past Positive Plain	飲んだ	昨日、彼らはお茶をたくさん飲んだ。	(きのう、かれらはおちゃをたくさんのんだ。)	Yesterday, they drank a lot of tea.	A1
+飲む	Past Negative Plain	飲まなかった	私は昨日、コーヒーを飲まなかった。	(わたしはきのう、こーひーをのまなかった。)	I didn't drink coffee yesterday.	A1
+飲む	Past Positive Polite	飲みました	彼は昨夜、ビールを一杯飲みました。	(かれはさくや、びーるをいっぱいのみました。)	He drank a glass of beer last night.	A1
+飲む	Past Negative Polite	飲みませんでした	私は昨日、お酒を一滴も飲みませんでした。	(わたしはきのう、おさけをいってきものものみませんでした。)	I didn't drink a drop of alcohol yesterday.	A1
+飲む	-te Form	飲んで	友達と一緒にカフェでコーヒーを飲んできた。	(ともだちといっしょにかふぇでこーひーをのんできた。)	I came back after drinking coffee at the cafe with my friends.	A1
+飲む	Volitional	飲もう	暑いから、冷たい水を飲もう。	(あついから、つめたいみずをのもう。)	It's hot, so let's drink cold water.	A1
+飲む	Potential	飲める	その薬は水で飲めるようにしてください。	(そのくすりはみずでのめるようにしてください。)	Please make that medicine drinkable with water.	A1
+飲む	Passive	飲まれる	彼は健康ドリンクを毎日飲まれています。	(かれはけんこうどりんくをまいにちのまれています。)	He drinks health drinks every day.	A1
+飲む	Causative	飲ませる	母は私に薬を飲ませてくれました。	(はははわたしにくすりをのませてくれました。)	My mother made me take medicine.	A1
+飲む	Imperative	飲め	毎日水をたくさん飲め！	(まいにちみずをたくさんのめ！)	Drink plenty of water every day!	A1
+飲む	Conditional	飲めば	お腹がすいたら、水を飲めばいいですよ。	(おなかがすいたら、みずをのめばいいですよ。)	If you're hungry, it's good to drink water.	A1
+含む	Present Positive Plain	含む	彼は口にチューインガムを含む。	(かれはくちにちゅーいんがむをふくむ。)	He includes chewing gum in his mouth.	A2
+含む	Present Negative Plain	含まない	この製品には添加物は含まない。	(このせいひんにはてんかぶつはふくまない。)	This product does not contain additives.	A2
+含む	Present Positive Polite	含みます	この飲み物には果汁が含みます。	(こののみものにはかじゅうがふくまれます。)	This drink contains fruit juice.	A2
+含む	Present Negative Polite	含みません	この製品にはアレルギーの原因物質は含みません。	(このせいひんにはあれるぎーのげんいんぶっしつはふくません。)	This product does not contain allergens.	A2
+含む	Past Positive Plain	含んだ	彼はその話の中に意味深なメッセージを含んだ。	(かれはそのはなしのなかにいみぶかいメッセージをふくんだ。)	He included a meaningful message in the story.	A2
+含む	Past Negative Plain	含まなかった	彼女はその本の著者に感情を含まなかった。	(かのじょはそのほんのちょしゃにかんじょうをふくまなかった。)	She didn't include emotions to the author of that book.	A2
+含む	Past Positive Polite	含みました	その料理にはたくさんの栄養素が含みました。	(そのりょうりにはたくさんのえいようそがふくみました。)	The dish contained a lot of nutrients.	A2
+含む	Past Negative Polite	含みませんでした	彼の話には事実が含まれていなかった。	(かれのはなしにはじじつがふくまれていませんでした。)	The truth was not included in his story.	A2
+含む	-te Form	含んで	その薬は水でよく溶かして含んで飲んでください。	(そのくすりはみずでよくとかしてふくんでのんでください。)	Please dissolve that medicine well in water and drink it.	A2
+含む	Volitional	含もう	この話題は議論を含もうとしている。	(このわだいはぎろんをふくもうとしている。)	This topic is trying to include a discussion.	A2
+含む	Potential	含める	このスープには新鮮な野菜を含めるべきです。	(このすーぷにはしんせんなやさいをふくめるべきです。)	Fresh vegetables should be included in this soup.	A2
+含む	Passive	含まれる	この商品には天然成分が含まれています。	(このしょうひんにはてんねんせいぶんがふくまれています。)	This product contains natural ingredients.	A2
+含む	Causative	含ませる	彼は私たちに彼の秘密を含ませた。	(かれはわたしたちにかれのひみつをふくませた。)	He made us include his secret.	A2
+含む	Imperative	含め	このプロジェクトにはチーム全員を含めてください。	(このぷろじぇくとにはちーむぜんいんをふくめてください。)	Please include the entire team in this project.	A2
+含む	Conditional	含めば	努力を含めれば、成功はもっと近づくかもしれません。	(どりょくをふくめれば、せいこうはもっとちかづくかもしれません。)	Including effort, success may be closer.	A2
+住む	Present Positive Plain	住む	彼は東京に住んでいます。	(かれはとうきょうにすんでいます。)	He lives in Tokyo.	A3
+住む	Present Negative Plain	住まない	私は田舎に住まない。	(わたしはいなかにすまない。)	I don't live in the countryside.	A3
+住む	Present Positive Polite	住みます	私たちはこのアパートに住みます。	(わたしたちはこのあぱーとにすみます。)	We live in this apartment.	A3
+住む	Present Negative Polite	住みません	彼女は大都市に住みません。	(かのじょはだいとしにすみません。)	She doesn't live in a big city.	A3
+住む	Past Positive Plain	住んだ	私は昔、京都に住んだことがあります。	(わたしはむかし、きょうとにすんだことがあります。)	I used to live in Kyoto.	A3
+住む	Past Negative Plain	住まなかった	彼はその町に住まなかった。	(かれはそのまちにすまなかった。)	He didn't live in that town.	A3
+住む	Past Positive Polite	住みました	私の祖父は昔、海辺に住みました。	(わたしのそふはむかし、うみべにすみました。)	My grandfather used to live by the sea.	A3
+住む	Past Negative Polite	住みませんでした	彼らはその家に住みませんでした。	(かれらはそのいえにすみませんでした。)	They didn't live in that house.	A3
+住む	-te Form	住んで	私たちは新しい町に引っ越して住んでいます。	(わたしたちはあたらしいまちにひっこしてすんでいます。)	We moved to a new town and are living there.	A3
+住む	Volitional	住もう	この地域に永住しようと思っています。	(このちいきにえいじゅうしようとおもっています。)	I'm thinking of settling down in this area.	A3
+住む	Potential	住める	この地域ではペットを飼うことが許可されているので、住める。	(このちいきではぺっとをかうことがきょかされているので、すめる。)	Pets are allowed in this area, so you can live here.	A3
+住む	Passive	住まれる	この町は住みやすいとよく住まれています。	(このまちはすみやすいとよくすまれています。)	This town is often lived in because it's easy to live in.	A3
+住む	Causative	住ませる	彼は子供たちを安全な場所に住ませたいと思っています。	(かれはこどもたちをあんぜんなばしょにすませたいとおもっています。)	He wants to make sure the children live in a safe place.	A3
+住む	Imperative	住め	この町は景色が素晴らしいので、ここに住め！	(このまちはけしきがすばらしいので、ここにすめ！)	The scenery in this town is wonderful, so live here!	A3
+住む	Conditional	住めば	この地域に住めば、自然に触れ合う機会が増えます。	(このちいきにすめば、しぜんにふれあうきかいがふえます。)	If you live in this area, you'll have more opportunities to interact with nature.	A3
+食べる	Present Positive Plain	食べる	私は朝食に卵を食べる。	(わたしはちょうしょくにたまごをたべる。)	I eat eggs for breakfast.	B1
+食べる	Present Negative Plain	食べない	彼は肉を食べない。	(かれはにくをたべない。)	He doesn't eat meat.	B1
+食べる	Present Positive Polite	食べます	彼女は毎日フルーツを食べます。	(かのじょはまいにちふるーつをたべます。)	She eats fruit every day.	B1
+食べる	Present Negative Polite	食べません	私は夜遅くには何も食べません。	(わたしはよるおそくにはなにもたべません。)	I don't eat anything late at night.	B1
+食べる	Past Positive Plain	食べた	昨日、彼らは寿司を食べた。	(きのう、かれらはすしをたべた。)	Yesterday, they ate sushi.	B1
+食べる	Past Negative Plain	食べなかった	彼は昨日朝食を食べなかった。	(かれはきのうちょうしょくをたべなかった。)	He didn't eat breakfast yesterday.	B1
+食べる	Past Positive Polite	食べました	彼女は昨夜、ケーキを一つ食べました。	(かのじょはさくや、けーきをひとつたべました。)	She ate a piece of cake last night.	B1
+食べる	Past Negative Polite	食べませんでした	彼は昨日、仕事中何も食べませんでした。	(かれはきのう、しごとちゅうなにもたべませんでした。)	He didn't eat anything during work yesterday.	B1
+食べる	-te Form	食べて	友達と一緒に外でランチを食べてきた。	(ともだちといっしょにそとでらんちをたべてきた。)	I ate lunch outside with my friends.	B1
+食べる	Volitional	食べよう	今日は美味しい料理を食べようと思っています。	(きょうはおいしいりょうりをたべようとおもっています。)	I'm thinking of eating delicious food today.	B1
+食べる	Potential	食べられる	この料理は辛いけど、食べられます。	(このりょうりはからいけど、たべられます。)	This dish is spicy, but I can eat it.	B1
+食べる	Passive	食べられる	その料理はお客様に好評で、よく食べられます。	(そのりょうりはおきゃくさまにこうひょうで、よくたべられます。)	That dish is well-received by customers and is often eaten.	B1
+食べる	Causative	食べさせる	彼は私に新しい料理を試してみせて、食べさせた。	(かれはわたしにあたらしいりょうりをためしてみせて、たべさせた。)	He let me try the new dish and made me eat it.	B1
+食べる	Imperative	食べろ	もっと野菜を食べろ！	(もっとやさいをたべろ！)	Eat more vegetables!	B1
+食べる	Conditional	食べれば	よく噛んで食べれば、胃に負担がかからない。	(よくかんでたべれば、いにふたんがかからない。)	If you chew your food well, it won't burden your stomach.	B1
+見る	Present Positive Plain	見る	彼は毎晩テレビを見る。	(かれはまいばんてれびをみる。)	He watches TV every night.	B2
+見る	Present Negative Plain	見ない	私はその映画をまだ見ない。	(わたしはそのえいがをまだみない。)	I haven't seen that movie yet.	B2
+見る	Present Positive Polite	見ます	彼女は週末によく映画を見ます。	(かのじょはしゅうまつによくえいがをみます。)	She often watches movies on weekends.	B2
+見る	Present Negative Polite	見ません	私は暗いところではよく見ません。	(わたしはくらいところではよくみません。)	I don't see well in dark places.	B2
+見る	Past Positive Plain	見た	私は昨日、新しい展示を見た。	(わたしはきのう、あたらしいてんじをみた。)	I saw the new exhibition yesterday.	B2
+見る	Past Negative Plain	見なかった	彼はその映画を昨日見なかった。	(かれはそのえいがをきのうみなかった。)	He didn't see that movie yesterday.	B2
+見る	Past Positive Polite	見ました	私たちは先週、美術館で素晴らしい絵を見ました。	(わたしたちはせんしゅう、びじゅつかんですばらしいえをみました。)	We saw wonderful paintings at the art museum last week.	B2
+見る	Past Negative Polite	見ませんでした	彼女は昨日、テレビを見ませんでした。	(かのじょはきのう、てれびをみませんでした。)	She didn't watch TV yesterday.	B2
+見る	-te Form	見て	雨が降っているので、窓から外を見ています。	(あめがふっているので、まどからそとをみています。)	It's raining, so I'm looking outside from the window.	B2
+見る	Volitional	見よう	明日はいい映画を見よう。	(あしたはいいえいがをみよう。)	Let's watch a good movie tomorrow.	B2
+見る	Potential	見られる	彼は遠くの山々を見られる。	(かれはとおくのやまやまをみられる。)	He can see the distant mountains.	B2
+見る	Passive	見られる	その映画は多くの人に見られました。	(そのえいがはおおくのひとにみられました。)	The movie was seen by many people.	B2
+見る	Causative	見させる	先生は私たちに新しい技術を見させた。	(せんせいはわたしたちにあたらしいぎじゅつをみさせた。)	The teacher made us see the new technology.	B2
+見る	Imperative	見ろ	その方向に行ってみろ！	(そのほうこうにいってみろ！)	Go in that direction and see!	B2
+見る	Conditional	見れば	天気予報を見れば、明日は晴れるかどうかわかる。	(てんきよほうをみれば、あしたははれるかどうかわかる。)	If you check the weather forecast, you'll know whether it will be sunny tomorrow.	B2
+用いる	Present Positive Plain	用いる	彼は古典的な方法を用いる。	(かれはこてんてきなほうほうをもちいる。)	He uses traditional methods.	B3
+用いる	Present Negative Plain	用いない	このプロジェクトでは最新の技術を用いない。	(このぷろじぇくとではさいしんのぎじゅつをもちいない。)	We don't use the latest technology in this project.	B3
+用いる	Present Positive Polite	用います	私たちはこのアプリを日常的に用います。	(わたしたちはこのあぷりをにちじょうてきにもちいます。)	We use this app on a daily basis.	B3
+用いる	Present Negative Polite	用いません	彼女は伝統的な手法を用いません。	(かのじょはでんとうてきなしゅほうをもちいません。)	She doesn't use traditional methods.	B3
+用いる	Past Positive Plain	用いた	私は昨日、新しいプログラムを用いた。	(わたしはきのう、あたらしいぷろぐらむをもちいた。)	I used a new program yesterday.	B3
+用いる	Past Negative Plain	用いなかった	その会社は以前、このシステムを用いなかった。	(そのかいしゃはいぜん、このしすてむをもちいなかった。)	The company didn't use this system before.	B3
+用いる	Past Positive Polite	用いました	この方法を用いましたが、うまくいきませんでした。	(このほうほうをもちいましたが、うまくいきませんでした。)	We used this method, but it didn't work well.	B3
+用いる	Past Negative Polite	用いませんでした	そのプロジェクトでは、その技術を用いませんでした。	(そのぷろじぇくとでは、そのぎじゅつをもちいませんでした。)	We didn't use that technology in the project.	B3
+用いる	-te Form	用いて	この資料を用いて報告書を作成しました。	(このしりょうをもちいてほうこくしょをさくせいしました。)	I used this document to create the report.	B3
+用いる	Volitional	用おう	新しい手法を用おうとしています。	(あたらしいしゅほうをもちおうとしています。)	I'm trying to use a new method.	B3
+用いる	Potential	用える	この道具は様々な目的に用えることができます。	(このどうぐはさまざまなもくてきにもえることができます。)	This tool can be used for various purposes.	B3
+用いる	Passive	用われる	このアプリは広く用われています。	(このあぷりはひろくもちわれています。)	This app is widely used.	B3
+用いる	Causative	用わせる	先生は生徒たちに自分の言葉を用わせる。	(せんせいはせいとたちにじぶんのことばをもちわせる。)	The teacher makes the students use their own words.	B3
+用いる	Imperative	用いろ	その機能を用いろ！	(そのきのうをもちいろ！)	Use that feature!	B3
+用いる	Conditional	用えば	適切に資源を用えば、より効率的になります。	(てきせつにしげんをもえば、よりこうりつてきになります。)	Using resources properly will make it more efficient.	B3
+行く(D1)	行く	彼は毎朝ジョギングに行く。	(かれはまいあさじょぎんぐにいく。)	He goes jogging every morning.		Present Positive Plain
+行く(D1)	行かない	彼女は雨の日には外出しない。	(かのじょはあめのひにはがいしゅつしない。)	She doesn't go out on rainy days.		Present Negative Plain
+行く(D1)	行きます	私たちは今晩映画を見に行きます。	(わたしたちはこんばんえいがをみにいきます。)	We are going to see a movie tonight.		Present Positive Polite
+行く(D1)	行きません	この週末は旅行には行きません。	(このしゅうまつはりょこうにはいきません。)	I'm not going on a trip this weekend.		Present Negative Polite
+行く(D1)	行った	先週、友達と海へ行った。	(せんしゅう、ともだちとうみへいった。)	I went to the beach with my friends last week.		Past Positive Plain
+行く(D1)	行かなかった	彼は昨日、授業に行かなかった。	(かれはきのう、じゅぎょうにいかなかった。)	He didn't go to class yesterday.		Past Negative Plain
+行く(D1)	行きました	彼女は昨夜、コンサートに行きました。	(かのじょはさくや、こんさーとにいきました。)	She went to the concert last night.		Past Positive Polite
+行く(D1)	行きませんでした	私たちは先週末、野外コンサートに行きませんでした。	(わたしたちはせんしゅうまつ、やがいこんさーとにいきませんでした。)	We didn't go to the outdoor concert last weekend.		Past Negative Polite
+行く(D1)	行って	彼らは映画館に行ってきた。	(かれらはえいがかんにいってきた。)	They went to the movie theater.		-te Form
+行く(D1)	行こう	明日は公園にピクニックしに行こう。	(あしたはこうえんにぴくにっくしにいこう。)	Let's go to the park for a picnic tomorrow.		Volitional
+行く(D1)	行ける	彼は一人で外国に行ける。	(かれはひとりでがいこくにいける。)	He can go abroad alone.		Potential
+行く(D1)	行かれる	その会社では、定期的に海外出張が行かれる。	(そのかいしゃでは、ていきてきにかいがいしゅっちょうがいかれる。)	In that company, regular overseas business trips are made.		Passive
+行く(D1)	行かせる	両親は子供たちを映画館に行かせた。	(りょうしんはこどもたちをえいがかんにいかせた。)	The parents made the children go to the movie theater.		Causative
+行く(D1)	行け	早く行け！	(はやくいけ！)	Go quickly!		Imperative
+行く(D1)	行けば	もし天気が良ければ、散歩に行けばどうですか？	(もしてんきがよければ、さんぽにいけばどうですか？)	If the weather is good, how about going for a walk?		Conditional
+往く(D2)	往く	彼は毎年夏に祖国へ往く。	(かれはまいとしなつにそこくへゆく。)	He goes back to his homeland every summer.		Present Positive Plain
+往く(D2)	往かない	彼女は町から出ずに往かない。	(かのじょはまちからいずにいかない。)	She doesn't venture out of town.		Present Negative Plain
+往く(D2)	往きます	彼は出張のために東京へ往きます。	(かれはしゅっちょうのためにとうきょうへいきます。)	He travels to Tokyo for business.		Present Positive Polite
+往く(D2)	往きません	今日は用事があって出かけないので、外には往きません。	(きょうはようじがあってでかけないので、そとにはいきません。)	I won't go outside today because I have errands to run.		Present Negative Polite
+往く(D2)	往いた	私は昨日、彼の家へ往いた。	(わたしはきのう、かれのいえへゆいた。)	I went to his house yesterday.		Past Positive Plain
+往く(D2)	往かなかった	彼は昨日、予定が変わって出かけなかったので、祭りへ往かなかった。	(かれはきのう、よていがかわってでかけなかったので、まつりへいかなかった。)	He didn't go to the festival yesterday because his plans changed and he didn't go out.		Past Negative Plain
+往く(D2)	往きました	先月、京都へ往きました。	(せんげつ、きょうとへいきました。)	I went to Kyoto last month.		Past Positive Polite
+往く(D2)	往きませんでした	その日は雨だったので、公園へ往きませんでした。	(そのひはあめだったので、こうえんへいきませんでした。)	It was raining that day, so I didn't go to the park.		Past Negative Polite
+往く(D2)	往いて	神社へお参りに往いて、お守りを買いました。	(じんじゃへおまいりにゆいて、おまもりをかいました。)	I went to the shrine to pray and bought a protective charm.		-te Form
+往く(D2)	往こう	明日は山へ往こうと思っています。	(あしたはやまへいこうとおもっています。)	I'm thinking of going to the mountains tomorrow.		Volitional
+往く(D2)	往ける	彼は自由に世界中を往ける。	(かれはじゆうにせかいじゅうをゆける。)	He can travel freely around the world.		Potential
+往く(D2)	往かれる	その地域は多くの観光客によって訪れられている。	(そのちいきはおおくのかんこうきゃくによっておとずれられている。)	That area is visited by many tourists.		Passive
+往く(D2)	往かせる	彼は子供たちを危険な場所へは往かせない。	(かれはこどもたちをきけんなばしょへはいかせない。)	He doesn't let the children go to dangerous places.		Causative
+往く(D2)	往け	旅立ちの時が来たら、新しい冒険に往け！	(たびだちのときがきたら、あたらしいぼうけんにいけ！)	When the time for departure comes, go on a new adventure!		Imperative
+往く(D2)	往けば	大学が近くにあれば、自転車で往けばいいですね。	(だいがくがちかくにあれば、じてんしゃでいけばいいですね。)	If the university is nearby, it would be good to go by bike.		Conditional
+イく	Present Positive Plain	イく	友達と遊びにイくんだ。	(ともだちとあそびにいくんだ。)	I'm going to play with my friends.	D3
+イく	Present Negative Plain	イかん	彼は今夜は家にイかん。	(かれはこんやはいえにいかん。)	He won't go home tonight.	D3
+イく	Present Positive Polite	イきます	私は明日、映画を見にイきます。	(わたしはあした、えいがをみにいきます。)	I will go see a movie tomorrow.	D3
+イく	Present Negative Polite	イきません	今晩は出かける予定はありませんので、イきません。	(こんばんはでかけるよていはありませんので、いきません。)	I won't go out tonight as I have no plans.	D3
+イく	Past Positive Plain	イった	先週、友達と遊びにイった。	(せんしゅう、ともだちとあそびにいった。)	I went to play with my friends last week.	D3
+イく	Past Negative Plain	イかんかった	彼は昨日、運動場にイかんかった。	(かれはきのう、うんどうじょうにいかんかった。)	He didn't go to the playground yesterday.	D3
+イく	Past Positive Polite	イきました	先月、旅行にイきました。	(せんげつ、りょこうにいきました。)	I went on a trip last month.	D3
+イく	Past Negative Polite	イきませんでした	その日は用事があって出かけませんでしたので、公園にイきませんでした。	(そのひはようじがあってでかけませんでしたので、こうえんにいきませんでした。)	I didn't go to the park that day as I had errands to run and didn't go out.	D3
+イく	-te Form	イって	ランチを食べにイってきます。	(らんちをたべにいってきます。)	I'm going to have lunch.	D3
+イく	Volitional	イこう	明日は海にイこう。	(あしたはうみにいこう。)	Let's go to the beach tomorrow.	D3
+イく	Potential	イける	彼は一人で旅行にイける。	(かれはひとりでりょこうにいける。)	He can go on a trip alone.	D3
+イく	Passive	イかれる	その噂は広まってイかれた。	(そのうわさはひろまっていかれた。)	The rumor spread widely.	D3
+イく	Causative	イかせる	彼は友達をパーティーにイかせる。	(かれはともだちをぱーてぃーにいかせる。)	He made his friends go to the party.	D3
+イく	Imperative	イけ	旅立ちの時だ、新たな世界にイけ！	(たびだちのときだ、あらたなせかいにいけ！)	It's time to depart, go to a new world!	D3
+イく	Conditional	イけば	もし天気が良ければ、散歩にイけばどうですか？	(もしてんきがよければ、さんぽにいけばどうですか？)	If the weather is good, how about going for a walk?	D3
+禁ずる	Present Positive Plain	禁ずる	この行為は法律で禁ずる。	(このこういはほうりつできんずる。)	This action is prohibited by law.	E1
+禁ずる	Present Negative Plain	禁ずられない	自由な表現が禁ずられない社会を望む。	(じゆうなひょうげんがきんずられないしゃかいをのぞむ。)	I hope for a society where free expression is not prohibited.	E1
+禁ずる	Present Positive Polite	禁ずります	この場所では喫煙を禁ずります。	(このばしょではきつえんをきんずります。)	Smoking is prohibited in this area.	E1
+禁ずる	Present Negative Polite	禁ずりません	ここでは写真撮影を禁ずりません。	(ここではしゃしんさつえいをきんずりません。)	Taking photos is not prohibited here.	E1
+禁ずる	Past Positive Plain	禁ずった	彼はルールを破った者を厳しく禁ずった。	(かれはるーるをやぶったものをきびしくきんずった。)	He strictly prohibited those who broke the rules.	E1
+禁ずる	Past Negative Plain	禁ずられなかった	彼女は感情を制御することが禁ずられなかった。	(かのじょはかんじょうをせいぎょすることがきんずられなかった。)	She couldn't control her emotions.	E1
+禁ずる	Past Positive Polite	禁ずりました	学校は携帯電話の使用を禁ずりました。	(がっこうはけいたいでんわのしようをきんずりました。)	The school prohibited the use of mobile phones.	E1
+禁ずる	Past Negative Polite	禁ずりませんでした	この地域では、昔から舞台公演が禁ずりませんでした。	(このちいきでは、むかしからぶたいこうえんがきんずりませんでした。)	In this area, stage performances have not been prohibited since ancient times.	E1
+禁ずる	-te Form	禁ずって	交通事故の増加を受けて、速度制限を禁ずっている。	(こうつうじこのぞうかをうけて、そくどせいげんをきんずっている。)	Speed limits have been imposed in response to the increase in traffic accidents.	E1
+禁ずる	Volitional	禁ずろう	この問題には早急に対策を禁ずろう。	(このもんだいにはそうきゅうにたいさくをきんずろう。)	Let's take immediate measures to address this issue.	E1
+禁ずる	Potential	禁ずれる	その行動は社会的に禁ずれるべきだ。	(そのこうどうはしゃかいてきにきんずれるべきだ。)	That behavior should be socially prohibited.	E1
+禁ずる	Passive	禁ずられる	この施設ではペットの持ち込みが禁ずられる。	(このしせつではぺっとのもちこんみがきんずられる。)	Bringing pets into this facility is prohibited.	E1
+禁ずる	Causative	禁ずらせる	上司は社員たちに私用のインターネットの使用を禁ずらせる。	(じょうしはしゃいんたちにしようのいんたーねっとのしようをきんずらせる。)	The boss prohibits employees from using the internet for personal reasons.	E1
+禁ずる	Imperative	禁ずれ	このエリアではゴミの投棄を禁ずれ！	(このえりあではごみのとうきをきんずれ！)	Prohibit littering in this area!	E1
+禁ずる	Conditional	禁ずれば	健康に害があるものは、食べることを禁ずればいい。	(けんこうにがいがあるものは、たべることをきんずればいい。)	If something is harmful to health, it's better to prohibit eating it.	E1
+信ずる	Present Positive Plain	信ずる	彼は自分の能力を信ずる。	(かれはじぶんののうりょくをしんずる。)	He believes in his abilities.	E2
+信ずる	Present Negative Plain	信じない	私はその話を信じない。	(わたしはそのはなしをしんじない。)	I don't believe that story.	E2
+信ずる	Present Positive Polite	信じます	彼女は彼の約束を信じます。	(かのじょはかれのやくそくをしんじます。)	She believes in his promises.	E2
+信ずる	Present Negative Polite	信じません	私たちはその情報を信じません。	(わたしたちはそのじょうほうをしんじません。)	We don't believe that information.	E2
+信ずる	Past Positive Plain	信じた	私は彼の言葉を信じた。	(わたしはかれのことばをしんじた。)	I believed his words.	E2
+信ずる	Past Negative Plain	信じなかった	彼は彼女の言葉を信じなかった。	(かれはかのじょのことばをしんじなかった。)	He didn't believe her words.	E2
+信ずる	Past Positive Polite	信じました	彼らは奇跡を信じました。	(かれらはきせきをしんじました。)	They believed in miracles.	E2
+信ずる	Past Negative Polite	信じませんでした	彼は彼の言葉を信じませんでした。	(かれはかれのことばをしんじませんでした。)	He didn't believe his words.	E2
+信ずる	-te Form	信じて	彼の言葉を信じて、行動しました。	(かれのことばをしんじて、こうどうしました。)	I acted believing his words.	E2
+信ずる	Volitional	信じよう	私たちは未来を信じよう。	(わたしたちはみらいをしんじよう。)	Let's believe in the future.	E2
+信ずる	Potential	信じられる	その話は本当だと信じられる。	(そのはなしはほんとうだとしんじられる。)	That story can be believed to be true.	E2
+信ずる	Passive	信じられる	この町では彼の言葉が信じられる。	(このまちではかれのことばがしんじられる。)	His words are believed in this town.	E2
+信ずる	Causative	信じさせる	両親は子供たちに夢を信じさせた。	(りょうしんはこどもたちにゆめをしんじさせた。)	The parents made their children believe in dreams.	E2
+信ずる	Imperative	信じろ	未来を信じろ！	(みらいをしんじろ！)	Believe in the future!	E2
+信ずる	Conditional	信じれば	もし彼が言ったことが本当なら、彼を信じればいい。	(もしあのこがいったことがほんとうなら、かれをしんじればいい。)	If what he said is true, then we should believe him.	E2
+命ずる	Present Positive Plain	命ずる	上司は即座に行動を命ずることがある。	(じょうしはそくざにこうどうをめいずることがある。)	The boss sometimes orders immediate action.	E3
+命ずる	Present Negative Plain	命ずらない	その問題について、特定の解決策を命ずらない。	(そのもんだいについて、とくていのかいけつさくをめいずらない。)	They don't mandate a specific solution to the problem.	E3
+命ずる	Present Positive Polite	命ずります	社長は新しい方針を命ずりました。	(しゃちょうはあたらしいほうしんをめいずりました。)	The president ordered a new policy.	E3
+命ずる	Present Negative Polite	命ずりません	上司はそれについて何も命ずりませんでした。	(じょうしはそれについてなにもめいずりませんでした。)	The boss didn't order anything about that.	E3
+命ずる	Past Positive Plain	命ずった	指揮官は撤退を命ずった。	(しきかんはてったいをめいずった。)	The commander ordered a retreat.	E3
+命ずる	Past Negative Plain	命ずらなかった	上司は何も命ずらなかった。	(じょうしはなにもめいずらなかった。)	The boss didn't order anything.	E3
+命ずる	Past Positive Polite	命ずりました	部長は緊急会議を命ずりました。	(ぶちょうはきんきゅうかいぎをめいずりました。)	The department head called for an emergency meeting.	E3
+命ずる	Past Negative Polite	命ずりませんでした	社長はその問題についての新たな方針を命ずりませんでした。	(しゃちょうはそのもんだいについてのあらたなほうしんをめいずりませんでした。)	The president didn't mandate a new policy regarding that issue.	E3
+命ずる	-te Form	命ずって	上司は改善を命ずっている。	(じょうしはかいぜんをめいずっている。)	The boss is ordering improvements.	E3
+命ずる	Volitional	命ずろう	新しい方針を命ずろう。	(あたらしいほうしんをめいずろう。)	Let's mandate a new policy.	E3
+命ずる	Potential	命ずれる	指示が命ずれるまで待とう。	(しじがめいずれるまでまとう。)	Let's wait until instructions are given.	E3
+命ずる	Passive	命ずられる	指示が部下によって命ずられた。	(しじがぶかによってめいずられた。)	Instructions were given by the subordinate.	E3
+命ずる	Causative	命ずらせる	上司は社員たちに新しい方針を命ずらせた。	(じょうしはしゃいんたちにあたらしいほうしんをめいずらせた。)	The boss had the employees implement a new policy.	E3
+命ずる	Imperative	命ずれ	今すぐ対策を命ずれ！	(いますぐたいさくをめいずれ！)	Order measures now!	E3
+命ずる	Conditional	命ずれば	もし指示があれば、すぐに行動を命ずればいい。	(もししじがあれば、すぐにこうどうをめいずればいい。)	If there are instructions, we should order action immediately.	E3
+泳ぐ	Present Positive Plain	泳ぐ	彼は毎朝プールで泳ぐ。	(かれはまいあさぷーるでおよぐ。)	He swims in the pool every morning.	F1
+泳ぐ	Present Negative Plain	泳がない	私は泳がない。	(わたしはおよがない。)	I don't swim.	F1
+泳ぐ	Present Positive Polite	泳ぎます	彼女は週末に海で泳ぎます。	(かのじょはしゅうまつにうみでおよぎます。)	She swims in the sea on weekends.	F1
+泳ぐ	Present Negative Polite	泳ぎません	私たちは寒い日には海で泳ぎません。	(わたしたちはさむいひにはうみでおよぎません。)	We don't swim in the sea on cold days.	F1
+泳ぐ	Past Positive Plain	泳いだ	昨日、彼らは川で泳いだ。	(きのう、かれらはかわでおよいだ。)	They swam in the river yesterday.	F1
+泳ぐ	Past Negative Plain	泳がなかった	子供の頃、彼は上手に泳がなかった。	(こどものころ、かれはじょうずにおよがなかった。)	He couldn't swim well when he was a child.	F1
+泳ぐ	Past Positive Polite	泳ぎました	先月、プールで泳ぎました。	(せんげつ、ぷーるでおよぎました。)	I swam in the pool last month.	F1
+泳ぐ	Past Negative Polite	泳ぎませんでした	その日は波が荒かったので、海で泳ぎませんでした。	(そのひはなみがあらかったので、うみでおよぎませんでした。)	I didn't swim in the sea that day because the waves were rough.	F1
+泳ぐ	-te Form	泳いで	湖で泳いで、気分がすっきりした。	(みずうみでおよいで、きぶんがすっきりした。)	I swam in the lake and felt refreshed.	F1
+泳ぐ	Volitional	泳ごう	明日は海で泳ごう。	(あしたはうみでおよごう。)	Let's swim in the sea tomorrow.	F1
+泳ぐ	Potential	泳げる	彼はとても速く泳げる。	(かれはとてもはやくおよげる。)	He can swim very fast.	F1
+泳ぐ	Passive	泳がれる	そのプールは毎日たくさんの人に泳がれる。	(そのぷーるはまいにちたくさんのひとにおよがれる。)	The pool is used by many people to swim every day.	F1
+泳ぐ	Causative	泳がせる	彼は子供たちに泳がせるのが好きだ。	(かれはこどもたちにおよがせるのがすきだ。)	He enjoys letting children swim.	F1
+泳ぐ	Imperative	泳げ	危険な水域には近づかずに泳げ！	(きけんなすいいきにはちかづかずにおよげ！)	Swim without approaching dangerous waters!	F1
+泳ぐ	Conditional	泳げば	もし泳げば、川で遊びましょう。	(もしおよげば、かわであそびましょう。)	If you can swim, let's play in the river.	F1
+次ぐ	Present Positive Plain	次ぐ	一つの成功は次ぐ成功を呼ぶ。	(ひとつのせいこうはつぎのせいこうをよぶ。)	One success leads to another.	F2
+次ぐ	Present Negative Plain	次がない	彼は今の状況に次がないと感じている。	(かれはいまのじょうきょうにつぎがないとかんじている。)	He feels there is no way forward in the current situation.	F2
+次ぐ	Present Positive Polite	次ぎます	この行動は問題を次ぎます。	(このこうどうはもんだいをつぎます。)	This action exacerbates the problem.	F2
+次ぐ	Present Negative Polite	次ぎません	この議論には進展が次ぎません。	(このぎろんにはしんてんがつぎません。)	There is no progress in this discussion.	F2
+次ぐ	Past Positive Plain	次いだ	前のステップを次いで、次の段階に進んだ。	(まえのすてっぷをついで、つぎのだんかいにすすんだ。)	Following the previous step, we moved on to the next stage.	F2
+次ぐ	Past Negative Plain	次がなかった	彼はチャンスが次がなかった。	(かれはちゃんすがつぎがなかった。)	He had no further opportunities.	F2
+次ぐ	Past Positive Polite	次ぎました	プロジェクトの次ぎる段階に移行しました。	(ぷろじぇくとのつぎるだんかいにいこうしました。)	We transitioned to the next phase of the project.	F2
+次ぐ	Past Negative Polite	次ぎませんでした	彼はその仕事に関心がなかったので、次ぎませんでした。	(かれはそのしごとにかんしんがなかったので、つぎませんでした。)	He wasn't interested in the job, so he didn't pursue it.	F2
+次ぐ	-te Form	次いで	一つの段落が終わると、次いで次の段落が始まる。	(ひとつのだんらくがおわると、ついでつぎのだんらくがはじまる。)	As one paragraph ends, the next paragraph begins.	F2
+次ぐ	Volitional	次ごう	この計画を成功に導くためには、一致団結して次ごう。	(このけいかくをせいこうにみちびくためには、いっちだんけつしてつぎごう。)	To lead this plan to success, let's unite and move forward together.	F2
+次ぐ	Potential	次げる	彼は次げる資質がある。	(かれはつげるしつしつがある。)	He has the ability to lead.	F2
+次ぐ	Passive	次がれる	新しいイベントが計画され、次がれる。	(あたらしいいべんとがけいかくされ、つぎがれる。)	A new event is planned and will be followed.	F2
+次ぐ	Causative	次がせる	彼は彼の部下にリーダーシップを発揮させ、次がせる。	(かれはかれのぶかにりーだーしっぷをはっきさせ、つぎがせる。)	He shows leadership to his subordinates and makes them follow.	F2
+次ぐ	Imperative	次げ	この目標に向かって進み、前進を次げ！	(このもくひょうにむかってすすみ、ぜんしんをつげ！)	Move towards this goal and keep advancing!	F2
+次ぐ	Conditional	次げば	もし機会があれば、新しいアイデアを次げばいい。	(もしきかいがあれば、あたらしいあいであをつげばいい。)	If there is an opportunity, it's good to bring up new ideas.	F2
+注ぐ	Present Positive Plain	注ぐ	コーヒーをカップに注ぐ。	(こーひーをかっぷにそそぐ。)	Pour coffee into a cup.	F3
+注ぐ	Present Negative Plain	注がない	涙は彼の目から注がない。	(なみだはかれのめからそがない。)	Tears don't flow from his eyes.	F3
+注ぐ	Present Positive Polite	注ぎます	ジュースをグラスに注ぎます。	(じゅーすをぐらすにそそぎます。)	I pour juice into a glass.	F3
+注ぐ	Present Negative Polite	注ぎません	この容器から水が注ぎません。	(このようきからみずがそそぎません。)	Water doesn't pour from this container.	F3
+注ぐ	Past Positive Plain	注いだ	ワインをグラスに注いだ。	(わいんをぐらすにそそいだ。)	Poured wine into a glass.	F3
+注ぐ	Past Negative Plain	注がなかった	彼の言葉に注意が注がなかった。	(かれのことばにちゅういがそがなかった。)	Attention wasn't paid to his words.	F3
+注ぐ	Past Positive Polite	注ぎました	ビールをジョッキに注ぎました。	(びーるをじょっきにそそぎました。)	Poured beer into a tankard.	F3
+注ぐ	Past Negative Polite	注ぎませんでした	彼はコーヒーをカップに注ぎませんでした。	(かれはこーひーをかっぷにそそぎませんでした。)	He didn't pour coffee into the cup.	F3
+注ぐ	-te Form	注いで	醤油を料理に注いでください。	(しょうゆをりょうりにそいでください。)	Please pour soy sauce onto the dish.	F3
+注ぐ	Volitional	注ごう	今夜は乾杯して、お酒をみんなに注ごう！	(こんやはかんぱいして、おさけをみんなにそごう！)	Let's cheers tonight and pour drinks for everyone!	F3
+注ぐ	Potential	注げる	このポットからお湯が注げるようになっています。	(このぽっとからおゆがそげるようになっています。)	Hot water can be poured from this pot.	F3
+注ぐ	Passive	注がれる	その花瓶には水が注がれている。	(そのかびんにはみずがそがれている。)	Water has been poured into the vase.	F3
+注ぐ	Causative	注がせる	子供たちにお茶をカップに注がせた。	(こどもたちにおちゃをかっぷにそがせた。)	Made the children pour tea into cups.	F3
+注ぐ	Imperative	注げ	ワインをグラスに注げ！	(わいんをぐらすにそげ！)	Pour wine into the glass!	F3
+注ぐ	Conditional	注げば	もしコーヒーをもう一度注げば、彼女は嬉しいだろう。	(もしこーひーをもういちどそげば、かのじょはうれしいだろう。)	If you pour coffee again, she will be happy.	F3
+死ぬ	Present Positive Plain	死ぬ	生きていれば、いつかは死ぬ。	(いきていれば、いつかはしぬ。)	If you live, someday you will die.	G1
+死ぬ	Present Negative Plain	死なない	彼は決して死なないだろう。	(かれはけっしてしなないだろう。)	He will never die.	G1
+死ぬ	Present Positive Polite	死にます	私の祖母は平和に死にます。	(わたしのそぼはへいわにしにます。)	My grandmother will peacefully pass away.	G1
+死ぬ	Present Negative Polite	死にません	その病気は治療すれば死にません。	(そのびょうきはちりょうすればしにません。)	The disease won't be fatal if treated.	G1
+死ぬ	Past Positive Plain	死んだ	彼は昨日死んだ。	(かれはきのうしんだ。)	He died yesterday.	G1
+死ぬ	Past Negative Plain	死ななかった	その事故で彼は死ななかった。	(そのじこでかれはしななかった。)	He didn't die in the accident.	G1
+死ぬ	Past Positive Polite	死にました	その俳優は映画の中で死にました。	(そのはいゆうはえいがのなかでしにました。)	The actor died in the movie.	G1
+死ぬ	Past Negative Polite	死にませんでした	その手術は成功して、患者は死にませんでした。	(そのしゅじゅつはせいこうして、かんじゃはしにませんでした。)	The surgery was successful, and the patient didn't die.	G1
+死ぬ	-te Form	死んで	勇敢な戦士は戦場で死んでいった。	(ゆうかんなせんしはせんじょうでしんでいった。)	The brave warrior died on the battlefield.	G1
+死ぬ	Volitional	死のう	もうこの苦しみから解放されるために死のう。	(もうこのくしみからかいほうされるためにしのう。)	Let's die to be freed from this suffering.	G1
+死ぬ	Potential	死ねる	彼は病気が重くてもまだ死ねると思います。	(かれはびょうきがおもくてもまだしねるとおもいます。)	I think he can still die even if the illness is severe.	G1
+死ぬ	Passive	死なれる	猫が道路で車に轢かれて死なれた。	(ねこがどうろでくるまにひかれてしなれた。)	The cat was hit by a car on the road and died.	G1
+死ぬ	Causative	死なせる	彼の行動が多くの人々を死なせた。	(かれのこうどうがおおくのひとびとをしなせた。)	His actions caused many people to die.	G1
+死ぬ	Imperative	死ね	危ない！ すぐに逃げろ！死ねる！	(あぶない！すぐににげろ！しねる！)	Dangerous! Run away quickly! You could die!	G1
+死ぬ	Conditional	死ねば	もし彼がそれを食べれば、死ねばいい。	(もしこれをたべれば、しねばいい。)	If he eats it, it's okay if he dies.	G1
+去ぬ	Present Positive Plain	去ぬ	彼はとうとうその仕事を去ぬことになった。	(かれはとうとうそのしごとをさることになった。)	He finally decided to leave that job.	G2
+去ぬ	Present Negative Plain	去らない	彼はまだその街を去らないでいる。	(かれはまだそのまちをさらないでいる。)	He is still staying in that town.	G2
+去ぬ	Present Positive Polite	去ります	明日、彼は新しい街に去ります。	(あした、かれはあたらしいまちにさります。)	He will leave for a new town tomorrow.	G2
+去ぬ	Present Negative Polite	去りません	なぜ彼はその会社を去りませんか。	(なぜかれはそのかいしゃをさりませんか。)	Why doesn't he leave that company?	G2
+去ぬ	Past Positive Plain	去った	彼は家族を置いて故郷を去った。	(かれはかぞくをおいてふるさとをさった。)	He left his family and hometown.	G2
+去ぬ	Past Negative Plain	去らなかった	彼は招待されたが、結局はそのパーティーには去らなかった。	(かれはしょうたいされたが、けっきょくはそのぱーてぃーにはさらなかった。)	He was invited, but in the end, he didn't go to the party.	G2
+去ぬ	Past Positive Polite	去りました	彼は突然、その場を去りました。	(かれはとつぜん、そのばをさりました。)	He suddenly left the scene.	G2
+去ぬ	Past Negative Polite	去りませんでした	私はその会議には招待されましたが、結局は参加しませんでした。	(わたしはそのかいぎにはしょうたいされましたが、けっきょくはさんかしませんでした。)	I was invited to the meeting, but in the end, I didn't attend.	G2
+去ぬ	-te Form	去って	彼は怒ってその場を去ってしまった。	(かれはおこってそのばをさってしまった。)	He got angry and left the scene.	G2
+去ぬ	Volitional	去ろう	この街から去ろうと決めた。	(このまちからさろうときめた。)	I decided to leave this town.	G2
+去ぬ	Potential	去れる	あの人はいつでも新しい仕事に行けれる。	(あのひとはいつでもあたらしいしごとにいけれる。)	That person can always find a new job.	G2
+去ぬ	Passive	去られる	彼は退職を迫られ、会社を去られた。	(かれはたいしょくをせまられ、かいしゃをさられた。)	He was forced to retire and left the company.	G2
+去ぬ	Causative	去らせる	彼女の行動は彼をその場を去らせた。	(かのじょのこうどうはかれをそのばをさらせた。)	Her actions made him leave the scene.	G2
+去ぬ	Imperative	去れ	この場を去れ！	(このばをされ！)	Leave this place!	G2
+去ぬ	Conditional	去れば	もし彼が納得すれば、彼女はすぐにでもこの会社を去ればいい。	(もしこれをたべれば、しねばいい。)	If he agrees, she should leave this company immediately.	G2
+往ぬ	Present Positive Plain	往ぬ	我々は希望に往ぬ。	(われわれはきぼうにいぬ。)	We proceed with hope.	G3
+往ぬ	Present Negative Plain	往かぬ	彼は決してその道を往かぬだろう。	(かれはけっしてそのみちをいかぬだろう。)	He will never go down that path.	G3
+往ぬ	Present Positive Polite	往きます	多くの人々が新しい未来に向かって往きます。	(おおくのひとびとがあたらしいみらいにむかっていきます。)	Many people are moving towards a new future.	G3
+往ぬ	Present Negative Polite	往きません	その問題はすぐに解決されないので、往きません。	(そのもんだいはすぐにかいけつされないので、いきません。)	The problem won't be resolved soon, so we won't proceed.	G3
+往ぬ	Past Positive Plain	往った	彼は故郷に往った。	(かれはこきょうにいった。)	He went back to his hometown.	G3
+往ぬ	Past Negative Plain	往かなかった	そのイベントには彼は往かなかった。	(そのいべんとにはかれはいかなかった。)	He didn't go to that event.	G3
+往ぬ	Past Positive Polite	往きました	彼は昨日、東京に往きました。	(かれはきのう、とうきょうにいきました。)	He went to Tokyo yesterday.	G3
+往ぬ	Past Negative Polite	往きませんでした	彼はその提案に賛成しなかったので、会議に往きませんでした。	(かれはそのていあんにさんせいしなかったので、かいぎにいきませんでした。)	He didn't agree with the proposal, so he didn't attend the meeting.	G3
+往ぬ	-te Form	往いて	パーティーに招待され、喜んで往いてきました。	(ぱーてぃーにしょうたいされ、よろこんでいってきました。)	I was invited to the party and happily went.	G3
+往ぬ	Volitional	往こう	この旅は未知の世界に向かって往こう。	(このたびはみちのせかいにむかっていこう。)	Let's head towards the unknown world on this journey.	G3
+往ぬ	Potential	往ける	彼はその任務を果たすだけの力があるかどうかわからないが、往けると思います。	(かれはそのにんむをはたすだけのちからがあるかどうかわからないが、いけるとおもいます。)	I'm not sure if he has the strength to fulfill the mission, but I think he can go.	G3
+往ぬ	Passive	往かれる	葬儀に多くの人々が故人を送るために往かれた。	(そうぎにおおくのひとびとがこじんをおくるためにいかれた。)	Many people attended the funeral to send off the deceased.	G3
+往ぬ	Causative	往かせる	その計画は多くの人々に新しい未来に向かって往かせる。	(そのけいかくはおおくのひとびとにあたらしいみらいにむかっていかせる。)	The plan will lead many people towards a new future.	G3
+往ぬ	Imperative	往け	恐れずに前に進んで往け！	(おそれずにまえにすすんでいけ！)	Go forward without fear!	G3
+往ぬ	Conditional	往けば	もし彼女がその町に行けば、彼は彼女を案内するだろう。	(もしこじょがそのまちにいけば、かれはかのじょをあんないするだろう。)	If she goes to that town, he will guide her.	G3
+来る	Present Positive Plain	来る	友達が今晩訪れる。	(ともだちがこんばんおとずれる。)	A friend is coming over tonight.	H1
+来る	Present Negative Plain	来ない	彼女はいつも時間通りに来ない。	(かのじょはいつもじかんどおりにこない。)	She never comes on time.	H1
+来る	Present Positive Polite	来ます	先週、彼は私の家に来ました。	(せんしゅう、かれはわたしのいえにきました。)	He came to my house last week.	H1
+来る	Present Negative Polite	来ません	彼は毎日遅れて学校に来ません。	(かれはまいにちおくれてがっこうにきません。)	He doesn't come to school late every day.	H1
+来る	Past Positive Plain	来た	彼は昨日、遅れて来た。	(かれはきのう、おくれてきた。)	He came late yesterday.	H1
+来る	Past Negative Plain	来なかった	彼女は約束の時間に来なかった。	(かのじょはやくそくのじかんにこなかった。)	She didn't come at the agreed time.	H1
+来る	Past Positive Polite	来ました	先週末、彼はパーティーに来ました。	(せんしゅうまつ、かれはぱーてぃーにきました。)	He came to the party last weekend.	H1
+来る	Past Negative Polite	来ませんでした	彼はそのプロジェクトに関心を示さず、会議に来ませんでした。	(かれはそのぷろじぇくとにかんしんをしめさず、かいぎにきませんでした。)	He didn't show interest in the project and didn't come to the meeting.	H1
+来る	-te Form	来て	彼は私の家に遊びに来ています。	(かれはわたしのいえにあそびにきています。)	He is coming over to my house to hang out.	H1
+来る	Volitional	来よう	明日、公園でピクニックしに来よう！	(あした、こうえんでぴくにっくしにこよう！)	Let's come to the park for a picnic tomorrow!	H1
+来る	Potential	来られる	彼は今日は忙しいので、来られないかもしれません。	(かれはきょうはいそがしいので、こられないかもしれません。)	He might not be able to come today because he's busy.	H1
+来る	Passive	来られる	このイベントには多くの人が来られるだろう。	(このいべんとにはおおくのひとがこられるだろう。)	Many people will come to this event.	H1
+来る	Causative	来させる	私は友達をパーティーに来させた。	(わたしはともだちをぱーてぃーにきさせた。)	I made my friend come to the party.	H1
+来る	Imperative	来い	早く来い！	(はやくこい！)	Come quickly!	H1
+来る	Conditional	来れば	もし彼が時間があれば、明日の会議に来ればいい。	(もしこじょがじかんがあれば、あしたのかいぎにきればいい。)	If he has time, he should come to tomorrow's meeting.	H1
+連れて来る	Present Positive Plain	連れて来る	彼は犬を公園に連れて来る。	(かれはいぬをこうえんにつれてくる。)	He brings his dog to the park.	H2
+連れて来る	Present Negative Plain	連れて来ない	なぜ彼は友達をパーティーに連れて来ないのか。	(なぜかれはともだちをぱーてぃーにつれてこないのか。)	Why doesn't he bring his friend to the party?	H2
+連れて来る	Present Positive Polite	連れて来ます	先生がクラスに新しい生徒を連れて来ます。	(せんせいがくらすにあたらしいせいとをつれてきます。)	The teacher brings a new student to the class.	H2
+連れて来る	Present Negative Polite	連れて来ません	彼は今日、子供たちを学校に連れて来ませんでした。	(かれはきょう、こどもたちをがっこうにつれてきませんでした。)	He didn't bring the kids to school today.	H2
+連れて来る	Past Positive Plain	連れて来た	彼は妹を映画館に連れて来た。	(かれはいもうとをえいがかんにつれてきた。)	He brought his sister to the movie theater.	H2
+連れて来る	Past Negative Plain	連れて来なかった	彼女は約束の場所に私を連れて来なかった。	(かのじょはやくそくのばしょにわたしをつれてこなかった。)	She didn't bring me to the agreed place.	H2
+連れて来る	Past Positive Polite	連れて来ました	彼は先週、私たちを美しい湖に連れて来ました。	(かれはせんしゅう、わたしたちをうつくしいみずうみにつれてきました。)	He brought us to a beautiful lake last week.	H2
+連れて来る	Past Negative Polite	連れて来ませんでした	彼らは約束の時間に遅れて連れて来ませんでした。	(かれらはやくそくのじかんにおくれてつれてきませんでした。)	They didn't bring him over at the agreed time.	H2
+連れて来る	-te Form	連れて来て	彼女は犬を公園に連れて来ています。	(かのじょはいぬをこうえんにつれてきています。)	She is bringing her dog to the park.	H2
+連れて来る	Volitional	連れて来よう	今度の旅行で彼らを美しい場所に連れて来よう。	(こんどのりょこうでかれらをうつくしいばしょにつれてこよう。)	Let's bring them to a beautiful place on this trip.	H2
+連れて来る	Potential	連れて来られる	この犬は子供たちに連れて来られる。	(このいぬはこどもたちにつれてこられる。)	This dog can be brought by the children.	H2
+連れて来る	Passive	連れて来られる	明日、私たちは友達に新しいレストランに連れて来られる。	(あした、わたしたちはともだちにあたらしいれすとらんにつれてこられる。)	Tomorrow, we will be brought to a new restaurant by our friend.	H2
+連れて来る	Causative	連れて来させる	今夜、私は彼をパーティーに連れて来させるつもりです。	(こんや、わたしはかれをぱーてぃーにつれてこさせるつもりです。)	Tonight, I intend to bring him to the party.	H2
+連れて来る	Imperative	連れて来い	犬を散歩に連れて来い。	(いぬをさんぽにつれてこい。)	Bring the dog for a walk.	H2
+連れて来る	Conditional	連れて来れば	もし彼が遅れれば、彼女は犬を連れて来ればいい。	(もしこれがおくれれば、かのじょはいぬをつれてこればいい。)	If he is late, she should bring the dog.	H2
+有る	Present Positive Plain	有る	公園には多くの木が有る。	(こうえんにはおおくのきがある。)	There are many trees in the park.	I1
+有る	Present Negative Plain	有らない	この地域には地下鉄が有らない。	(このちいきにはちかてつがあらない。)	There is no subway in this area.	I1
+有る	Present Positive Polite	有ります	この街には新しいレストランが有りますか。	(このまちにはあたらしいれすとらんがありますか。)	Is there a new restaurant in this town?	I1
+有る	Present Negative Polite	有りません	彼女の家にはペットが有りません。	(かのじょのいえにはぺっとがありません。)	There are no pets in her house.	I1
+有る	Past Positive Plain	有った	昨日、ここには人が多かった。	(きのう、ここにはひとがおおかった。)	There were many people here yesterday.	I1
+有る	Past Negative Plain	有らなかった	その町には電車が有らなかった。	(そのまちにはでんしゃがあらなかった。)	There was no train in that town.	I1
+有る	Past Positive Polite	有りました	先週、私の友達がここにいた時、雨が有りました。	(せんしゅう、わたしのともだちがここにいたとき、あめがありました。)	It was raining when my friend was here last week.	I1
+有る	Past Negative Polite	有りませんでした	その会議には多くの人が期待されましたが、実際には少ない人が参加有りませんでした。	(そのかいぎにはおおくのひとがきたいされましたが、じっさいにはすくないひとがさんかありませんでした。)	Many people were expected at the meeting, but actually few people attended.	I1
+有る	-te Form	有って	彼の家にはプールが有って、庭が広いです。	(かれのいえにはぷーるがあって、にわがひろいです。)	His house has a pool, and the garden is spacious.	I1
+有る	Volitional	有ろう	新しいプロジェクトが成功するといいですね、多くの仕事が有ろう。	(あたらしいぷろじぇくとがせいこうするといいですね、おおくのしごとがあろう。)	I hope the new project succeeds, and there will be plenty of work.	I1
+有る	Potential	有れる	彼はその任務を果たすだけの能力があれば、成功するだろう。	(かれはそのにんむをはたすだけののうりょくがあれば、せいこうするだろう。)	If he has the ability to fulfill the mission, he will succeed.	I1
+有る	Passive	有られる	その地域には多くの問題が有られている。	(そのちいきにはおおくのもんだいがあります。)	There are many problems in that area.	I1
+有る	Causative	有らせる	彼の努力が新しいアイデアを生み出し、多くの機会を有らせる。	(かれのどりょくがあたらしいあいであをうみだし、おおくのきかいをあります。)	His efforts generate new ideas and create many opportunities.	I1
+有る	Imperative	有れ	このプロジェクトの成功には、皆の協力が有れ！	(このぷろじぇくとのせいこうには、みんなのきょうりょくがあり！)	We need everyone's cooperation for the success of this project!	I1
+有る	Conditional	有れば	もし彼がその計画に参加するなら、彼の才能が有れば大きな貢献をするだろう。	(もしこじょがそのけいかくにさんかするなら、かれのさいのうがあればおおきなこうけんをするだろう。)	If he participates in the plan, his talent will make a significant contribution if he has it.	I1
+書く	Present Positive Plain	書く	彼女は毎日日記を書く。	(かのじょはまいにちにっきをかく。)	She writes in her diary every day.	J1
+書く	Present Negative Plain	書かない	彼は手紙を書かない。	(かれはてがみをかかない。)	He doesn't write letters.	J1
+書く	Present Positive Polite	書きます	先生が宿題の課題を書きます。	(せんせいがしゅくだいのかだいをかきます。)	The teacher writes homework assignments.	J1
+書く	Present Negative Polite	書きません	私は彼に手紙を書きません。	(わたしはかれにてがみをかきません。)	I don't write letters to him.	J1
+書く	Past Positive Plain	書いた	昨日、詩を書いた。	(きのう、しをかいた。)	I wrote a poem yesterday.	J1
+書く	Past Negative Plain	書かなかった	彼女はレポートを書かなかった。	(かのじょはれぽーとをかかなかった。)	She didn't write the report.	J1
+書く	Past Positive Polite	書きました	先週、私は手紙を書きました。	(せんしゅう、わたしはてがみをかきました。)	I wrote a letter last week.	J1
+書く	Past Negative Polite	書きませんでした	彼は誕生日カードを書きませんでした。	(かれはたんじょうびかーどをかきませんでした。)	He didn't write a birthday card.	J1
+書く	-te Form	書いて	彼は本を読んで、レポートを書いています。	(かれはほんをよんで、れぽーとをかいています。)	He is reading a book and writing a report.	J1
+書く	Volitional	書こう	今日はたくさん宿題を片付けて、新しい物語を書こう。	(きょうはたくさんしゅくだいをかたづけて、あたらしいものがたりをかこう。)	Let's finish a lot of homework today and write a new story.	J1
+書く	Potential	書ける	彼女は速く手紙を書ける。	(かのじょははやくてがみをかける。)	She can write letters quickly.	J1
+書く	Passive	書かれる	その小説は著者によって書かれました。	(そのしょうせつはちょしゃによってかかれました。)	The novel was written by the author.	J1
+書く	Causative	書かせる	先生は生徒にレポートを書かせます。	(せんせいはせいとにれぽーとをかかせます。)	The teacher makes the students write reports.	J1
+書く	Imperative	書け	宿題を早く書け！	(しゅくだいをはやくかけ！)	Write your homework quickly!	J1
+書く	Conditional	書けば	もし彼が手紙を書けば、私は返信します。	(もしこじょがてがみをかけば、わたしはへんしんします。)	If he writes a letter, I will reply.	J1
+聞く	Present Positive Plain	聞く	彼はよく音楽を聞く。	(かれはよくおんがくをきく。)	He often listens to music.	J2
+聞く	Present Negative Plain	聞かない	彼は先生の話を聞かない。	(かれはせんせいのはなしをきかない。)	He doesn't listen to the teacher's story.	J2
+聞く	Present Positive Polite	聞きます	彼女は毎晩ラジオを聞きます。	(かのじょはまいばんらじおをききます。)	She listens to the radio every night.	J2
+聞く	Present Negative Polite	聞きません	私はそのニュースを聞きませんでした。	(わたしはそのにゅーすをききませんでした。)	I didn't listen to the news.	J2
+聞く	Past Positive Plain	聞いた	彼は昨日、その話を聞いた。	(かれはきのう、そのはなしをきいた。)	He heard the story yesterday.	J2
+聞く	Past Negative Plain	聞かなかった	私は彼の話を聞かなかった。	(わたしはかれのはなしをきかなかった。)	I didn't hear his story.	J2
+聞く	Past Positive Polite	聞きました	先週、会議で興味深い話を聞きました。	(せんしゅう、かいぎできょうみぶかいはなしをききました。)	I heard an interesting story at the meeting last week.	J2
+聞く	Past Negative Polite	聞きませんでした	彼は先生の指示を聞きませんでした。	(かれはせんせいのしじをききませんでした。)	He didn't listen to the teacher's instructions.	J2
+聞く	-te Form	聞いて	彼は私の相談を聞いてくれました。	(かれはわたしのそうだんをきいてくれました。)	He listened to my consultation.	J2
+聞く	Volitional	聞こう	もっと意見を聞こう！	(もっといけんをきこう！)	Let's listen to more opinions!	J2
+聞く	Potential	聞ける	彼は遠くの音も聞ける。	(かれはとおくのおともきける。)	He can hear even distant sounds.	J2
+聞く	Passive	聞かれる	その質問は多くの人によって聞かれました。	(そのしつもんはおおくのひとによってきかれました。)	The question was asked by many people.	J2
+聞く	Causative	聞かせる	私は彼に音楽を聞かせました。	(わたしはかれにおんがくをきかせました。)	I made him listen to the music.	J2
+聞く	Imperative	聞け	彼の忠告を聞け！	(かれのちゅうこくをきけ！)	Listen to his advice!	J2
+聞く	Conditional	聞けば	もし彼が言うことを聞けば、うまくいくだろう。	(もしこじょがいうことをきけば、うまくいくだろう。)	If you listen to what he says, it will go well.	J2
+置く	Present Positive Plain	置く	毎晩、彼は机に本を置く。	(まいばん、かれはつくえにほんをおく。)	Every night, he puts books on the desk.	J3
+置く	Present Negative Plain	置かない	私は決して財布を机の上に置かない。	(わたしはけっしてさいふをつくえのうえにおかない。)	I never put my wallet on the desk.	J3
+置く	Present Positive Polite	置きます	先生は学生の机の上に課題を置きます。	(せんせいはがくせいのつくえのうえにかだいをおきます。)	The teacher puts assignments on the students' desks.	J3
+置く	Present Negative Polite	置きません	彼はいつも靴を玄関に置きません。	(かれはいつもくつをげんかんにおきません。)	He never puts his shoes in the hallway.	J3
+置く	Past Positive Plain	置いた	彼は昨日、花瓶を机の上に置いた。	(かれはきのう、かびんをつくえのうえにおいた。)	He put a vase on the desk yesterday.	J3
+置く	Past Negative Plain	置かなかった	彼女は帽子をその場所に置かなかった。	(かのじょはぼうしをそのばしょにおかなかった。)	She didn't put her hat in that place.	J3
+置く	Past Positive Polite	置きました	私は昨日、彼の荷物を机の下に置きました。	(わたしはきのう、かれのにもつをつくえのしたにおきました。)	I put his luggage under the desk yesterday.	J3
+置く	Past Negative Polite	置きませんでした	彼は忘れ物を玄関に置きませんでした。	(かれはわすれものをげんかんにおきませんでした。)	He didn't put the forgotten item in the hallway.	J3
+置く	-te Form	置いて	彼女はカギをテーブルの上に置いて出かけました。	(かのじょはかぎをてーぶるのうえにおいてでかけました。)	She put the keys on the table and left.	J3
+置く	Volitional	置こう	家具を新しい配置に置こう！	(かぐをあたらしいはいちにおこう！)	Let's put the furniture in a new arrangement!	J3
+置く	Potential	置ける	その箱は大きすぎて、机の上に置けません。	(そのはこはおおきすぎて、つくえのうえにおけません。)	The box is too big to put on the desk.	J3
+置く	Passive	置かれる	その問題は重要な場所に置かれました。	(そのもんだいはじゅうようなばしょにおかれました。)	The problem was placed in an important position.	J3
+置く	Causative	置かせる	私は彼に机の上にコーヒーカップを置かせた。	(わたしはかれにつくえのうえにこーひーかっぷをおかせた。)	I made him put the coffee cup on the desk.	J3
+置く	Imperative	置け	その荷物をここに置け！	(そのにもつをここにおけ！)	Put the luggage here!	J3
+置く	Conditional	置けば	もし彼が椅子に荷物を置けば、場所が空くだろう。	(もしこじょがいすににもつをおけば、ばしょがあくだろう。)	If he puts the luggage on the chair, space will become available.	J3
+接する	Present Positive Plain	接する	彼は新しい人に友好的に接する。	(かれはあたらしいひとにゆうこうてきにせっする。)	He interacts with new people in a friendly manner.	K1
+接する	Present Negative Plain	接しない	その問題には直接接しない方がいいかもしれません。	(そのもんだいにはちょくせつせっしないほうがいいかもしれません。)	It might be better not to directly deal with that issue.	K1
+接する	Present Positive Polite	接します	私たちは顧客と親しく接します。	(わたしたちはこきゃくとしたしくせっします。)	We interact closely with customers.	K1
+接する	Present Negative Polite	接しません	社長は一般の従業員とはあまり接しません。	(しゃちょうはいっぱんのじゅうぎょういんとはあまりせっしません。)	The president doesn't interact much with ordinary employees.	K1
+接する	Past Positive Plain	接した	昨日、彼は重要なクライアントと接した。	(きのう、かれはじゅうようなくらいあんとせっした。)	He interacted with an important client yesterday.	K1
+接する	Past Negative Plain	接しなかった	彼女はその問題に直接接しなかった。	(かのじょはそのもんだいにちょくせつせっしなかった。)	She didn't directly deal with that issue.	K1
+接する	Past Positive Polite	接しました	先週、私たちは外国のビジネスパートナーと接しました。	(せんしゅう、わたしたちはがいこくのびじねすぱーとなーとせっしました。)	Last week, we interacted with foreign business partners.	K1
+接する	Past Negative Polite	接しませんでした	社員はその案件について報告書を書きましたが、役員はそれに接しませんでした。	(しゃいんはそのあんけんについてほうこくしょをかきましたが、やくいんはそれにせっしませんでした。)	The employee wrote a report about the matter, but the executives did not deal with it.	K1
+接する	-te Form	接して	彼は礼儀正しく相手に接しています。	(かれはれいぎただしくあいてにせっしています。)	He is politely interacting with the other party.	K1
+接する	Volitional	接しよう	新しいチームメンバーと一緒に仕事を楽しみながら接しよう！	(あたらしいちーむめんばーといっしょにしごとをたのしみながらせっしよう！)	Let's interact with the new team members while enjoying our work!	K1
+接する	Potential	接できる	彼は状況に応じて上手に人々と接できる。	(かれはじょうきょうにおうじてうまくひとびととせっできる。)	He can interact well with people depending on the situation.	K1
+接する	Passive	接される	その提案は関係者から良く接された。	(そのていあんはかんけいしゃからよくせっされた。)	The proposal was well received by the stakeholders.	K1
+接する	Causative	接させる	私は彼にクライアントと直接接させます。	(わたしはかれにくらいあんとちょくせつせっさせます。)	I will have him directly deal with the clients.	K1
+接する	Imperative	接せよ	すぐに問題に接せよ！	(すぐにもんだいにせっせよ！)	Deal with the problem immediately!	K1
+接する	Conditional	接すれば	もし彼女が彼を信頼すれば、彼はもっと協力的に接すればいい。	(もしこじょがかれをしんらいすれば、かれはもっときょうりょくてきにせっすればいい。)	If she trusts him, he should interact more cooperatively.	K1
+発する	Present Positive Plain	発する	そのグループは声明を発する。	(そのぐるーぷはせいめいをはっする。)	The group issues a statement.	K2
+発する	Present Negative Plain	発しない	彼は意見を発しないことが多い。	(かれはいけんをはっしないことがおおい。)	He often doesn't express his opinions.	K2
+発する	Present Positive Polite	発します	会議で新しいアイデアを発します。	(かいぎであたらしいあいであをはっします。)	We present new ideas at the meeting.	K2
+発する	Present Negative Polite	発しません	彼女は公の場で感情を発しません。	(かのじょはおおやけのばでかんじょうをはっしません。)	She doesn't show emotions in public.	K2
+発する	Past Positive Plain	発した	その会議で意見を発した。	(そのかいぎでいけんをはっした。)	He expressed his opinion at the meeting.	K2
+発する	Past Negative Plain	発さなかった	彼はその件について何も発さなかった。	(かれはそのけんについてなにもはっさなかった。)	He didn't say anything about that matter.	K2
+発する	Past Positive Polite	発しました	彼は重要な声明を発しました。	(かれはじゅうようなせいめいをはっしました。)	He issued an important statement.	K2
+発する	Past Negative Polite	発しませんでした	彼らはその問題について議論を発しませんでした。	(かれらはそのもんだいについてぎろんをはっしませんでした。)	They didn't discuss the issue.	K2
+発する	-te Form	発して	彼は音声メッセージを発しています。	(かれはおんせいメッセージをはっしています。)	He is sending a voice message.	K2
+発する	Volitional	発そう	新しいプロジェクトのアイデアを発そう！	(あたらしいぷろじぇくとのあいであをはっそう！)	Let's come up with ideas for the new project!	K2
+発する	Potential	発できる	彼女は緊張せずに意見を発できる。	(かのじょはきんちょうせずにいけんをはつできる。)	She can express her opinions without feeling nervous.	K2
+発する	Passive	発される	そのニュースは広く報道され、注目を集めました。	(そのにゅーすはひろくほうどうされ、ちゅうもくをあつめました。)	The news was widely reported and attracted attention.	K2
+発する	Causative	発させる	私は彼に提案を発させます。	(わたしはかれにていあんをはっさせます。)	I will make him propose.	K2
+発する	Imperative	発せよ	その問題について議論を発せよ！	(そのもんだいについてぎろんをはっせよ！)	Let's discuss the issue!	K2
+発する	Conditional	発すれば	もし彼が意見を発すれば、私たちはそれに対処する必要があります。	(もしこじょがいけんをはっすれば、わたしたちはそれにたいしょするひつようがあります。)	If he expresses his opinion, we need to address it.	K2
+罰する	Present Positive Plain	罰する	法律に従わない者を罰する。	(ほうりつにしたがわないものをばっする。)	Punish those who do not obey the law.	K3
+罰する	Present Negative Plain	罰しない	彼は間違いを犯しても自分を罰しない。	(かれはまちがいをおかしてもじぶんをばっしない。)	He doesn't punish himself even when he makes mistakes.	K3
+罰する	Present Positive Polite	罰します	学校ではルールを破った生徒を罰します。	(がっこうではるーるをやぶったせいとをばっします。)	The school punishes students who break the rules.	K3
+罰する	Present Negative Polite	罰しません	彼女は子供たちを厳しく罰しません。	(かのじょはこどもたちをきびしくばっしません。)	She does not punish the children severely.	K3
+罰する	Past Positive Plain	罰した	彼は悪い行為をした者を罰した。	(かれはわるいこういをしたものをばっした。)	He punished those who did wrong.	K3
+罰する	Past Negative Plain	罰さなかった	規則違反をしたが、彼は罰さなかった。	(きそくいはんをしたが、かれはばっさなかった。)	He didn't punish despite the rule violation.	K3
+罰する	Past Positive Polite	罰しました	先週、彼らは問題を起こした従業員を罰しました。	(せんしゅう、かれらはもんだいをおこしたじゅうぎょういんをばっしました。)	Last week, they punished the employee who caused the problem.	K3
+罰する	Past Negative Polite	罰しませんでした	会社は一部の社員を罰しませんでした。	(かいしゃはいちぶのしゃいんをばっしませんでした。)	The company did not punish some employees.	K3
+罰する	-te Form	罰して	規則を破った学生を罰しています。	(きそくをやぶったがくせいをばっしています。)	They are punishing students who broke the rules.	K3
+罰する	Volitional	罰そう	私たちはルールを守らない者たちを罰そう！	(わたしたちはるーるをまもらないものたちをばっそう！)	Let's punish those who do not follow the rules!	K3
+罰する	Potential	罰できる	その先生は生徒を厳しく罰できる。	(そのせんせいはせいとをきびしくばっできる。)	The teacher can punish the students severely.	K3
+罰する	Passive	罰される	彼はルール違反が発覚し、罰された。	(かれはるーるいはんがはっかくし、ばっされた。)	He was caught breaking the rules and punished.	K3
+罰する	Causative	罰させる	私は彼にその行動の結果を受け入れさせ、罰させるつもりです。	(わたしはかれにそのこうどうのけっかをうけいれさせ、ばっさせるつもりです。)	I intend to make him accept the consequences of his actions and punish him.	K3
+罰する	Imperative	罰せよ	違反者を厳しく罰せよ！	(いはんしゃをきびしくばっせよ！)	Punish the violators severely!	K3
+罰する	Conditional	罰すれば	もし規則を破ったならば、罰すればいい。	(もしきそくをやぶったならば、ばっすればいい。)	If you break the rules, you should be punished.	K3
+指す	Present Positive Plain	指す	彼は地図で目的地を指す。	(かれはちずでもくてきちをさす。)	He points to the destination on the map.	L1
+指す	Present Negative Plain	指さない	彼女は決して他人を指さない。	(かのじょはけっしてたにんをささない。)	She never points at others.	L1
+指す	Present Positive Polite	指します	ツアーガイドは興味深い場所を指します。	(つあーがいどはきょうみぶかいばしょをさします。)	The tour guide points out interesting places.	L1
+指す	Present Negative Polite	指しません	彼は周囲の人々を指しませんでした。	(かれはしゅういのひとびとをさしませんでした。)	He didn't point at the people around him.	L1
+指す	Past Positive Plain	指した	私は地図で彼に道を指した。	(わたしはちずでかれにみちをさした。)	I pointed him the way on the map.	L1
+指す	Past Negative Plain	指さなかった	彼らは正しい方向を指さなかった。	(かれらはただしいほうこうをささなかった。)	They didn't point in the right direction.	L1
+指す	Past Positive Polite	指しました	先生は私たちに正解を指しました。	(せんせいはわたしたちにせいかいをさしました。)	The teacher pointed out the correct answer to us.	L1
+指す	Past Negative Polite	指しませんでした	彼はその場所を指しませんでした。	(かれはそのばしょをさしませんでした。)	He didn't point at the place.	L1
+指す	-te Form	指して	彼は遠くの山を指して話しました。	(かれはとおくのやまをさしてはなしました。)	He pointed to the distant mountain as he spoke.	L1
+指す	Volitional	指そう	この方向を指そう！	(このほうこうをさそう！)	Let's point in this direction!	L1
+指す	Potential	指せる	彼は遠くの星を指せる。	(かれはとおくのほしをさせる。)	He can point to the distant stars.	L1
+指す	Passive	指される	私の名前が指されていた。	(わたしのなまえがさされていた。)	My name was mentioned.	L1
+指す	Causative	指させる	彼は私にその建物を指させた。	(かれはわたしにそのたてものをささせた。)	He made me point to the building.	L1
+指す	Imperative	指せ	彼女の方を指せ！	(かのじょのほうをさせ！)	Point to her!	L1
+指す	Conditional	指せば	もし彼が正しい方向を指せば、私たちは進むことができるだろう。	(もしこじょがただしいほうこうをさせば、わたしたちはすすむことができるだろう。)	If he points in the right direction, we will be able to proceed.	L1
+話す	Present Positive Plain	話す	彼は流暢に日本語を話す。	(かれはりゅうちょうににほんごをはなす。)	He speaks Japanese fluently.	L2
+話す	Present Negative Plain	話さない	彼女は知らないことについては話さない。	(かのじょはしらないことについてははなさない。)	She doesn't talk about things she doesn't know.	L2
+話す	Present Positive Polite	話します	先生は生徒たちに物語を話します。	(せんせいはせいとたちにものがたりをはなします。)	The teacher tells stories to the students.	L2
+話す	Present Negative Polite	話しません	彼は人前で自分のプライベートなことを話しません。	(かれはひとまえでじぶんのぷらいべーとなことをはなしません。)	He doesn't talk about his private matters in public.	L2
+話す	Past Positive Plain	話した	昨日、彼女は私に秘密を話した。	(きのう、かのじょはわたしにひみつをはなした。)	Yesterday, she told me a secret.	L2
+話す	Past Negative Plain	話さなかった	私は彼に何が起こったか話さなかった。	(わたしはかれになにがおこったかはなさなかった。)	I didn't tell him what happened.	L2
+話す	Past Positive Polite	話しました	彼は昨日、その事件について警察に話しました。	(かれはきのう、そのじけんについてけいさつにはなしました。)	He spoke to the police about the incident yesterday.	L2
+話す	Past Negative Polite	話しませんでした	彼らはその問題について何も話しませんでした。	(かれらはそのもんだいについてなにもはなしませんでした。)	They didn't talk about the issue at all.	L2
+話す	-te Form	話して	彼は電話で友達と話しています。	(かれはでんわでともだちとはなしています。)	He is talking to his friend on the phone.	L2
+話す	Volitional	話そう	新しいプロジェクトについて意見を話そう！	(あたらしいぷろじぇくとについていけんをはなそう！)	Let's share opinions about the new project!	L2
+話す	Potential	話せる	彼女は英語を流暢に話せる。	(かのじょはえいごをりゅうちょうにはなせる。)	She can speak English fluently.	L2
+話す	Passive	話される	私のことが話されていた。	(わたしのことがはなされていた。)	They were talking about me.	L2
+話す	Causative	話させる	彼は彼女に自分の気持ちを話させました。	(かれはかのじょにじぶんのきもちをはなさせました。)	He made her talk about her feelings.	L2
+話す	Imperative	話せ	問題があれば、すぐに話せ！	(もんだいがあれば、すぐにはなせ！)	Speak up if there's a problem!	L2
+話す	Conditional	話せば	もし彼が本当のことを話せば、私たちは彼を信じるでしょう。	(もしこじょがほんとうのことをはなせば、わたしたちはかれをしんじるでしょう。)	If he tells the truth, we will believe him.	L2
+示す	Present Positive Plain	示す	数字で答えを示す。	(すうじでこたえをしめす。)	Show the answer with numbers.	L3
+示す	Present Negative Plain	示さない	彼は感情を示さない。	(かれはかんじょうをしめさない。)	He doesn't show his emotions.	L3
+示す	Present Positive Polite	示します	説明書が正しい使用方法を示します。	(せつめいしょがただしいしようほうほうをしめします。)	The manual shows the correct usage.	L3
+示す	Present Negative Polite	示しません	私はその行動で彼の本当の意図を示しませんでした。	(わたしはそのこうどうでかれのほんとうのいとをしめませんでした。)	I didn't show his true intentions with that action.	L3
+示す	Past Positive Plain	示した	彼は写真で証拠を示した。	(かれはしゃしんでしょうこをしめした。)	He showed evidence in the photo.	L3
+示す	Past Negative Plain	示さなかった	彼女はその事実を示さなかった。	(かのじょはそのじじつをしめさなかった。)	She didn't show the fact.	L3
+示す	Past Positive Polite	示しました	私たちはグラフで結果を示しました。	(わたしたちはぐらふでけっかをしめました。)	We showed the results on the graph.	L3
+示す	Past Negative Polite	示しませんでした	その報告書は問題の原因を示しませんでした。	(そのほうこくしょはもんだいのげんいんをしめませんでした。)	The report did not indicate the cause of the problem.	L3
+示す	-te Form	示して	この図表はデータを示しています。	(このずひょうはデータをしめしています。)	This chart shows the data.	L3
+示す	Volitional	示そう	会議で新しいアイデアを示そう！	(かいぎであたらしいあいであをしめそう！)	Let's present new ideas at the meeting!	L3
+示す	Potential	示せる	彼は物理的な証拠を示せる。	(かれはぶつりてきなしょうこをしめせる。)	He can present physical evidence.	L3
+示す	Passive	示される	その写真は証拠として裁判で示された。	(そのしゃしんはしょうことしてさいばんでしめされた。)	The photo was presented as evidence in court.	L3
+示す	Causative	示させる	私は彼に手順を再度示させました。	(わたしはかれにてじゅんをさいどしめさせました。)	I made him show the procedure again.	L3
+示す	Imperative	示せ	この実験結果を示せ！	(このじっけんけっかをしめせ！)	Show the results of this experiment!	L3
+示す	Conditional	示せば	もし彼女が証拠を示せば、私たちは彼女を信じるだろう。	(もしこじょがしょうこをしめせば、わたしたちはかのじょをしんじるだろう。)	If she shows the evidence, we will believe her.	L3
+愛する	Present Positive Plain	愛する	彼は彼女を愛する。	(かれはかのじょをあいする。)	He loves her.	M1
+愛する	Present Negative Plain	愛さない	彼女はその男性を愛さない。	(かのじょはそのだんせいをあいさない。)	She doesn't love the man.	M1
+愛する	Present Positive Polite	愛します	私は家族を愛します。	(わたしはかぞくをあいします。)	I love my family.	M1
+愛する	Present Negative Polite	愛しません	彼は自分自身を愛しません。	(かれはじぶんじしんをあいしません。)	He doesn't love himself.	M1
+愛する	Past Positive Plain	愛した	彼は過去にその女性を愛した。	(かれはかこにそのじょせいをあいした。)	He loved the woman in the past.	M1
+愛する	Past Negative Plain	愛さなかった	彼女はその犬を愛さなかった。	(かのじょはそのいぬをあいさなかった。)	She didn't love the dog.	M1
+愛する	Past Positive Polite	愛しました	私たちは昔、同じ夢を愛しました。	(わたしたちはむかし、おなじゆめをあいしました。)	We loved the same dream in the past.	M1
+愛する	Past Negative Polite	愛しませんでした	彼らは長い間、お互いを愛しませんでした。	(かれらはながいあいだ、おたがいをあいしませんでした。)	They didn't love each other for a long time.	M1
+愛する	-te Form	愛して	彼女は毎日彼に愛していると伝える。	(かのじょはまいにちかれにあいしているとつたえる。)	She tells him she loves him every day.	M1
+愛する	Volitional	愛しよう	彼らは新しい生活を愛しようとしています。	(かれらはあたらしいせいかつをあいしようとしています。)	They are trying to love their new life.	M1
+愛する	Potential	愛せる	彼は深く愛せる人だ。	(かれはふかくあいせるひとだ。)	He is someone who can love deeply.	M1
+愛する	Passive	愛される	彼女は彼に愛されることに感謝している。	(かのじょはかれにあいされることにかんしゃしている。)	She is grateful to be loved by him.	M1
+愛する	Causative	愛させる	彼は私に多くのことを愛させた。	(かれはわたしにおおくのことをあいさせた。)	He made me love many things.	M1
+愛する	Imperative	愛せ	人々を愛せ！	(ひとびとをあいせ！)	Love people!	M1
+愛する	Conditional	愛せば	もし本当に彼女を愛せば、彼は彼女のために何でもできるだろう。	(もしほんとうにかのじょをあいせば、かれはかのじょのためになんでもできるだろう。)	If he truly loves her, he would do anything for her.	M1
+化する	Present Positive Plain	化する	彼女は日々進化する。	(かのじょはひびしんかする。)	She evolves every day.	M2
+化する	Present Negative Plain	化しない	その問題は化さないままだ。	(そのもんだいはかさないままだ。)	The issue remains unresolved.	M2
+化する	Present Positive Polite	化します	科学技術は急速に進化します。	(かがくぎじゅつはきゅうそくにしんかします。)	Science and technology are evolving rapidly.	M2
+化する	Present Negative Polite	化しません	彼らは環境への影響を無視して化しません。	(かれらはかんきょうへのえいきょうをむししてかしません。)	They do not ignore the impact on the environment.	M2
+化する	Past Positive Plain	化した	その地域は大きな変化を経験して化した。	(そのちいきはおおきなへんかをけいけんしてかした。)	The region underwent significant changes and transformed.	M2
+化する	Past Negative Plain	化さなかった	彼の計画は実行されず、化さなかった。	(かれのけいかくはじっこうされず、かさなかった。)	His plan was not implemented and did not change.	M2
+化する	Past Positive Polite	化しました	この地域は最近、大きな変化を経験しました。	(このちいきはさいきん、おおきなへんかをけいけんしました。)	This area has recently undergone significant changes.	M2
+化する	Past Negative Polite	化しませんでした	彼女は新しい環境に順応せず、化しませんでした。	(かのじょはあたらしいかんきょうにじゅんのうせず、かしませんでした。)	She did not adapt to the new environment and did not change.	M2
+化する	-te Form	化して	環境の変化に適応して化している。	(かんきょうのへんかにてきおうしてかしている。)	Adapting to changes in the environment.	M2
+化する	Volitional	化そう	私たちはより良い未来を築くために進化しよう。	(わたしたちはよりよいみらいをきずくためにしんかしよう。)	Let's evolve to build a better future.	M2
+化する	Potential	化せる	この新しい技術は産業を変化させる可能性がある。	(このあたらしいぎじゅつはさんぎょうをへんかさせるかのうせいがある。)	This new technology has the potential to transform industries.	M2
+化する	Passive	化される	そのプロジェクトは急速な変化によって化された。	(そのぷろじぇくとはきゅうそくなへんかによってかされた。)	The project was transformed by rapid changes.	M2
+化する	Causative	化させる	彼は会社の方針を変化させた。	(かれはかいしゃのほうしんをへんかさせた。)	He changed the company's policy.	M2
+化する	Imperative	化せよ	社会の進歩に貢献するために進化せよ！	(しゃかいのしんぽにこうけんするためにしんかせよ！)	Evolve to contribute to the progress of society!	M2
+化する	Conditional	化せば	もし環境が変化すれば、生態系もそれに応じて化せばよい。	(もしくんきょうがへんかすれば、せいたいけいもそれにおうじてかせばよい。)	If the environment changes, ecosystems should also adapt and evolve accordingly.	M2
+属する	Present Positive Plain	属する	その問題は地域の管轄に属する。	(そのもんだいはちいきのかんかつにぞくする。)	The issue falls under the jurisdiction of the region.	M3
+属する	Present Negative Plain	属さない	その事件は彼の管轄には属さない。	(そのじけんはかれのかんかつにはぞくさない。)	The case does not fall under his jurisdiction.	M3
+属する	Present Positive Polite	属します	このプロジェクトはIT部門に属します。	(このぷろじぇくとはアイティーぶもんにぞくします。)	This project belongs to the IT department.	M3
+属する	Present Negative Polite	属しません	その責任は彼らには属しません。	(そのせきにんはかれらにはぞくしません。)	That responsibility does not belong to them.	M3
+属する	Past Positive Plain	属した	その土地は昔、その国に属した。	(そのとちはむかし、そのくににぞくした。)	The land belonged to that country in the past.	M3
+属する	Past Negative Plain	属さなかった	そのグループは彼の指導の下で属さなかった。	(そのぐるーぷはかれのしどうのしたでぞくさなかった。)	The group did not belong under his leadership.	M3
+属する	Past Positive Polite	属しました	彼は昨年、その会社に属しました。	(かれはさくねん、そのかいしゃにぞくしました。)	He belonged to the company last year.	M3
+属する	Past Negative Polite	属しませんでした	その問題は彼には属しませんでした。	(そのもんだいはかれにはぞくしませんでした。)	The issue did not belong to him.	M3
+属する	-te Form	属して	そのプロジェクトはどの部門に属していますか？	(そのぷろじぇくとはどのぶもんにぞくしていますか？)	Which department does the project belong to?	M3
+属する	Volitional	属しよう	新しいチームに属しようとしています。	(あたらしいちーむにぞくしようとしています。)	I'm trying to join the new team.	M3
+属する	Potential	属せる	彼はそのクラブの一員になる資格があると考えられています。	(かれはそのくらぶのいちいんになるしかくがあるとかんがえられています。)	He is considered qualified to become a member of the club.	M3
+属する	Passive	属される	彼女は新しいグループに属されました。	(かのじょはあたらしいぐるーぷにぞくされました。)	She was assigned to the new group.	M3
+属する	Causative	属させる	彼は私たちを新しいプロジェクトに属させました。	(かれはわたしたちをあたらしいぷろじぇくとにぞくさせました。)	He assigned us to the new project.	M3
+属する	Imperative	属せ	このグループに属せ！	(このぐるーぷにぞくせ！)	Belong to this group!	M3
+属する	Conditional	属せば	もし彼がその部門に属せば、彼の能力を活かすことができるだろう。	(もしこじょうがそのぶもんにぞくせば、かれののうりょくをいかすことができるだろう。)	If he belongs to that department, he can utilize his abilities.	M3
+待つ	Present Positive Plain	待つ	彼女は彼を待つ。	(かのじょはかれをまつ。)	She waits for him.	N1
+待つ	Present Negative Plain	待たない	私は決して人を待たない。	(わたしはけっしてひとをまたない。)	I never wait for people.	N1
+待つ	Present Positive Polite	待ちます	会議が始まるのを待ちます。	(かいぎがはじまるのをまちます。)	I'll wait for the meeting to start.	N1
+待つ	Present Negative Polite	待ちません	彼は遅刻したらすぐに謝罪するのを待ちませんでした。	(かれはちこくしたらすぐにしゃざいするのをまちませんでした。)	He didn't wait to apologize as soon as he was late.	N1
+待つ	Past Positive Plain	待った	私は彼女が来るのを待った。	(わたしはかのじょがくるのをまった。)	I waited for her to come.	N1
+待つ	Past Negative Plain	待たなかった	彼らは待たなかった。	(かれらはまたなかった。)	They didn't wait.	N1
+待つ	Past Positive Polite	待ちました	彼は私たちが到着するのを待ちました。	(かれはわたしたちがとうちゃくするのをまちました。)	He waited for us to arrive.	N1
+待つ	Past Negative Polite	待ちませんでした	彼女は彼の連絡を待ちませんでした。	(かのじょはかれのれんらくをまちませんでした。)	She didn't wait for his contact.	N1
+待つ	-te Form	待って	ここで待っていてください。	(ここでまっていてください。)	Please wait here.	N1
+待つ	Volitional	待とう	彼らは結果を見るために待とうとしています。	(かれらはけっかをみるためにまとうとしています。)	They are trying to wait to see the results.	N1
+待つ	Potential	待てる	その列は長すぎて待てない。	(そのれつはながすぎてまてない。)	The line is too long to wait.	N1
+待つ	Passive	待たれる	彼は毎晩彼女に待たれる。	(かれはまいばんかのじょにまたれる。)	He is waited for by her every night.	N1
+待つ	Causative	待たせる	私は彼を1時間も待たせた。	(わたしはかれをいちじかんもまたせた。)	I made him wait for an hour.	N1
+待つ	Imperative	待て	待てば良いことがあるかもしれない。	(まてばいいことがあるかもしれない。)	Good things may come to those who wait.	N1
+待つ	Conditional	待てば	もし彼が戻ってくるなら、私たちは彼を待てばよい。	(もしこじょがもどってくるなら、わたしたちはかれをまてばよい。)	If he comes back, we should wait for him.	N1
+持つ	Present Positive Plain	持つ	彼は大切な品を持つ。	(かれはたいせつなしなをもつ。)	He has important items.	N2
+持つ	Present Negative Plain	持たない	私は常に財布を持たない。	(わたしはつねにさいふをもたない。)	I never carry a wallet.	N2
+持つ	Present Positive Polite	持ちます	彼はいつもスマートフォンを持ちます。	(かれはいつもすまーとふぉんをもちます。)	He always carries his smartphone.	N2
+持つ	Present Negative Polite	持ちません	彼女は身軽で、たいてい荷物を持ちません。	(かのじょはみがるで、たいていにもつをもちません。)	She travels light and usually doesn't carry much luggage.	N2
+持つ	Past Positive Plain	持った	私はその箱を持った。	(わたしはそのはこをもった。)	I held the box.	N2
+持つ	Past Negative Plain	持たなかった	彼らは必要な書類を持たなかった。	(かれらはひつようなしょるいをもたなかった。)	They didn't have the necessary documents.	N2
+持つ	Past Positive Polite	持ちました	彼はパーティーで責任を持ちました。	(かれはぱーてぃーでせきにんをもちました。)	He took responsibility at the party.	N2
+持つ	Past Negative Polite	持ちませんでした	彼女はそのプロジェクトの進行状況を持ちませんでした。	(かのじょはそのぷろじぇくとのしんこうじょうきょうをもちませんでした。)	She didn't keep track of the project's progress.	N2
+持つ	-te Form	持って	重い荷物を持っていると背中が痛くなります。	(おもいにもつをもっているとせなかがいたくなります。)	Your back hurts when you carry heavy luggage.	N2
+持つ	Volitional	持とう	より多くの責任を持とう。	(よりおおくのせきにんをもとう。)	Let's take on more responsibility.	N2
+持つ	Potential	持てる	彼は多くの仕事を同時に持てる。	(かれはおおくのしごとをどうじにもてる。)	He can handle many tasks simultaneously.	N2
+持つ	Passive	持たれる	彼女はいつも夢の中で手紙を持たれます。	(かのじょはいつもゆめのなかでてがみをもたれます。)	She is always holding a letter in her dreams.	N2
+持つ	Causative	持たせる	私は彼に荷物を持たせた。	(わたしはかれににもつをもたせた。)	I made him carry the luggage.	N2
+持つ	Imperative	持て	心に希望を持て！	(こころにきぼうをもて！)	Have hope in your heart!	N2
+持つ	Conditional	持てば	もし彼が正しい態度を持てば、成功するだろう。	(もしこじょがただしいたいどをもてば、せいこうするだろう。)	If he adopts the right attitude, he will succeed.	N2
+立つ	Present Positive Plain	立つ	彼は早く座席から立つ。	(かれははやくざせきからたつ。)	He quickly stands up from his seat.	N3
+立つ	Present Negative Plain	立たない	風が強すぎて立たない。	(かぜがつよすぎてたたない。)	It's too windy to stand.	N3
+立つ	Present Positive Polite	立ちます	社長が入室すると、みんなが立ちます。	(しゃちょうがにゅうしつすると、みんながたちます。)	When the president enters the room, everyone stands up.	N3
+立つ	Present Negative Polite	立ちません	彼はその問題について立ちません。	(かれはそのもんだいについてたちません。)	He doesn't take a stance on the issue.	N3
+立つ	Past Positive Plain	立った	彼は私の隣に立った。	(かれはわたしのとなりにたった。)	He stood next to me.	N3
+立つ	Past Negative Plain	立たなかった	彼女は怖くて立たなかった。	(かのじょはこわくてたたなかった。)	She was too scared to stand.	N3
+立つ	Past Positive Polite	立ちました	彼は電車の中で私に席を譲って立ちました。	(かれはでんしゃのなかでわたしにせきをゆずってたちました。)	He gave me his seat on the train and stood up.	N3
+立つ	Past Negative Polite	立ちませんでした	彼はその場で立ちませんでした。	(かれはそのばでたちませんでした。)	He didn't stand up on the spot.	N3
+立つ	-te Form	立って	クラスが始まるとすぐに立ってください。	(くらすがはじまるとすぐにたってください。)	Please stand up as soon as the class begins.	N3
+立つ	Volitional	立とう	今、立とうとしています。	(いま、たとうとしています。)	I'm trying to stand up now.	N3
+立つ	Potential	立てる	彼は一人で立てる。	(かれはひとりでたてる。)	He can stand up on his own.	N3
+立つ	Passive	立たれる	メッセージが全員に読まれると、全員が立たれました。	(めっせーじがぜんいんによまれると、ぜんいんがたたれました。)	When the message was read by everyone, everyone stood up.	N3
+立つ	Causative	立たせる	私は彼を立たせました。	(わたしはかれをたたせました。)	I made him stand up.	N3
+立つ	Imperative	立て	立て！	(たて！)	Stand up!	N3
+立つ	Conditional	立てば	もし勇気があれば、立てばいい。	(もしゆうきがあれば、たてばいい。)	If you have courage, you should stand up.	N3
+在る	Present Positive Plain	在る	問題がまだ在る。	(もんだいがまだある。)	The problem still exists.	O1
+在る	Present Negative Plain	在らない	彼の言葉は信頼できるとは在らない。	(かれのことばはしんらいできるとはあらない。)	His words cannot be trusted.	O1
+在る	Present Positive Polite	在ります	その店では新鮮な魚が常に在ります。	(そのみせではしんせんなさかながつねにあります。)	Fresh fish is always available at the store.	O1
+在る	Present Negative Polite	在りません	この地域では病院が近くに在りません。	(このちいきではびょういんがちかくにありません。)	There is no hospital nearby in this area.	O1
+在る	Past Positive Plain	在った	昔、ここに家が在った。	(むかし、ここにいえがあった。)	There used to be a house here.	O1
+在る	Past Negative Plain	在らなかった	彼の名前はリストに在らなかった。	(かれのなまえはりすとにあらなかった。)	His name wasn't on the list.	O1
+在る	Past Positive Polite	在りました	昨日、そこに彼女が在りました。	(きのう、そこにかのじょがありました。)	She was there yesterday.	O1
+在る	Past Negative Polite	在りませんでした	その本は図書館に在りませんでした。	(そのほんはとしょかんにありませんでした。)	The book wasn't available at the library.	O1
+在る	-te Form	在って	現在、彼の心には多くの感情が在っている。	(げんざい、かれのこころにはおおくのかんじょうがあっている。)	Currently, there are many emotions in his heart.	O1
+在る	Volitional	在ろう	もっと多くの機会を作り出すために、一緒に努力しようではありませんか。	(もっとおおくのきかいをつくりだすために、いっしょにどりょくしようではありませんか。)	Why don't we work together to create more opportunities?	O1
+在る	Potential	在れる	この地域には良い教育機関が在れる。	(このちいきにはよいきょういくきかんがあれる。)	There can be good educational institutions in this area.	O1
+在る	Passive	在られる	彼らは重要な会議に招待されて在られる。	(かれらはじゅうようなかいぎにしょうたいされてあられる。)	They can be invited to important meetings.	O1
+在る	Causative	在らせる	彼女は彼を新しいプロジェクトに参加させて在らせる。	(かのじょはかれをあたらしいぷろじぇくとにさんかさせてあらせる。)	She makes him participate in the new project and be present.	O1
+在る	Imperative	在れ	勇敢で在れ。	(ゆうかんであれ。)	Be brave.	O1
+在る	Conditional	在れば	もし時間が在れば、一緒に映画を見に行きませんか？	(もしじかんがあれば、いっしょにえいがをみにいきませんか？)	If you have time, would you like to go see a movie together?	O1
+問う	Present Positive Plain	問う	彼は日々の問題に直面している。	(かれはひびのもんだいにちめんしている。)	He faces daily challenges.	P1
+問う	Present Negative Plain	問わない	彼はその意見を疑問視し、問わない。	(かれはそのいけんをぎもんし、とわない。)	He questions the opinion and doesn't ask.	P1
+問う	Present Positive Polite	問います	先生に質問を問います。	(せんせいにしつもんをといます。)	I ask the teacher a question.	P1
+問う	Present Negative Polite	問いません	彼女は彼の決定を疑問視し、問いませんでした。	(かのじょはかれのけっていをぎもんし、といませんでした。)	She questioned his decision but didn't ask.	P1
+問う	Past Positive Plain	問った	彼はその問題を解決する方法を彼に問った。	(かれはそのもんだいをかいけつするほうほうをかれにといた。)	He asked him about the way to solve the problem.	P1
+問う	Past Negative Plain	問わなかった	私はその出来事の背後にある真実を問わなかった。	(わたしはそのできごとのはいごにあるしんじつをとわなかった。)	I didn't inquire about the truth behind the incident.	P1
+問う	Past Positive Polite	問いました	彼は上司に計画の進行状況を問いました。	(かれはじょうしにけいかくのしんこうじょうきょうをといました。)	He asked his boss about the progress of the plan.	P1
+問う	Past Negative Polite	問いませんでした	その問題については彼は何も問いませんでした。	(そのもんだいについてはかれはなにもといませんでした。)	He didn't ask anything about the problem.	P1
+問う	-te Form	問って	彼女は私にその理由を問ってきた。	(かのじょはわたしにそのりゆうをとってきた。)	She came to me and asked for the reason.	P1
+問う	Volitional	問おう	この問題について一緒に考えてみましょうか？	(このもんだいについていっしょにかんがえてみましょうか？)	Shall we try to think about this problem together?	P1
+問う	Potential	問える	彼は自分の考えに自信を持って問える。	(かれはじぶんのかんがえにじしんをもってとえる。)	He can confidently ask about his own thoughts.	P1
+問う	Passive	問われる	彼女はいつも質問を問われる。	(かのじょはいつもしつもんをとわれる。)	She is always questioned.	P1
+問う	Causative	問わせる	先生は学生に質問をたくさん問わせる。	(せんせいはがくせいにしつもんをたくさんとわせる。)	The teacher makes the students ask a lot of questions.	P1
+問う	Imperative	問え	知りたいことがあれば、何でも問え。	(しりたいことがあれば、なんでもとえ。)	If you have something you want to know, ask anything.	P1
+問う	Conditional	問えば	もし疑問があれば、いつでも私に問えばいい。	(もしぎもんがあれば、いつでもわたしにとえばいい。)	If you have any questions, feel free to ask me anytime.	P1
+呼ぶ	Present Positive Plain	呼ぶ	彼は犬を呼ぶ。	(かれはいぬをよぶ。)	He calls the dog.	Q1
+呼ぶ	Present Negative Plain	呼ばない	彼は決して私を呼ばない。	(かれはけっしてわたしをよばない。)	He never calls me.	Q1
+呼ぶ	Present Positive Polite	呼びます	彼は友人を呼びます。	(かれはゆうじんをよびます。)	He calls his friend.	Q1
+呼ぶ	Present Negative Polite	呼びません	彼女は彼を呼びません。	(かのじょはかれをよびません。)	She doesn't call him.	Q1
+呼ぶ	Past Positive Plain	呼んだ	私は彼女を呼んだ。	(わたしはかのじょをよんだ。)	I called her.	Q1
+呼ぶ	Past Negative Plain	呼ばなかった	彼らは彼を呼ばなかった。	(かれらはかれをよばなかった。)	They didn't call him.	Q1
+呼ぶ	Past Positive Polite	呼びました	彼はタクシーを呼びました。	(かれはたくしーをよびました。)	He called a taxi.	Q1
+呼ぶ	Past Negative Polite	呼びませんでした	私は昨日、彼を呼びませんでした。	(わたしはきのう、かれをよびませんでした。)	I didn't call him yesterday.	Q1
+呼ぶ	-te Form	呼んで	道で彼を呼んでください。	(みちでかれをよんでください。)	Please call him on the street.	Q1
+呼ぶ	Volitional	呼ぼう	彼を手伝いに呼ぼう。	(かれをてつだいによぼう。)	Let's call him for help.	Q1
+呼ぶ	Potential	呼べる	彼はすぐに応答できるように呼べる。	(かれはすぐにおうとうできるようによべる。)	He can be called upon for an immediate response.	Q1
+呼ぶ	Passive	呼ばれる	彼女は友人から呼ばれました。	(かのじょはゆうじんからよばれました。)	She was called by her friend.	Q1
+呼ぶ	Causative	呼ばせる	私は彼を彼女の家に呼ばせました。	(わたしはかれをかのじょのいえによばせました。)	I had him called to her house.	Q1
+呼ぶ	Imperative	呼べ	すぐに医者を呼べ！	(すぐにいしゃをよべ！)	Call a doctor immediately!	Q1
+呼ぶ	Conditional	呼べば	もし困ったら、いつでも私を呼べばいい。	(もしこまったら、いつでもわたしをよべばいい。)	If you're in trouble, you can always call me.	Q1
+学ぶ	Present Positive Plain	学ぶ	彼は毎日新しいことを学ぶ。	(かれはまいにちあたらしいことをまなぶ。)	He learns new things every day.	Q2
+学ぶ	Present Negative Plain	学ばない	彼女は自分の過ちから学ばない。	(かのじょはじぶんのあやまちからまなばない。)	She doesn't learn from her mistakes.	Q2
+学ぶ	Present Positive Polite	学びます	私は日本語を学びます。	(わたしはにほんごをまなびます。)	I study Japanese.	Q2
+学ぶ	Present Negative Polite	学びません	彼は授業中には注意を払わず、学びません。	(かれはじゅぎょうちゅうにはちゅういをはらわず、まなびません。)	He doesn't pay attention during class and doesn't learn.	Q2
+学ぶ	Past Positive Plain	学んだ	彼は大学で経済学を学んだ。	(かれはだいがくでけいざいがくをまなんだ。)	He studied economics at university.	Q2
+学ぶ	Past Negative Plain	学ばなかった	彼はその時の重要性を理解せず、何も学ばなかった。	(かれはそのときのじゅうようせいをりかいせず、なにもまなばなかった。)	He didn't understand the importance at that time and didn't learn anything.	Q2
+学ぶ	Past Positive Polite	学びました	彼女は留学中に多くのことを学びました。	(かのじょはりゅうがくちゅうにおおくのことをまなびました。)	She learned a lot while studying abroad.	Q2
+学ぶ	Past Negative Polite	学びませんでした	私はその日の教訓から何も学びませんでした。	(わたしはそのひのきょうくんからなにもまなびませんでした。)	I didn't learn anything from the lesson of that day.	Q2
+学ぶ	-te Form	学んで	大学での経験は彼を多くのことを学んでいた。	(だいがくでのけいけんはかれをおおくのことをまんでいた。)	His university experience taught him many things.	Q2
+学ぶ	Volitional	学ぼう	この機会に新しいスキルを学ぼう。	(このきかいにあたらしいすきるをまなぼう。)	Let's learn new skills on this occasion.	Q2
+学ぶ	Potential	学べる	彼は素早く新しい技術を学べる。	(かれはすばやくあたらしいぎじゅつをまなべる。)	He can quickly learn new technologies.	Q2
+学ぶ	Passive	学ばれる	彼女は日々新しい知識を学ばれる。	(かのじょはひびあたらしいちしきをまなばれる。)	She is constantly learning new knowledge.	Q2
+学ぶ	Causative	学ばせる	先生は生徒たちに多くのことを学ばせる。	(せんせいはせいとたちにおおくのことをまなばせる。)	The teacher makes the students learn many things.	Q2
+学ぶ	Imperative	学べ	大切なことを学べ！	(たいせつなことをまなべ！)	Learn what's important!	Q2
+学ぶ	Conditional	学べば	もし時間があれば、新しい言語を学べばいい。	(もしじかんがあれば、あたらしいげんごをまなべばいい。)	If you have time, you should learn a new language.	Q2
+並ぶ	Present Positive Plain	並ぶ	人々が列に並ぶ。	(ひとびとがれつにならぶ。)	People line up in a queue.	Q3
+並ぶ	Present Negative Plain	並ばない	彼は列に並ばないで先に行った。	(かれはれつにならないでさきにいった。)	He didn't line up in the queue and went ahead.	Q3
+並ぶ	Present Positive Polite	並びます	レジで商品を並びます。	(れじでしょうひんをならびます。)	I line up the goods at the cash register.	Q3
+並ぶ	Present Negative Polite	並びません	彼はいつも列に並びません。	(かれはいつもれつにならびません。)	He never lines up in the queue.	Q3
+並ぶ	Past Positive Plain	並んだ	彼女は早く列に並んだ。	(かのじょははやくれつにならんだ。)	She lined up in the queue quickly.	Q3
+並ぶ	Past Negative Plain	並ばなかった	彼は混雑したレストランには並ばなかった。	(かれはこんざつしたれすとらんにはならなかった。)	He didn't line up at the crowded restaurant.	Q3
+並ぶ	Past Positive Polite	並びました	あの店では人々が長蛇の列に並びました。	(あのみせではひとびとがちょうだのれつにならびました。)	People lined up in a long queue at that store.	Q3
+並ぶ	Past Negative Polite	並びませんでした	彼は忙しかったため、レジで並びませんでした。	(かれはいそがしかったため、れじでならびませんでした。)	He was too busy, so he didn't line up at the cash register.	Q3
+並ぶ	-te Form	並んで	全員が列に並んで待っています。	(ぜんいんがれつにならんでまっています。)	Everyone is lined up and waiting.	Q3
+並ぶ	Volitional	並ぼう	早く列に並ぼう。	(はやくれつにならぼう。)	Let's line up quickly.	Q3
+並ぶ	Potential	並べる	この本をジャンル別に並べてください。	(このほんをじゃんるべつにならべてください。)	Please arrange this book by genre.	Q3
+並ぶ	Passive	並ばれる	その店ではいつも長い行列が並ばれています。	(そのみせではいつもながいぎょうれつがならばれています。)	There is always a long line formed at that store.	Q3
+並ぶ	Causative	並ばせる	私は友人たちをレジで列に並ばせました。	(わたしはゆうじんたちをれじでれつにならばせました。)	I made my friends line up at the cash register.	Q3
+並ぶ	Imperative	並べ	商品をサイズ順に並べてください。	(しょうひんをさいずじゅんにならべてください。)	Please line up the items by size.	Q3
+並ぶ	Conditional	並べば	もし早く到着すれば、行列に並べばいいですよ。	(もしはやくとうちゃくすれば、ぎょうれつにならべばいいですよ。)	If you arrive early, you can line up in the queue.	Q3
+入る	Present Positive Plain	入る	彼は家に入る。	(かれはいえにはいる。)	He enters the house.	R1
+入る	Present Negative Plain	入らない	猫は箱に入らない。	(ねこははこにはいらない。)	The cat doesn't enter the box.	R1
+入る	Present Positive Polite	入ります	客が店に入ります。	(きゃくがみせにはいります。)	The customer enters the store.	R1
+入る	Present Negative Polite	入りません	彼は彼女の部屋に入りませんでした。	(かれはかのじょのへやにはりませんでした。)	He didn't enter her room.	R1
+入る	Past Positive Plain	入った	私は昨日、公園に入った。	(わたしはきのう、こうえんにはいった。)	I entered the park yesterday.	R1
+入る	Past Negative Plain	入らなかった	彼は門を見て、中には入らなかった。	(かれはもんをみて、なかにはいらなかった。)	He looked at the gate but didn't enter.	R1
+入る	Past Positive Polite	入りました	私は彼の部屋に入りました。	(わたしはかれのへやにはいりました。)	I entered his room.	R1
+入る	Past Negative Polite	入りませんでした	彼女は試験会場に入りませんでした。	(かのじょはしけんかいじょうにはりませんでした。)	She didn't enter the examination hall.	R1
+入る	-te Form	入って	家に入って、靴を脱いでください。	(いえにはいって、くつをぬいでください。)	Please enter the house and take off your shoes.	R1
+入る	Volitional	入ろう	一緒に海に入ろう。	(いっしょにうみにはいろう。)	Let's go into the sea together.	R1
+入る	Potential	入れる	キーを入れてドアを開ける。	(きーをいれてどあをあける。)	Put the key in and open the door.	R1
+入る	Passive	入られる	部屋に入られると、先生がいらっしゃいました。	(へやにはいられると、せんせいがいらっしゃいました。)	When someone entered the room, the teacher was there.	R1
+入る	Causative	入れさせる	私は彼を部屋に入れさせました。	(わたしはかれをへやにいれさせました。)	I had him enter the room.	R1
+入る	Imperative	入れ	中に入れ！	(なかにいれ！)	Enter inside!	R1
+入る	Conditional	入れば	もし暗くなれば、家に入ればいい。	(もしくらくなれば、いえにはいればいい。)	If it gets dark, you should enter the house.	R1
+作る	Present Positive Plain	作る	彼は毎日料理を作る。	(かれはまいにちりょうりをつくる。)	He cooks every day.	R2
+作る	Present Negative Plain	作らない	彼女は時間がないため、朝食を作らない。	(かのじょはじかんがないため、ちょうしょくをつくらない。)	She doesn't make breakfast because she doesn't have time.	R2
+作る	Present Positive Polite	作ります	私は友達の誕生日にケーキを作ります。	(わたしはともだちのたんじょうびにけーきをつくります。)	I make a cake for my friend's birthday.	R2
+作る	Present Negative Polite	作りません	今晩、私は夕食を作りません。	(こんばん、わたしはゆうしょくをつくりません。)	I won't cook dinner tonight.	R2
+作る	Past Positive Plain	作った	私は昨日、手紙を作った。	(わたしはきのう、てがみをつくった。)	I wrote a letter yesterday.	R2
+作る	Past Negative Plain	作らなかった	彼らはお金がなかったので、映画を作らなかった。	(かれらはおかねがなかったので、えいがをつくらなかった。)	They didn't make the movie because they didn't have money.	R2
+作る	Past Positive Polite	作りました	彼は昨日、美味しい料理を作りました。	(かれはきのう、おいしいりょうりをつくりました。)	He made delicious food yesterday.	R2
+作る	Past Negative Polite	作りませんでした	彼女は忙しかったので、昨日は晩ご飯を作りませんでした。	(かのじょはいそがしかったので、きのうはばんごはんをつくりませんでした。)	She was busy, so she didn't cook dinner yesterday.	R2
+作る	-te Form	作って	ケーキを作って、パーティーに持っていきました。	(けーきをつくって、ぱーてぃーにもっていきました。)	I made a cake and brought it to the party.	R2
+作る	Volitional	作ろう	明日は一緒に昼食を作ろう。	(あしたはいっしょにちゅうしょくをつくろう。)	Let's make lunch together tomorrow.	R2
+作る	Potential	作れる	彼女は美味しい料理が作れる。	(かのじょはおいしいりょうりがつくれる。)	She can make delicious food.	R2
+作る	Passive	作られる	その映画は有名な監督によって作られました。	(そのえいがはゆうめいなかんとくによってつくられました。)	The movie was made by a famous director.	R2
+作る	Causative	作らせる	私は子供たちに絵を作らせました。	(わたしはこどもたちにえをつくらせました。)	I had the children make pictures.	R2
+作る	Imperative	作れ	早く朝食を作れ！	(はやくちょうしょくをつくれ！)	Make breakfast quickly!	R2
+作る	Conditional	作れば	もし時間があれば、手作りのプレゼントを作ればいいですよ。	(もしじかんがあれば、てづくりのぷれぜんとをつくればいいですよ。)	If you have time, you should make a handmade present.	R2
+知る	Present Positive Plain	知る	彼はその秘密を知る。	(かれはそのひみつをしる。)	He knows the secret.	R3
+知る	Present Negative Plain	知らない	私はその人の名前を知らない。	(わたしはそのひとのなまえをしらない。)	I don't know that person's name.	R3
+知る	Present Positive Polite	知ります	先生はその情報を知ります。	(せんせいはそのじょうほうをしります。)	The teacher knows that information.	R3
+知る	Present Negative Polite	知りません	私はその事実を知りませんでした。	(わたしはそのじじつをしりませんでした。)	I didn't know that fact.	R3
+知る	Past Positive Plain	知った	彼は昨日、新しい計画を知った。	(かれはきのう、あたらしいけいかくをしった。)	He knew about the new plan yesterday.	R3
+知る	Past Negative Plain	知らなかった	私は当時そのニュースを知らなかった。	(わたしはとうじそのニュースをしらなかった。)	I didn't know about that news at that time.	R3
+知る	Past Positive Polite	知りました	彼女は彼の過去を知りました。	(かのじょはかれのかこをしりました。)	She knew about his past.	R3
+知る	Past Negative Polite	知りませんでした	彼はそのイベントがあることを知りませんでした。	(かれはそのイベントがあることをしりませんでした。)	He didn't know that the event was happening.	R3
+知る	-te Form	知って	彼は私の秘密を知っています。	(かれはわたしのひみつをしっています。)	He knows my secret.	R3
+知る	Volitional	知ろう	この問題についてもっと知ろう。	(このもんだいについてもっとしろう。)	Let's learn more about this issue.	R3
+知る	Potential	知れる	その情報はすぐに知れるでしょう。	(そのじょうほうはすぐにしれるでしょう。)	That information will be known soon.	R3
+知る	Passive	知られる	彼女の秘密は誰にも知られなかった。	(かのじょのひみつはだれにもしられなかった。)	Nobody knew her secret.	R3
+知る	Causative	知らせる	私は彼に真実を知らせた。	(わたしはかれにしんじつをしらせた。)	I informed him of the truth.	R3
+知る	Imperative	知れ	新しい情報を知れ！	(あたらしいじょうほうをしれ！)	Know the new information!	R3
+知る	Conditional	知れば	もし彼女のことが気になるなら、彼女に直接聞いてみればいい。	(もしこのかのじょのことがきになるなら、かのじょにちょくせつきいてみればいい。)	If you're curious about her, you should ask her directly.	R3
+分かる	Present Positive Plain	分かる	彼はその問題を分かる。	(かれはそのもんだいをわかる。)	He understands the problem.	R4
+分かる	Present Negative Plain	分からない	私は彼の言葉が全く分からない。	(わたしはかれのことばがまったくわからない。)	I don't understand his words at all.	R4
+分かる	Present Positive Polite	分かります	先生は生徒たちに優しく説明してくれますので、よく分かります。	(せんせいはせいとたちにやさしくせつめいしてくれますので、よくわかります。)	Since the teacher kindly explains to the students, they understand well.	R4
+分かる	Present Negative Polite	分かりません	この本の内容は難しくて、分かりません。	(このほんのないようはむずかしくて、わかりません。)	The contents of this book are difficult, so I don't understand.	R4
+分かる	Past Positive Plain	分かった	彼は最終的に彼女の気持ちを分かった。	(かれはさいしゅうてきにかのじょのきもちをわかった。)	He finally understood her feelings.	R4
+分かる	Past Negative Plain	分からなかった	私はその指示が分からなかった。	(わたしはそのしじがわからなかった。)	I didn't understand those instructions.	R4
+分かる	Past Positive Polite	分かりました	昨日の説明を聞いたので、問題が分かりました。	(きのうのせつめいをきいたので、もんだいがわかりました。)	I understood the problem after listening to yesterday's explanation.	R4
+分かる	Past Negative Polite	分かりませんでした	彼はその件について何も分かりませんでした。	(かれはそのけんについてなにもわかりませんでした。)	He didn't understand anything about that matter.	R4
+分かる	-te Form	分かって	彼は私の気持ちをよく分かっています。	(かれはわたしのきもちをよくわかっています。)	He understands my feelings well.	R4
+分かる	Volitional	分かろう	この問題を一緒に解決しようとしています。一緒に取り組めば、きっと分かろう。	(このもんだいをいっしょにかいけつしようとしています。いっしょにとりくめば、きっとわかろう。)	We are trying to solve this problem together. If we work together, we will surely understand.	R4
+分かる	Potential	分かれる	その問題は簡単ではないため、人々の間で意見が分かれる。	(そのもんだいはかんたんではないため、ひとびとのあいだでいけんがわかれる。)	Because the problem is not easy, opinions are divided among people.	R4
+分かる	Passive	分かれる	その本は読む人によって異なる解釈で分かれる。	(そのほんはよむひとによってことなるかいしゃくでわかれる。)	The book can be understood differently depending on the reader's interpretation.	R4
+分かる	Causative	分からせる	先生は生徒たちに考えさせて、自分たちで答えを見つけさせることで、問題を分からせる。	(せんせいはせいとたちにかんがえさせて、じぶんたちでこたえをみつけさせることで、もんだいをわからせる。)	The teacher makes the students think and find the answers themselves, thus helping them understand the problem.	R4
+分かる	Imperative	分かれ	今すぐ彼に話して、その件を分かれ！	(いますぐかれにはなして、そのけんをわかれ！)	Talk to him right now and make him understand the matter!	R4
+分かる	Conditional	分かれば	もし私たちがこの問題を理解していれば、解決策が見つかるかもしれない。	(もしわたしたちがこのもんだいをりかいしていれば、かいけつさくがみつかるかもしれない。)	If we understand this problem, we might find a solution.	R4
+なさる	Present Positive Plain	なさる	彼は毎朝散歩をなさる。	(かれはまいあささんぽをなさる。)	He takes a walk every morning.	S1
+なさる	Present Negative Plain	なさらない	私は彼女がそのようなことをなさらないと信じています。	(わたしはかのじょがそのようなことをなさらないとしんじています。)	I believe she doesn't do such things.	S1
+なさる	Present Positive Polite	なさいます	社長は新しいプロジェクトを進行中です。	(しゃちょうはあたらしいぷろじぇくとをしんこうちゅうです。)	The president is proceeding with the new project.	S1
+なさる	Present Negative Polite	なさいません	彼女は残業をすることが少なくなりました。	(かのじょはざんぎょうをすることがすくなくなりました。)	She does less overtime now.	S1
+なさる	Past Positive Plain	なさった	先生は昨日、生徒たちの質問に答えをなさった。	(せんせいはきのう、せいとたちのしつもんにこたえをなさった。)	The teacher answered the students' questions yesterday.	S1
+なさる	Past Negative Plain	なさらなかった	私の父は旅行に行くことをしばらくなさらなかった。	(わたしのちちはりょこうにいくことをしばらくなさらなかった。)	My father hadn't done traveling for a while.	S1
+なさる	Past Positive Polite	なさいました	上司は私たちに多くの助言をなさいました。	(じょうしはわたしたちにおおくのじょげんをなさいました。)	The boss gave us a lot of advice.	S1
+なさる	Past Negative Polite	なさいませんでした	彼はその問題についてコメントをなさいませんでした。	(かれはそのもんだいについてコメントをなさいませんでした。)	He didn't make any comments on the issue.	S1
+なさる	-te Form	なさって	彼は毎週末ガーデニングをなさっています。	(かれはまいしゅうまつがーでにんぐをなさっています。)	He does gardening every weekend.	S1
+なさる	Volitional	なさろう	一緒にプロジェクトを成功させるため、頑張ってなさろう。	(いっしょにぷろじぇくとをせいこうさせるため、がんばってなさろう。)	Let's work hard together to make the project successful.	S1
+なさる	Potential	なされる	その決定はすでになされました。	(そのけっていはすでになされました。)	The decision has already been made.	S1
+なさる	Passive	なさられる	多くの人々が彼女の勇気に感銘を受けられました。	(おおくのひとびとがかのじょのゆうきにかんめいをうけられました。)	Many people were impressed by her courage.	S1
+なさる	Causative	なさらせる	その役員は新しい計画をチームに実行させることができました。	(そのやくいんはあたらしいけいかくをちーむにじっこうさせることができました。)	The executive was able to make the team implement the new plan.	S1
+なさる	Imperative	なさって	今、彼に報告書をなさってください。	(いま、かれにほうこくしょをなさってください。)	Now, please submit the report to him.	S1
+なさる	Conditional	なされば	もし彼がそれをなされば、私たちは大いに感謝します。	(もしこれがそれをなされば、わたしたちはおおいにかんしゃします。)	If he does that, we will greatly appreciate it.	S1
+下さる	Present Positive Plain	下さる	先生は生徒たちに多くの励ましを下さる。	(せんせいはせいとたちにおおくのはげましをくださる。)	The teacher gives a lot of encouragement to the students.	S2
+下さる	Present Negative Plain	下さらない	彼は最近、私たちに新しい情報を下さらない。	(かれはさいきん、わたしたちにあたらしいじょうほうをくださらない。)	He hasn't given us any new information lately.	S2
+下さる	Present Positive Polite	下さいます	上司は私たちに詳細な指示を下さいます。	(じょうしはわたしたちにしょうさいなしじをくださいます。)	The boss gives us detailed instructions.	S2
+下さる	Present Negative Polite	下さいません	彼女は最後の締め切りを守るため、延長を下さいません。	(かのじょはさいごのしめきりをまもるため、えんちょうをくださいません。)	She doesn't grant extensions to meet the final deadline.	S2
+下さる	Past Positive Plain	下さった	おばあさんは私に美味しいお菓子を下さった。	(おばあさんはわたしにおいしいおかしをくださった。)	The grandmother gave me delicious sweets.	S2
+下さる	Past Negative Plain	下さらなかった	彼は昨日、私たちに何もアドバイスを下さらなかった。	(かれはきのう、わたしたちになにもあどばいすをくださらなかった。)	He didn't give us any advice yesterday.	S2
+下さる	Past Positive Polite	下さいました	先生は私たちに多くのサポートを下さいました。	(せんせいはわたしたちにおおくのさぽーとをくださいました。)	The teacher gave us a lot of support.	S2
+下さる	Past Negative Polite	下さいませんでした	お客様は私たちに質問に答えを下さいませんでした。	(おきゃくさまはわたしたちにしつもんにこたえをくださいませんでした。)	The customer didn't give us answers to our questions.	S2
+下さる	-te Form	下さって	彼は私たちに良いアドバイスを下さって、助けてくれました。	(かれはわたしたちによいあどばいすをくださって、たすけてくれました。)	He gave us good advice and helped us.	S2
+下さる	Volitional	下さろう	一緒にこの問題に取り組んで、解決策を見つけて下さろう。	(いっしょにこのもんだいにとりくんで、かいけつさくをみつけてくださろう。)	Let's work together on this issue and find a solution.	S2
+下さる	Potential	下される	彼は困っている人々に多くの支援を下される。	(かれはこまっているひとびとにおおくのしえんをくだされる。)	He can provide a lot of support to people in need.	S2
+下さる	Passive	下さられる	その寄付は地元の団体からたくさんの賞賛を下さられました。	(そのきふはじもとのだんたいからたくさんのしょうさんをくださられました。)	The donation received a lot of praise from the local organization.	S2
+下さる	Causative	下さらせる	私たちは彼に多くのアドバイスを下さらせました。	(わたしたちはかれにおおくのあどばいすをくださらせました。)	We got him to give us a lot of advice.	S2
+下さる	Imperative	下さい	今日の会議で、あなたの意見を下さい。	(きょうのかいぎで、あなたのいけんをください。)	Please give us your opinion at today's meeting.	S2
+下さる	Conditional	下されば	もし彼が手伝って下されば、私たちは早く解決できるかもしれません。	(もし彼がてつだってくだされば、わたしたちははやくかいけつできるかもしれません。)	If he helps us, we might be able to solve it quickly.	S2
+仰る	Present Positive Plain	仰る	彼はよく健康の大切さについて話される。	(かれはよくけんこうのたいせつさについてはなされる。)	He often speaks about the importance of health.	S3
+仰る	Present Negative Plain	仰らない	私は彼がその計画について何も仰らないのが不思議だ。	(わたしはかれがそのけいかくについてなにもおっしゃらないのがふしぎだ。)	I find it strange that he hasn't said anything about the plan.	S3
+仰る	Present Positive Polite	仰います	社長は重要なポイントについて何度も仰います。	(しゃちょうはじゅうようなぽいんとについてなんどもおっしゃいます。)	The president mentions the important points repeatedly.	S3
+仰る	Present Negative Polite	仰いません	彼女は意見を仰いませんでした。	(かのじょはいけんをおっしゃいませんでした。)	She didn't offer any opinions.	S3
+仰る	Past Positive Plain	仰った	先生は昨日の授業で新しいプロジェクトについて話を仰った。	(せんせいはきのうのじゅぎょうであたらしいぷろじぇくとについてはなしをおった。)	The teacher talked about the new project in yesterday's class.	S3
+仰る	Past Negative Plain	仰らなかった	彼は昨日、その問題について何も仰らなかった。	(かれはきのう、そのもんだいについてなにもおっしゃらなかった。)	He didn't say anything about the issue yesterday.	S3
+仰る	Past Positive Polite	仰いました	上司は私たちに新しい方針について説明を仰いました。	(じょうしはわたしたちにあたらしいほうしんについてせつめいをおっしゃいました。)	The boss asked us for an explanation about the new policy.	S3
+仰る	Past Negative Polite	仰いませんでした	その件について彼は何も仰いませんでした。	(そのけんについてかれはなにもおっしゃいませんでした。)	He didn't say anything about that matter.	S3
+仰る	-te Form	仰って	彼は私たちにアドバイスを仰ってくれました。	(かれはわたしたちにあどばいすをおってくれました。)	He asked for our advice.	S3
+仰る	Volitional	仰りましょう	この問題について皆の意見を仰りましょう。	(このもんだいについてみんなのいけんをおりましょう。)	Let's ask for everyone's opinion on this issue.	S3
+仰る	Potential	仰れる	上司はいつでも相談を仰れる環境を提供してくれる。	(じょうしはいつでもそうだんをおっしゃれるかんきょうをていきょうしてくれる。)	The boss provides an environment where we can always ask for advice.	S3
+仰る	Passive	仰られる	そのリーダーは尊敬され、彼の言葉がしばしば引用されて仰られる。	(そのりーだーはそんけいされ、かれのことばがしばしばいんようされておっしゃられる。)	The leader is respected, and his words are often quoted and referred to.	S3
+仰る	Causative	仰らせる	私たちは彼に助言を仰らせることができます。	(わたしたちはかれにじょげんをおらせることができます。)	We can ask him for advice.	S3
+仰る	Imperative	仰って	お手伝いが必要なら、いつでも仰ってください。	(おてつだいがひつようなら、いつでもおっしゃってください。)	If you need help, please don't hesitate to ask.	S3
+仰る	Conditional	仰れば	もし私が彼に相談を仰れば、彼はきっと助けてくれるだろう。	(もしわたしがかれにそうだんをおれば、かれはきっとたすけてくれるだろう。)	If I ask him for advice, he will surely help me.	S3
+だ	Present Positive Plain	だ	彼は優れた作家だ。	(かれはすぐれたさっかだ。)	He is an excellent writer.	T1
+だ	Present Negative Plain	ではない	あの車は私の車ではない。	(あのくるまはわたしのくるまではない。)	That car is not mine.	T1
+だ	Present Positive Polite	です	その仕事はとても難しいです。	(そのしごとはとてもむずかしいです。)	That job is very difficult.	T1
+だ	Present Negative Polite	ではありません	彼はまだここにいません。	(かれはまだここにいません。)	He is not here yet.	T1
+だ	Past Positive Plain	だった	彼女は昨日元気だった。	(かのじょはきのうげんきだった。)	She was energetic yesterday.	T1
+だ	Past Negative Plain	ではなかった	その本は私の好きな本ではなかった。	(そのほんはわたしのすきなほんではなかった。)	That book wasn't one of my favorites.	T1
+だ	Past Positive Polite	でした	この場所は以前は公園でした。	(このばしょはいぜんはこうえんでした。)	This place used to be a park.	T1
+だ	Past Negative Polite	ではありませんでした	その説明は役に立ちませんでした。	(そのせつめいはやくにたちませんでした。)	That explanation was not helpful.	T1
+だ	-te Form	で	彼は喜んで参加しました。	(かれはよろこんでさんかしました。)	He gladly participated.	T1
+だ	Volitional	だろう	彼はきっと成功するだろう。	(かれはきっとせいこうするだろう。)	He will surely succeed.	T1
+だ	Potential	できる	彼は頭が良いので、多くのことができる。	(かれはあたまがよいので、おおくのことができる。)	He is smart, so he can do many things.	T1
+だ	Passive	される	その問題は解決されました。	(そのもんだいはかいけつされました。)	The problem has been resolved.	T1
+だ	Causative	させる	彼は私を笑わせました。	(かれはわたしをわらわせました。)	He made me laugh.	T1
+だ	Imperative	だろ	今、行動するのは最善の選択だろ。	(いま、こうどうするのはさいぜんのせんたくだろ。)	Now, taking action is the best choice.	T1
+だ	Conditional	なら	もし彼が約束を守るなら、信頼できる人だ。	(もしかれがやくそくをまもるなら、しんらいできるひとだ。)	If he keeps his promise, he is a trustworthy person.	T1
+する	Present Positive Plain	する	私は毎日運動する。	(わたしはまいにちうんどうする。)	I exercise every day.	U1
+する	Present Negative Plain	しない	彼はよく宿題をしない。	(かれはよくしゅくだいをしない。)	He often doesn't do his homework.	U1
+する	Present Positive Polite	します	社長は新しいプロジェクトを開始します。	(しゃちょうはあたらしいぷろじぇくとをかいしします。)	The president will start a new project.	U1
+する	Present Negative Polite	しません	彼女は彼の話を聞きません。	(かのじょはかれのはなしをききません。)	She doesn't listen to him.	U1
+する	Past Positive Plain	した	私たちは昨日映画を見に行った。	(わたしたちはきのうえいがをみにいった。)	We went to see a movie yesterday.	U1
+する	Past Negative Plain	しなかった	彼はその仕事を終わらせることができなかった。	(かれはそのしごとをおわらせることができなかった。)	He couldn't finish the job.	U1
+する	Past Positive Polite	しました	先週、彼女は私たちにプレゼンテーションを行いました。	(せんしゅう、かのじょはわたしたちにぷれぜんてーしょんをおこないました。)	Last week, she gave a presentation to us.	U1
+する	Past Negative Polite	しませんでした	その会議は予定通りには開かれませんでした。	(そのかいぎはよていどおりにはひらかれませんでした。)	The meeting didn't take place as scheduled.	U1
+する	-te Form	して	彼は毎日英語の勉強をしています。	(かれはまいにちえいごのべんきょうをしています。)	He studies English every day.	U1
+する	Volitional	しよう	一緒にその計画を実行しよう。	(いっしょにそのけいかくをじっこうしよう。)	Let's implement the plan together.	U1
+する	Potential	できる	彼は困難な問題を解決できる。	(かれはこんなんなもんだいをかいけつできる。)	He can solve difficult problems.	U1
+する	Passive	される	その計画はよく議論されました。	(そのけいかくはよくぎろんされました。)	The plan was well discussed.	U1
+する	Causative	させる	私は彼に手伝わせました。	(わたしはかれにてつだわせました。)	I made him help me.	U1
+する	Imperative	しろ	今すぐ行動しろ！	(いますぐこうどうしろ！)	Take action now!	U1
+する	Conditional	すれば	もし彼が言うことを聞けば、うまくいくだろう。	(もしかれがいうことをきけば、うまくいくだろう。)	If he listens to what I say, it will go well.	U1
+使用する	Present Positive Plain	使用する	このアプリを毎日使用する。	(このあぷりをまいにちしようする。)	I use this app every day.	U2
+使用する	Present Negative Plain	使用しない	彼は最新の技術を使用しない。	(かれはさいしんのぎじゅつをしようしない。)	He doesn't use the latest technology.	U2
+使用する	Present Positive Polite	使用します	そのシステムはセキュリティを確保するために使用します。	(そのしすてむはせきゅりてぃをかくほするためにしようします。)	The system is used to ensure security.	U2
+使用する	Present Negative Polite	使用しません	私はその機能をまだ使用しません。	(わたしはそのきのうをまだしようしません。)	I haven't used that feature yet.	U2
+使用する	Past Positive Plain	使用した	彼女はその新しい機能を使用した。	(かのじょはそのあたらしいきのうをしようした。)	She used the new feature.	U2
+使用する	Past Negative Plain	使用しなかった	私たちはその機会を使用しなかった。	(わたしたちはそのきかいをしようしなかった。)	We didn't use that opportunity.	U2
+使用する	Past Positive Polite	使用しました	先週、彼はそのツールを使用しました。	(せんしゅう、かれはそのつーるをしようしました。)	Last week, he used that tool.	U2
+使用する	Past Negative Polite	使用しませんでした	そのソフトウェアは正常に使用しませんでした。	(そのそふとうぇあはせいじょうにしようしませんでした。)	The software didn't function properly.	U2
+使用する	-te Form	使用して	彼らはこのアプリをテストに使用しています。	(かれらはこのあぷりをてすとにしようしています。)	They are using this app for testing.	U2
+使用する	Volitional	使用しよう	この機会を最大限に使用しよう。	(このきかいをさいだいげんにしようしよう。)	Let's make the most of this opportunity.	U2
+使用する	Potential	使用できる	このアプリはどんな端末でも使用できる。	(このあぷりはどんなたんまつでもしようできる。)	This app can be used on any device.	U2
+使用する	Passive	使用される	その言語は世界中で使用されている。	(そのげんごはせかいじゅうでしようされている。)	That language is used worldwide.	U2
+使用する	Causative	使用させる	私は彼にそのツールを使用させた。	(わたしはかれにそのつーるをしようさせた。)	I made him use that tool.	U2
+使用する	Imperative	使用しろ	この機能を使用しろ！	(このきのうをしようしろ！)	Use this function! 	U2
+使用する	Conditional	使用すれば	もし彼がそのツールを使用すれば、作業が早く終わるだろう。	(もしかれがそのつーるをしようすれば、さぎょうがはやくおわるだろう。)	If he uses that tool, the work will finish quickly.	U2
+表示する	Present Positive Plain	表示する	このボタンを押すと、結果が表示されます。	(このボタンをおすと、けっかがひょうじされます。)	Pressing this button will display the results.	U3
+表示する	Present Negative Plain	表示しない	彼は感情をあまり表示しない。	(かれはかんじょうをあまりひょうじしない。)	He doesn't show his emotions much.	U3
+表示する	Present Positive Polite	表示します	このウェブサイトは最新の情報を常に表示します。	(このウェブサイトはさいしんのじょうほうをつねにひょうじします。)	This website always displays the latest information.	U3
+表示する	Present Negative Polite	表示しません	そのエラーメッセージは何も表示しませんでした。	(そのエラーメッセージはなにもひょうじしませんでした。)	The error message didn't display anything.	U3
+表示する	Past Positive Plain	表示した	彼女は報告書を表示した。	(かのじょはほうこくしょをひょうじした。)	She displayed the report.	U3
+表示する	Past Negative Plain	表示しなかった	彼はその感情を表示しなかった。	(かれはそのかんじょうをひょうじしなかった。)	He didn't show that emotion.	U3
+表示する	Past Positive Polite	表示しました	先週、彼はプレゼンテーションを表示しました。	(せんしゅう、かれはぷれぜんてーしょんをひょうじしました。)	Last week, he displayed the presentation.	U3
+表示する	Past Negative Polite	表示しませんでした	そのウィンドウは正常に表示しませんでした。	(そのウィンドウはせいじょうにひょうじしませんでした。)	The window didn't display properly.	U3
+表示する	-te Form	表示して	その情報を詳しく表示してください。	(そのじょうほうをくわしくひょうじしてください。)	Please display the information in detail.	U3
+表示する	Volitional	表示しよう	この機能を使ってデータを表示しよう。	(このきのうをつかってでーたをひょうじしよう。)	Let's use this function to display the data.	U3
+表示する	Potential	表示できる	このアプリはさまざまなフォーマットでデータを表示できる。	(このアプリはさまざまなふぉーまっとででーたをひょうじできる。)	This app can display data in various formats.	U3
+表示する	Passive	表示される	ページが正常に表示されませんでした。	(ぺーじがせいじょうにひょうじされませんでした。)	The page didn't display properly.	U3
+表示する	Causative	表示させる	私は彼に報告書を表示させました。	(わたしはかれにほうこくしょをひょうじさせました。)	I made him display the report.	U3
+表示する	Imperative	表示しろ	この情報をすぐに表示しろ！	(このじょうほうをすぐにひょうじしろ！)	Display this information immediately!	U3
+表示する	Conditional	表示すれば	もし正しい設定を行えば、情報が表示されるだろう。	(もしただしいせっていをおこなえば、じょうほうがひょうじされるだろう。)	If the correct settings are applied, the information will be displayed.	U3
+くれる	Present Positive Plain	くれる	友達が私に本をくれる。	(ともだちがわたしにほんをくれる。)	My friend gives me a book.	V1
+くれる	Present Negative Plain	くれない	彼は私に何もくれない。	(かれはわたしになにもくれない。)	He doesn't give me anything.	V1
+くれる	Present Positive Polite	くれます	先生は生徒たちにアドバイスをくれます。	(せんせいはせいとたちにあどばいすをくれます。)	The teacher gives advice to the students.	V1
+くれる	Present Negative Polite	くれません	彼は私に手伝いをしてくれません。	(かれはわたしにてつだいをしてくれません。)	He doesn't help me.	V1
+くれる	Past Positive Plain	くれた	友達が私にプレゼントをくれた。	(ともだちがわたしにぷれぜんとをくれた。)	My friend gave me a present.	V1
+くれる	Past Negative Plain	くれなかった	彼は私にお金をくれなかった。	(かれはわたしにおかねをくれなかった。)	He didn't give me any money.	V1
+くれる	Past Positive Polite	くれました	先週、彼は私に助けをくれました。	(せんしゅう、かれはわたしにたすけをくれました。)	Last week, he helped me.	V1
+くれる	Past Negative Polite	くれませんでした	彼女は私に時間をくれませんでした。	(かのじょはわたしにじかんをくれませんでした。)	She didn't give me any time.	V1
+くれる	-te Form	くれて	彼は私に手紙を書いてくれてありがとうと言った。	(かれはわたしにてがみをかいてくれてありがとうといった。)	He said thank you for writing the letter for me.	V1
+くれる	Volitional	くれよう	この問題についてアドバイスをしてくれよう。	(このもんだいについてあどばいすをしてくれよう。)	Let's give advice about this issue.	V1
+くれる	Potential	くれる	彼女はいつでも手助けしてくれる。	(かのじょはいつでもてつだってくれる。)	She can always help me.	V1
+くれる	Passive	くれられる	お祖母さんにお金をくれられました。	(おばあさんにおかねをくれられました。)	I was given money by my grandmother.	V1
+くれる	Causative	くれさせる	彼は私に笑わせてくれました。	(かれはわたしにわらわせてくれました。)	He made me laugh.	V1
+くれる	Imperative	くれ	その本を貸してくれ。	(そのほんをかしてくれ。)	Please lend me that book.	V1
+くれる	Conditional	くれれば	もし時間があれば、手伝ってくれればいいのに。	(もしじかんがあれば、てつだってくれればいいのに。)	If you have time, it would be nice if you could help.	V1
+呉れる	Present Positive Plain	呉れる	彼はいつも丁寧に手紙を書いて呉れる。	(かれはいつもていねいにてがみをかいてくれる。)	He always kindly writes letters for me.	V2
+呉れる	Present Negative Plain	呉れない	彼女は私には何も呉れない。	(かのじょはわたしにはなにもくれない。)	She doesn't give me anything.	V2
+呉れる	Present Positive Polite	呉れます	先生は生徒に忠告をして呉れます。	(せんせいはせいとにちゅうこくをしてくれます。)	The teacher kindly gives advice to the students.	V2
+呉れる	Present Negative Polite	呉れません	彼は私に手伝いをして呉れません。	(かれはわたしにてつだいをしてくれません。)	He doesn't kindly help me.	V2
+呉れる	Past Positive Plain	呉れた	友達が私にプレゼントを買って呉れた。	(ともだちがわたしにぷれぜんとをかってくれた。)	My friend kindly bought a present for me.	V2
+呉れる	Past Negative Plain	呉れなかった	彼は私にお金を貸して呉れなかった。	(かれはわたしにおかねをかしてくれなかった。)	He didn't kindly lend me any money.	V2
+呉れる	Past Positive Polite	呉れました	先週、彼女は私に手伝いをして呉れました。	(せんしゅう、かのじょはわたしにてつだいをしてくれました。)	Last week, she kindly helped me.	V2
+呉れる	Past Negative Polite	呉れませんでした	彼は私に時間を貸して呉れませんでした。	(かれはわたしにじかんをかしてくれませんでした。)	He didn't kindly lend me any time.	V2
+呉れる	-te Form	呉れて	彼はいつも私に手伝って呉れてありがとうと言う。	(かれはいつもわたしにてつだってくれてありがとうという。)	He always says thank you for kindly helping me.	V2
+呉れる	Volitional	呉れよう	この問題について手伝って呉れよう。	(このもんだいについててつだってくれよう。)	Let's kindly help with this issue.	V2
+呉れる	Potential	呉れる	彼はいつでも助けて呉れる。	(かれはいつでもたすけてくれる。)	He can always kindly help.	V2
+呉れる	Passive	呉れられる	お母さんに料理を作って呉れられました。	(おかあさんにりょうりをつくってくれられました。)	I was kindly cooked for by my mother.	V2
+呉れる	Causative	呉れさせる	彼は私に笑わせて呉れました。	(かれはわたしにわらわせてくれました。)	He made me laugh kindly.	V2
+呉れる	Imperative	呉れ	その本を貸して呉れ。	(そのほんをかしてくれ。)	Please kindly lend me that book.	V2
+呉れる	Conditional	呉れれば	もし時間があれば、手伝って呉れればありがたい。	(もしじかんがあれば、てつだってくれればありがたい。)	If you have time, it would be appreciated if you could kindly help.	V2
+ある	Present Positive Plain	ある	机の上に本がある。	(つくえのうえにほんがある。)	There is a book on the desk.	W1
+ある	Present Negative Plain	ない	彼の家にはペットがない。	(かれのいえにはぺっとがない。)	There are no pets in his house.	W1
+ある	Present Positive Polite	あります	この地域には多くの観光スポットがあります。	(このちいきにはおおくのかんこうすぽっとがあります。)	There are many tourist spots in this area.	W1
+ある	Present Negative Polite	ありません	この問題の解決策はまだありません。	(このもんだいのかいけつさくはまだありません。)	There is still no solution to this problem.	W1
+ある	Past Positive Plain	あった	昨日、ここに彼がいると思ったが、彼はもういなかった。	(きのう、ここにかれがいるとおもったが、かれはもういなかった。)	Yesterday, I thought he was here, but he was already gone.	W1
+ある	Past Negative Plain	なかった	昨日の会議には彼女はいなかった。	(きのうのかいぎにはかのじょはいなかった。)	She wasn't present at yesterday's meeting.	W1
+ある	Past Positive Polite	ありました	その時、たくさんの人が救助活動に参加していました。	(そのとき、たくさんのひとがきゅうじょかつどうにさんかしていました。)	At that time, many people were participating in rescue operations.	W1
+ある	Past Negative Polite	ありませんでした	そのイベントには予想以上の参加者がありませんでした。	(そのイベントにはよそういじょうのさんかしゃがありませんでした。)	There were fewer participants than expected at the event.	W1
+ある	-te Form	あって	昨日は忙しくて、会議には参加できなかった。	(きのうはいそがしくて、かいぎにはさんかできなかった。)	Yesterday I was busy, so I couldn't attend the meeting.	W1
+ある	Volitional	あろう	新しいアイデアが浮かんできた。これを試してみよう。	(あたらしいあいであがうかんできた。これをためしてみよう。)	A new idea has come up. Let's try this.	W1
+ある	Potential	ありえる	その考え方は実現可能性がある。	(そのかんがえかたはじつげんかのうせいがある。)	That approach is feasible.	W1
+ある	Passive	ありえる	多くの意見が考慮されるべきだ。	(おおくのいけんがこうりょされるべきだ。)	Many opinions should be taken into consideration.	W1
+ある	Causative	あらせる	その問題は彼の怒りを引き起こさせた。	(そのもんだいはかれのいかりをひきおこさせた。)	The issue caused his anger.	W1
+ある	Imperative	あれ	そこに座れ。	(そこにすわれ。)	Sit there.	W1
+ある	Conditional	あれば	もし時間があれば、映画に行きたい。	(もしじかんがあれば、えいがにいきたい。)	If there is time, I want to go to the movies.	W1
