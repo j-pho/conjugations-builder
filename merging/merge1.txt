@@ -1,871 +1,871 @@
 		
-買う<br>[sound:jva-0001_買う.mp3	Present Positive Plain<br>買う<br>(C1)]
-買わない<br>[sound:jva-0002_買わない.mp3	Present Negative Plain<br>買う<br>(C1)]
-買います<br>[sound:jva-0003_買います.mp3	Present Positive Polite<br>買う<br>(C1)]
-買いません<br>[sound:jva-0004_買いません.mp3	Present Negative Polite<br>買う<br>(C1)]
-買った<br>[sound:jva-0005_買った.mp3	Past Positive Plain<br>買う<br>(C1)]
-買わなかった<br>[sound:jva-0006_買わなかった.mp3	Past Negative Plain<br>買う<br>(C1)]
-買いました<br>[sound:jva-0007_買いました.mp3	Past Positive Polite<br>買う<br>(C1)]
-買いませんでした<br>[sound:jva-0008_買いませんでした.mp3	Past Negative Polite<br>買う<br>(C1)]
-買って<br>[sound:jva-0009_買って.mp3	-te Form<br>買う<br>(C1)]
-買おう<br>[sound:jva-0010_買おう.mp3	Volitional<br>買う<br>(C1)]
-買える<br>[sound:jva-0011_買える.mp3	Potential<br>買う<br>(C1)]
-買われる<br>[sound:jva-0012_買われる.mp3	Passive<br>買う<br>(C1)]
-買わせる<br>[sound:jva-0013_買わせる.mp3	Causative<br>買う<br>(C1)]
-買え<br>[sound:jva-0014_買え.mp3	Imperative<br>買う<br>(C1)]
-買えば<br>[sound:jva-0015_買えば.mp3	Conditional<br>買う<br>(C1)]
-思う<br>[sound:jva-0016_思う.mp3	Present Positive Plain<br>思う<br>(C2)]
-思わない<br>[sound:jva-0017_思わない.mp3	Present Negative Plain<br>思う<br>(C2)]
-思います<br>[sound:jva-0018_思います.mp3	Present Positive Polite<br>思う<br>(C2)]
-思いません<br>[sound:jva-0019_思いません.mp3	Present Negative Polite<br>思う<br>(C2)]
-思った<br>[sound:jva-0020_思った.mp3	Past Positive Plain<br>思う<br>(C2)]
-思わなかった<br>[sound:jva-0021_思わなかった.mp3	Past Negative Plain<br>思う<br>(C2)]
-思いました<br>[sound:jva-0022_思いました.mp3	Past Positive Polite<br>思う<br>(C2)]
-思いませんでした<br>[sound:jva-0023_思いませんでした.mp3	Past Negative Polite<br>思う<br>(C2)]
-思って<br>[sound:jva-0024_思って.mp3	-te Form<br>思う<br>(C2)]
-思おう<br>[sound:jva-0025_思おう.mp3	Volitional<br>思う<br>(C2)]
-思える<br>[sound:jva-0026_思える.mp3	Potential<br>思う<br>(C2)]
-思われる<br>[sound:jva-0027_思われる.mp3	Passive<br>思う<br>(C2)]
-思わせる<br>[sound:jva-0028_思わせる.mp3	Causative<br>思う<br>(C2)]
-思え<br>[sound:jva-0029_思え.mp3	Imperative<br>思う<br>(C2)]
-思えば<br>[sound:jva-0030_思えば.mp3	Conditional<br>思う<br>(C2)]
-言う<br>[sound:jva-0031_言う.mp3	Present Positive Plain<br>言う<br>(C3)]
-言わない<br>[sound:jva-0032_言わない.mp3	Present Negative Plain<br>言う<br>(C3)]
-言います<br>[sound:jva-0033_言います.mp3	Present Positive Polite<br>言う<br>(C3)]
-言いません<br>[sound:jva-0034_言いません.mp3	Present Negative Polite<br>言う<br>(C3)]
-言った<br>[sound:jva-0035_言った.mp3	Past Positive Plain<br>言う<br>(C3)]
-言わなかった<br>[sound:jva-0036_言わなかった.mp3	Past Negative Plain<br>言う<br>(C3)]
-言いました<br>[sound:jva-0037_言いました.mp3	Past Positive Polite<br>言う<br>(C3)]
-言いませんでした<br>[sound:jva-0038_言いませんでした.mp3	Past Negative Polite<br>言う<br>(C3)]
-言って<br>[sound:jva-0039_言って.mp3	-te Form<br>言う<br>(C3)]
-言おう<br>[sound:jva-0040_言おう.mp3	Volitional<br>言う<br>(C3)]
-言える<br>[sound:jva-0041_言える.mp3	Potential<br>言う<br>(C3)]
-言われる<br>[sound:jva-0042_言われる.mp3	Passive<br>言う<br>(C3)]
-言わせる<br>[sound:jva-0043_言わせる.mp3	Causative<br>言う<br>(C3)]
-言え<br>[sound:jva-0044_言え.mp3	Imperative<br>言う<br>(C3)]
-言えば<br>[sound:jva-0045_言えば.mp3	Conditional<br>言う<br>(C3)]
-飲む<br>[sound:jva-0046_飲む.mp3	Present Positive Plain<br>飲む<br>(A1)]
-飲まない<br>[sound:jva-0047_飲まない.mp3	Present Negative Plain<br>飲む<br>(A1)]
-飲みます<br>[sound:jva-0048_飲みます.mp3	Present Positive Polite<br>飲む<br>(A1)]
-飲みません<br>[sound:jva-0049_飲みません.mp3	Present Negative Polite<br>飲む<br>(A1)]
-飲んだ<br>[sound:jva-0050_飲んだ.mp3	Past Positive Plain<br>飲む<br>(A1)]
-飲まなかった<br>[sound:jva-0051_飲まなかった.mp3	Past Negative Plain<br>飲む<br>(A1)]
-飲みました<br>[sound:jva-0052_飲みました.mp3	Past Positive Polite<br>飲む<br>(A1)]
-飲みませんでした<br>[sound:jva-0053_飲みませんでした.mp3	Past Negative Polite<br>飲む<br>(A1)]
-飲んで<br>[sound:jva-0054_飲んで.mp3	-te Form<br>飲む<br>(A1)]
-飲もう<br>[sound:jva-0055_飲もう.mp3	Volitional<br>飲む<br>(A1)]
-飲める<br>[sound:jva-0056_飲める.mp3	Potential<br>飲む<br>(A1)]
-飲まれる<br>[sound:jva-0057_飲まれる.mp3	Passive<br>飲む<br>(A1)]
-飲ませる<br>[sound:jva-0058_飲ませる.mp3	Causative<br>飲む<br>(A1)]
-飲め<br>[sound:jva-0059_飲め.mp3	Imperative<br>飲む<br>(A1)]
-飲めば<br>[sound:jva-0060_飲めば.mp3	Conditional<br>飲む<br>(A1)]
-含む<br>[sound:jva-0061_含む.mp3	Present Positive Plain<br>含む<br>(A2)]
-含まない<br>[sound:jva-0062_含まない.mp3	Present Negative Plain<br>含む<br>(A2)]
-含みます<br>[sound:jva-0063_含みます.mp3	Present Positive Polite<br>含む<br>(A2)]
-含みません<br>[sound:jva-0064_含みません.mp3	Present Negative Polite<br>含む<br>(A2)]
-含んだ<br>[sound:jva-0065_含んだ.mp3	Past Positive Plain<br>含む<br>(A2)]
-含まなかった<br>[sound:jva-0066_含まなかった.mp3	Past Negative Plain<br>含む<br>(A2)]
-含みました<br>[sound:jva-0067_含みました.mp3	Past Positive Polite<br>含む<br>(A2)]
-含みませんでした<br>[sound:jva-0068_含みませんでした.mp3	Past Negative Polite<br>含む<br>(A2)]
-含んで<br>[sound:jva-0069_含んで.mp3	-te Form<br>含む<br>(A2)]
-含もう<br>[sound:jva-0070_含もう.mp3	Volitional<br>含む<br>(A2)]
-含める<br>[sound:jva-0071_含める.mp3	Potential<br>含む<br>(A2)]
-含まれる<br>[sound:jva-0072_含まれる.mp3	Passive<br>含む<br>(A2)]
-含ませる<br>[sound:jva-0073_含ませる.mp3	Causative<br>含む<br>(A2)]
-含め<br>[sound:jva-0074_含め.mp3	Imperative<br>含む<br>(A2)]
-含めば<br>[sound:jva-0075_含めば.mp3	Conditional<br>含む<br>(A2)]
-住む<br>[sound:jva-0076_住む.mp3	Present Positive Plain<br>住む<br>(A3)]
-住まない<br>[sound:jva-0077_住まない.mp3	Present Negative Plain<br>住む<br>(A3)]
-住みます<br>[sound:jva-0078_住みます.mp3	Present Positive Polite<br>住む<br>(A3)]
-住みません<br>[sound:jva-0079_住みません.mp3	Present Negative Polite<br>住む<br>(A3)]
-住んだ<br>[sound:jva-0080_住んだ.mp3	Past Positive Plain<br>住む<br>(A3)]
-住まなかった<br>[sound:jva-0081_住まなかった.mp3	Past Negative Plain<br>住む<br>(A3)]
-住みました<br>[sound:jva-0082_住みました.mp3	Past Positive Polite<br>住む<br>(A3)]
-住みませんでした<br>[sound:jva-0083_住みませんでした.mp3	Past Negative Polite<br>住む<br>(A3)]
-住んで<br>[sound:jva-0084_住んで.mp3	-te Form<br>住む<br>(A3)]
-住もう<br>[sound:jva-0085_住もう.mp3	Volitional<br>住む<br>(A3)]
-住める<br>[sound:jva-0086_住める.mp3	Potential<br>住む<br>(A3)]
-住まれる<br>[sound:jva-0087_住まれる.mp3	Passive<br>住む<br>(A3)]
-住ませる<br>[sound:jva-0088_住ませる.mp3	Causative<br>住む<br>(A3)]
-住め<br>[sound:jva-0089_住め.mp3	Imperative<br>住む<br>(A3)]
-住めば<br>[sound:jva-0090_住めば.mp3	Conditional<br>住む<br>(A3)]
-食べる<br>[sound:jva-0091_食べる.mp3	Present Positive Plain<br>食べる<br>(B1)]
-食べない<br>[sound:jva-0092_食べない.mp3	Present Negative Plain<br>食べる<br>(B1)]
-食べます<br>[sound:jva-0093_食べます.mp3	Present Positive Polite<br>食べる<br>(B1)]
-食べません<br>[sound:jva-0094_食べません.mp3	Present Negative Polite<br>食べる<br>(B1)]
-食べた<br>[sound:jva-0095_食べた.mp3	Past Positive Plain<br>食べる<br>(B1)]
-食べなかった<br>[sound:jva-0096_食べなかった.mp3	Past Negative Plain<br>食べる<br>(B1)]
-食べました<br>[sound:jva-0097_食べました.mp3	Past Positive Polite<br>食べる<br>(B1)]
-食べませんでした<br>[sound:jva-0098_食べませんでした.mp3	Past Negative Polite<br>食べる<br>(B1)]
-食べて<br>[sound:jva-0099_食べて.mp3	-te Form<br>食べる<br>(B1)]
-食べよう<br>[sound:jva-0100_食べよう.mp3	Volitional<br>食べる<br>(B1)]
-食べられる<br>[sound:jva-0101_食べられる.mp3	Potential<br>食べる<br>(B1)]
-食べられる<br>[sound:jva-0102_食べられる.mp3	Passive<br>食べる<br>(B1)]
-食べさせる<br>[sound:jva-0103_食べさせる.mp3	Causative<br>食べる<br>(B1)]
-食べろ<br>[sound:jva-0104_食べろ.mp3	Imperative<br>食べる<br>(B1)]
-食べれば<br>[sound:jva-0105_食べれば.mp3	Conditional<br>食べる<br>(B1)]
-見る<br>[sound:jva-0106_見る.mp3	Present Positive Plain<br>見る<br>(B2)]
-見ない<br>[sound:jva-0107_見ない.mp3	Present Negative Plain<br>見る<br>(B2)]
-見ます<br>[sound:jva-0108_見ます.mp3	Present Positive Polite<br>見る<br>(B2)]
-見ません<br>[sound:jva-0109_見ません.mp3	Present Negative Polite<br>見る<br>(B2)]
-見た<br>[sound:jva-0110_見た.mp3	Past Positive Plain<br>見る<br>(B2)]
-見なかった<br>[sound:jva-0111_見なかった.mp3	Past Negative Plain<br>見る<br>(B2)]
-見ました<br>[sound:jva-0112_見ました.mp3	Past Positive Polite<br>見る<br>(B2)]
-見ませんでした<br>[sound:jva-0113_見ませんでした.mp3	Past Negative Polite<br>見る<br>(B2)]
-見て<br>[sound:jva-0114_見て.mp3	-te Form<br>見る<br>(B2)]
-見よう<br>[sound:jva-0115_見よう.mp3	Volitional<br>見る<br>(B2)]
-見られる<br>[sound:jva-0116_見られる.mp3	Potential<br>見る<br>(B2)]
-見られる<br>[sound:jva-0117_見られる.mp3	Passive<br>見る<br>(B2)]
-見させる<br>[sound:jva-0118_見させる.mp3	Causative<br>見る<br>(B2)]
-見ろ<br>[sound:jva-0119_見ろ.mp3	Imperative<br>見る<br>(B2)]
-見れば<br>[sound:jva-0120_見れば.mp3	Conditional<br>見る<br>(B2)]
-用いる<br>[sound:jva-0121_用いる.mp3	Present Positive Plain<br>用いる<br>(B3)]
-用いない<br>[sound:jva-0122_用いない.mp3	Present Negative Plain<br>用いる<br>(B3)]
-用います<br>[sound:jva-0123_用います.mp3	Present Positive Polite<br>用いる<br>(B3)]
-用いません<br>[sound:jva-0124_用いません.mp3	Present Negative Polite<br>用いる<br>(B3)]
-用いた<br>[sound:jva-0125_用いた.mp3	Past Positive Plain<br>用いる<br>(B3)]
-用いなかった<br>[sound:jva-0126_用いなかった.mp3	Past Negative Plain<br>用いる<br>(B3)]
-用いました<br>[sound:jva-0127_用いました.mp3	Past Positive Polite<br>用いる<br>(B3)]
-用いませんでした<br>[sound:jva-0128_用いませんでした.mp3	Past Negative Polite<br>用いる<br>(B3)]
-用いて<br>[sound:jva-0129_用いて.mp3	-te Form<br>用いる<br>(B3)]
-用おう<br>[sound:jva-0130_用おう.mp3	Volitional<br>用いる<br>(B3)]
-用える<br>[sound:jva-0131_用える.mp3	Potential<br>用いる<br>(B3)]
-用われる<br>[sound:jva-0132_用われる.mp3	Passive<br>用いる<br>(B3)]
-用わせる<br>[sound:jva-0133_用わせる.mp3	Causative<br>用いる<br>(B3)]
-用いろ<br>[sound:jva-0134_用いろ.mp3	Imperative<br>用いる<br>(B3)]
-用えば<br>[sound:jva-0135_用えば.mp3	Conditional<br>用いる<br>(B3)]
-行く(D1)<br>[sound:jva-0136_彼は毎朝ジョギングに行く。.mp3	行く]
-行く(D1)<br>[sound:jva-0137_彼女は雨の日には外出しない。.mp3	行かない]
-行く(D1)<br>[sound:jva-0138_私たちは今晩映画を見に行きます。.mp3	行きます]
-行く(D1)<br>[sound:jva-0139_この週末は旅行には行きません。.mp3	行きません]
-行く(D1)<br>[sound:jva-0140_先週、友達と海へ行った。.mp3	行った]
-行く(D1)<br>[sound:jva-0141_彼は昨日、授業に行かなかった。.mp3	行かなかった]
-行く(D1)<br>[sound:jva-0142_彼女は昨夜、コンサートに行きました。.mp3	行きました]
-行く(D1)<br>[sound:jva-0143_私たちは先週末、野外コンサートに行きませんでした。.mp3	行きませんでした]
-行く(D1)<br>[sound:jva-0144_彼らは映画館に行ってきた。.mp3	行って]
-行く(D1)<br>[sound:jva-0145_明日は公園にピクニックしに行こう。.mp3	行こう]
-行く(D1)<br>[sound:jva-0146_彼は一人で外国に行ける。.mp3	行ける]
-行く(D1)<br>[sound:jva-0147_その会社では、定期的に海外出張が行かれる。.mp3	行かれる]
-行く(D1)<br>[sound:jva-0148_両親は子供たちを映画館に行かせた。.mp3	行かせる]
-行く(D1)<br>[sound:jva-0149_早く行け！.mp3	行け]
-行く(D1)<br>[sound:jva-0150_もし天気が良ければ、散歩に行けばどうですか？.mp3	行けば]
-往く(D2)<br>[sound:jva-0151_彼は毎年夏に祖国へ往く。.mp3	往く]
-往く(D2)<br>[sound:jva-0152_彼女は町から出ずに往かない。.mp3	往かない]
-往く(D2)<br>[sound:jva-0153_彼は出張のために東京へ往きます。.mp3	往きます]
-往く(D2)<br>[sound:jva-0154_今日は用事があって出かけないので、外には往きません。.mp3	往きません]
-往く(D2)<br>[sound:jva-0155_私は昨日、彼の家へ往いた。.mp3	往いた]
-往く(D2)<br>[sound:jva-0156_彼は昨日、予定が変わって出かけなかったので、祭りへ往かなかった。.mp3	往かなかった]
-往く(D2)<br>[sound:jva-0157_先月、京都へ往きました。.mp3	往きました]
-往く(D2)<br>[sound:jva-0158_その日は雨だったので、公園へ往きませんでした。.mp3	往きませんでした]
-往く(D2)<br>[sound:jva-0159_神社へお参りに往いて、お守りを買いました。.mp3	往いて]
-往く(D2)<br>[sound:jva-0160_明日は山へ往こうと思っています。.mp3	往こう]
-往く(D2)<br>[sound:jva-0161_彼は自由に世界中を往ける。.mp3	往ける]
-往く(D2)<br>[sound:jva-0162_その地域は多くの観光客によって訪れられている。.mp3	往かれる]
-往く(D2)<br>[sound:jva-0163_彼は子供たちを危険な場所へは往かせない。.mp3	往かせる]
-往く(D2)<br>[sound:jva-0164_旅立ちの時が来たら、新しい冒険に往け！.mp3	往け]
-往く(D2)<br>[sound:jva-0165_大学が近くにあれば、自転車で往けばいいですね。.mp3	往けば]
-イく<br>[sound:jva-0166_イく.mp3	Present Positive Plain<br>イく<br>(D3)]
-イかん<br>[sound:jva-0167_イかん.mp3	Present Negative Plain<br>イく<br>(D3)]
-イきます<br>[sound:jva-0168_イきます.mp3	Present Positive Polite<br>イく<br>(D3)]
-イきません<br>[sound:jva-0169_イきません.mp3	Present Negative Polite<br>イく<br>(D3)]
-イった<br>[sound:jva-0170_イった.mp3	Past Positive Plain<br>イく<br>(D3)]
-イかんかった<br>[sound:jva-0171_イかんかった.mp3	Past Negative Plain<br>イく<br>(D3)]
-イきました<br>[sound:jva-0172_イきました.mp3	Past Positive Polite<br>イく<br>(D3)]
-イきませんでした<br>[sound:jva-0173_イきませんでした.mp3	Past Negative Polite<br>イく<br>(D3)]
-イって<br>[sound:jva-0174_イって.mp3	-te Form<br>イく<br>(D3)]
-イこう<br>[sound:jva-0175_イこう.mp3	Volitional<br>イく<br>(D3)]
-イける<br>[sound:jva-0176_イける.mp3	Potential<br>イく<br>(D3)]
-イかれる<br>[sound:jva-0177_イかれる.mp3	Passive<br>イく<br>(D3)]
-イかせる<br>[sound:jva-0178_イかせる.mp3	Causative<br>イく<br>(D3)]
-イけ<br>[sound:jva-0179_イけ.mp3	Imperative<br>イく<br>(D3)]
-イけば<br>[sound:jva-0180_イけば.mp3	Conditional<br>イく<br>(D3)]
-禁ずる<br>[sound:jva-0181_禁ずる.mp3	Present Positive Plain<br>禁ずる<br>(E1)]
-禁ずられない<br>[sound:jva-0182_禁ずられない.mp3	Present Negative Plain<br>禁ずる<br>(E1)]
-禁ずります<br>[sound:jva-0183_禁ずります.mp3	Present Positive Polite<br>禁ずる<br>(E1)]
-禁ずりません<br>[sound:jva-0184_禁ずりません.mp3	Present Negative Polite<br>禁ずる<br>(E1)]
-禁ずった<br>[sound:jva-0185_禁ずった.mp3	Past Positive Plain<br>禁ずる<br>(E1)]
-禁ずられなかった<br>[sound:jva-0186_禁ずられなかった.mp3	Past Negative Plain<br>禁ずる<br>(E1)]
-禁ずりました<br>[sound:jva-0187_禁ずりました.mp3	Past Positive Polite<br>禁ずる<br>(E1)]
-禁ずりませんでした<br>[sound:jva-0188_禁ずりませんでした.mp3	Past Negative Polite<br>禁ずる<br>(E1)]
-禁ずって<br>[sound:jva-0189_禁ずって.mp3	-te Form<br>禁ずる<br>(E1)]
-禁ずろう<br>[sound:jva-0190_禁ずろう.mp3	Volitional<br>禁ずる<br>(E1)]
-禁ずれる<br>[sound:jva-0191_禁ずれる.mp3	Potential<br>禁ずる<br>(E1)]
-禁ずられる<br>[sound:jva-0192_禁ずられる.mp3	Passive<br>禁ずる<br>(E1)]
-禁ずらせる<br>[sound:jva-0193_禁ずらせる.mp3	Causative<br>禁ずる<br>(E1)]
-禁ずれ<br>[sound:jva-0194_禁ずれ.mp3	Imperative<br>禁ずる<br>(E1)]
-禁ずれば<br>[sound:jva-0195_禁ずれば.mp3	Conditional<br>禁ずる<br>(E1)]
-信ずる<br>[sound:jva-0196_信ずる.mp3	Present Positive Plain<br>信ずる<br>(E2)]
-信じない<br>[sound:jva-0197_信じない.mp3	Present Negative Plain<br>信ずる<br>(E2)]
-信じます<br>[sound:jva-0198_信じます.mp3	Present Positive Polite<br>信ずる<br>(E2)]
-信じません<br>[sound:jva-0199_信じません.mp3	Present Negative Polite<br>信ずる<br>(E2)]
-信じた<br>[sound:jva-0200_信じた.mp3	Past Positive Plain<br>信ずる<br>(E2)]
-信じなかった<br>[sound:jva-0201_信じなかった.mp3	Past Negative Plain<br>信ずる<br>(E2)]
-信じました<br>[sound:jva-0202_信じました.mp3	Past Positive Polite<br>信ずる<br>(E2)]
-信じませんでした<br>[sound:jva-0203_信じませんでした.mp3	Past Negative Polite<br>信ずる<br>(E2)]
-信じて<br>[sound:jva-0204_信じて.mp3	-te Form<br>信ずる<br>(E2)]
-信じよう<br>[sound:jva-0205_信じよう.mp3	Volitional<br>信ずる<br>(E2)]
-信じられる<br>[sound:jva-0206_信じられる.mp3	Potential<br>信ずる<br>(E2)]
-信じられる<br>[sound:jva-0207_信じられる.mp3	Passive<br>信ずる<br>(E2)]
-信じさせる<br>[sound:jva-0208_信じさせる.mp3	Causative<br>信ずる<br>(E2)]
-信じろ<br>[sound:jva-0209_信じろ.mp3	Imperative<br>信ずる<br>(E2)]
-信じれば<br>[sound:jva-0210_信じれば.mp3	Conditional<br>信ずる<br>(E2)]
-命ずる<br>[sound:jva-0211_命ずる.mp3	Present Positive Plain<br>命ずる<br>(E3)]
-命ずらない<br>[sound:jva-0212_命ずらない.mp3	Present Negative Plain<br>命ずる<br>(E3)]
-命ずります<br>[sound:jva-0213_命ずります.mp3	Present Positive Polite<br>命ずる<br>(E3)]
-命ずりません<br>[sound:jva-0214_命ずりません.mp3	Present Negative Polite<br>命ずる<br>(E3)]
-命ずった<br>[sound:jva-0215_命ずった.mp3	Past Positive Plain<br>命ずる<br>(E3)]
-命ずらなかった<br>[sound:jva-0216_命ずらなかった.mp3	Past Negative Plain<br>命ずる<br>(E3)]
-命ずりました<br>[sound:jva-0217_命ずりました.mp3	Past Positive Polite<br>命ずる<br>(E3)]
-命ずりませんでした<br>[sound:jva-0218_命ずりませんでした.mp3	Past Negative Polite<br>命ずる<br>(E3)]
-命ずって<br>[sound:jva-0219_命ずって.mp3	-te Form<br>命ずる<br>(E3)]
-命ずろう<br>[sound:jva-0220_命ずろう.mp3	Volitional<br>命ずる<br>(E3)]
-命ずれる<br>[sound:jva-0221_命ずれる.mp3	Potential<br>命ずる<br>(E3)]
-命ずられる<br>[sound:jva-0222_命ずられる.mp3	Passive<br>命ずる<br>(E3)]
-命ずらせる<br>[sound:jva-0223_命ずらせる.mp3	Causative<br>命ずる<br>(E3)]
-命ずれ<br>[sound:jva-0224_命ずれ.mp3	Imperative<br>命ずる<br>(E3)]
-命ずれば<br>[sound:jva-0225_命ずれば.mp3	Conditional<br>命ずる<br>(E3)]
-泳ぐ<br>[sound:jva-0226_泳ぐ.mp3	Present Positive Plain<br>泳ぐ<br>(F1)]
-泳がない<br>[sound:jva-0227_泳がない.mp3	Present Negative Plain<br>泳ぐ<br>(F1)]
-泳ぎます<br>[sound:jva-0228_泳ぎます.mp3	Present Positive Polite<br>泳ぐ<br>(F1)]
-泳ぎません<br>[sound:jva-0229_泳ぎません.mp3	Present Negative Polite<br>泳ぐ<br>(F1)]
-泳いだ<br>[sound:jva-0230_泳いだ.mp3	Past Positive Plain<br>泳ぐ<br>(F1)]
-泳がなかった<br>[sound:jva-0231_泳がなかった.mp3	Past Negative Plain<br>泳ぐ<br>(F1)]
-泳ぎました<br>[sound:jva-0232_泳ぎました.mp3	Past Positive Polite<br>泳ぐ<br>(F1)]
-泳ぎませんでした<br>[sound:jva-0233_泳ぎませんでした.mp3	Past Negative Polite<br>泳ぐ<br>(F1)]
-泳いで<br>[sound:jva-0234_泳いで.mp3	-te Form<br>泳ぐ<br>(F1)]
-泳ごう<br>[sound:jva-0235_泳ごう.mp3	Volitional<br>泳ぐ<br>(F1)]
-泳げる<br>[sound:jva-0236_泳げる.mp3	Potential<br>泳ぐ<br>(F1)]
-泳がれる<br>[sound:jva-0237_泳がれる.mp3	Passive<br>泳ぐ<br>(F1)]
-泳がせる<br>[sound:jva-0238_泳がせる.mp3	Causative<br>泳ぐ<br>(F1)]
-泳げ<br>[sound:jva-0239_泳げ.mp3	Imperative<br>泳ぐ<br>(F1)]
-泳げば<br>[sound:jva-0240_泳げば.mp3	Conditional<br>泳ぐ<br>(F1)]
-次ぐ<br>[sound:jva-0241_次ぐ.mp3	Present Positive Plain<br>次ぐ<br>(F2)]
-次がない<br>[sound:jva-0242_次がない.mp3	Present Negative Plain<br>次ぐ<br>(F2)]
-次ぎます<br>[sound:jva-0243_次ぎます.mp3	Present Positive Polite<br>次ぐ<br>(F2)]
-次ぎません<br>[sound:jva-0244_次ぎません.mp3	Present Negative Polite<br>次ぐ<br>(F2)]
-次いだ<br>[sound:jva-0245_次いだ.mp3	Past Positive Plain<br>次ぐ<br>(F2)]
-次がなかった<br>[sound:jva-0246_次がなかった.mp3	Past Negative Plain<br>次ぐ<br>(F2)]
-次ぎました<br>[sound:jva-0247_次ぎました.mp3	Past Positive Polite<br>次ぐ<br>(F2)]
-次ぎませんでした<br>[sound:jva-0248_次ぎませんでした.mp3	Past Negative Polite<br>次ぐ<br>(F2)]
-次いで<br>[sound:jva-0249_次いで.mp3	-te Form<br>次ぐ<br>(F2)]
-次ごう<br>[sound:jva-0250_次ごう.mp3	Volitional<br>次ぐ<br>(F2)]
-次げる<br>[sound:jva-0251_次げる.mp3	Potential<br>次ぐ<br>(F2)]
-次がれる<br>[sound:jva-0252_次がれる.mp3	Passive<br>次ぐ<br>(F2)]
-次がせる<br>[sound:jva-0253_次がせる.mp3	Causative<br>次ぐ<br>(F2)]
-次げ<br>[sound:jva-0254_次げ.mp3	Imperative<br>次ぐ<br>(F2)]
-次げば<br>[sound:jva-0255_次げば.mp3	Conditional<br>次ぐ<br>(F2)]
-注ぐ<br>[sound:jva-0256_注ぐ.mp3	Present Positive Plain<br>注ぐ<br>(F3)]
-注がない<br>[sound:jva-0257_注がない.mp3	Present Negative Plain<br>注ぐ<br>(F3)]
-注ぎます<br>[sound:jva-0258_注ぎます.mp3	Present Positive Polite<br>注ぐ<br>(F3)]
-注ぎません<br>[sound:jva-0259_注ぎません.mp3	Present Negative Polite<br>注ぐ<br>(F3)]
-注いだ<br>[sound:jva-0260_注いだ.mp3	Past Positive Plain<br>注ぐ<br>(F3)]
-注がなかった<br>[sound:jva-0261_注がなかった.mp3	Past Negative Plain<br>注ぐ<br>(F3)]
-注ぎました<br>[sound:jva-0262_注ぎました.mp3	Past Positive Polite<br>注ぐ<br>(F3)]
-注ぎませんでした<br>[sound:jva-0263_注ぎませんでした.mp3	Past Negative Polite<br>注ぐ<br>(F3)]
-注いで<br>[sound:jva-0264_注いで.mp3	-te Form<br>注ぐ<br>(F3)]
-注ごう<br>[sound:jva-0265_注ごう.mp3	Volitional<br>注ぐ<br>(F3)]
-注げる<br>[sound:jva-0266_注げる.mp3	Potential<br>注ぐ<br>(F3)]
-注がれる<br>[sound:jva-0267_注がれる.mp3	Passive<br>注ぐ<br>(F3)]
-注がせる<br>[sound:jva-0268_注がせる.mp3	Causative<br>注ぐ<br>(F3)]
-注げ<br>[sound:jva-0269_注げ.mp3	Imperative<br>注ぐ<br>(F3)]
-注げば<br>[sound:jva-0270_注げば.mp3	Conditional<br>注ぐ<br>(F3)]
-死ぬ<br>[sound:jva-0271_死ぬ.mp3	Present Positive Plain<br>死ぬ<br>(G1)]
-死なない<br>[sound:jva-0272_死なない.mp3	Present Negative Plain<br>死ぬ<br>(G1)]
-死にます<br>[sound:jva-0273_死にます.mp3	Present Positive Polite<br>死ぬ<br>(G1)]
-死にません<br>[sound:jva-0274_死にません.mp3	Present Negative Polite<br>死ぬ<br>(G1)]
-死んだ<br>[sound:jva-0275_死んだ.mp3	Past Positive Plain<br>死ぬ<br>(G1)]
-死ななかった<br>[sound:jva-0276_死ななかった.mp3	Past Negative Plain<br>死ぬ<br>(G1)]
-死にました<br>[sound:jva-0277_死にました.mp3	Past Positive Polite<br>死ぬ<br>(G1)]
-死にませんでした<br>[sound:jva-0278_死にませんでした.mp3	Past Negative Polite<br>死ぬ<br>(G1)]
-死んで<br>[sound:jva-0279_死んで.mp3	-te Form<br>死ぬ<br>(G1)]
-死のう<br>[sound:jva-0280_死のう.mp3	Volitional<br>死ぬ<br>(G1)]
-死ねる<br>[sound:jva-0281_死ねる.mp3	Potential<br>死ぬ<br>(G1)]
-死なれる<br>[sound:jva-0282_死なれる.mp3	Passive<br>死ぬ<br>(G1)]
-死なせる<br>[sound:jva-0283_死なせる.mp3	Causative<br>死ぬ<br>(G1)]
-死ね<br>[sound:jva-0284_死ね.mp3	Imperative<br>死ぬ<br>(G1)]
-死ねば<br>[sound:jva-0285_死ねば.mp3	Conditional<br>死ぬ<br>(G1)]
-去ぬ<br>[sound:jva-0286_去ぬ.mp3	Present Positive Plain<br>去ぬ<br>(G2)]
-去らない<br>[sound:jva-0287_去らない.mp3	Present Negative Plain<br>去ぬ<br>(G2)]
-去ります<br>[sound:jva-0288_去ります.mp3	Present Positive Polite<br>去ぬ<br>(G2)]
-去りません<br>[sound:jva-0289_去りません.mp3	Present Negative Polite<br>去ぬ<br>(G2)]
-去った<br>[sound:jva-0290_去った.mp3	Past Positive Plain<br>去ぬ<br>(G2)]
-去らなかった<br>[sound:jva-0291_去らなかった.mp3	Past Negative Plain<br>去ぬ<br>(G2)]
-去りました<br>[sound:jva-0292_去りました.mp3	Past Positive Polite<br>去ぬ<br>(G2)]
-去りませんでした<br>[sound:jva-0293_去りませんでした.mp3	Past Negative Polite<br>去ぬ<br>(G2)]
-去って<br>[sound:jva-0294_去って.mp3	-te Form<br>去ぬ<br>(G2)]
-去ろう<br>[sound:jva-0295_去ろう.mp3	Volitional<br>去ぬ<br>(G2)]
-去れる<br>[sound:jva-0296_去れる.mp3	Potential<br>去ぬ<br>(G2)]
-去られる<br>[sound:jva-0297_去られる.mp3	Passive<br>去ぬ<br>(G2)]
-去らせる<br>[sound:jva-0298_去らせる.mp3	Causative<br>去ぬ<br>(G2)]
-去れ<br>[sound:jva-0299_去れ.mp3	Imperative<br>去ぬ<br>(G2)]
-去れば<br>[sound:jva-0300_去れば.mp3	Conditional<br>去ぬ<br>(G2)]
-往ぬ<br>[sound:jva-0301_往ぬ.mp3	Present Positive Plain<br>往ぬ<br>(G3)]
-往かぬ<br>[sound:jva-0302_往かぬ.mp3	Present Negative Plain<br>往ぬ<br>(G3)]
-往きます<br>[sound:jva-0303_往きます.mp3	Present Positive Polite<br>往ぬ<br>(G3)]
-往きません<br>[sound:jva-0304_往きません.mp3	Present Negative Polite<br>往ぬ<br>(G3)]
-往った<br>[sound:jva-0305_往った.mp3	Past Positive Plain<br>往ぬ<br>(G3)]
-往かなかった<br>[sound:jva-0306_往かなかった.mp3	Past Negative Plain<br>往ぬ<br>(G3)]
-往きました<br>[sound:jva-0307_往きました.mp3	Past Positive Polite<br>往ぬ<br>(G3)]
-往きませんでした<br>[sound:jva-0308_往きませんでした.mp3	Past Negative Polite<br>往ぬ<br>(G3)]
-往いて<br>[sound:jva-0309_往いて.mp3	-te Form<br>往ぬ<br>(G3)]
-往こう<br>[sound:jva-0310_往こう.mp3	Volitional<br>往ぬ<br>(G3)]
-往ける<br>[sound:jva-0311_往ける.mp3	Potential<br>往ぬ<br>(G3)]
-往かれる<br>[sound:jva-0312_往かれる.mp3	Passive<br>往ぬ<br>(G3)]
-往かせる<br>[sound:jva-0313_往かせる.mp3	Causative<br>往ぬ<br>(G3)]
-往け<br>[sound:jva-0314_往け.mp3	Imperative<br>往ぬ<br>(G3)]
-往けば<br>[sound:jva-0315_往けば.mp3	Conditional<br>往ぬ<br>(G3)]
-来る<br>[sound:jva-0316_来る.mp3	Present Positive Plain<br>来る<br>(H1)]
-来ない<br>[sound:jva-0317_来ない.mp3	Present Negative Plain<br>来る<br>(H1)]
-来ます<br>[sound:jva-0318_来ます.mp3	Present Positive Polite<br>来る<br>(H1)]
-来ません<br>[sound:jva-0319_来ません.mp3	Present Negative Polite<br>来る<br>(H1)]
-来た<br>[sound:jva-0320_来た.mp3	Past Positive Plain<br>来る<br>(H1)]
-来なかった<br>[sound:jva-0321_来なかった.mp3	Past Negative Plain<br>来る<br>(H1)]
-来ました<br>[sound:jva-0322_来ました.mp3	Past Positive Polite<br>来る<br>(H1)]
-来ませんでした<br>[sound:jva-0323_来ませんでした.mp3	Past Negative Polite<br>来る<br>(H1)]
-来て<br>[sound:jva-0324_来て.mp3	-te Form<br>来る<br>(H1)]
-来よう<br>[sound:jva-0325_来よう.mp3	Volitional<br>来る<br>(H1)]
-来られる<br>[sound:jva-0326_来られる.mp3	Potential<br>来る<br>(H1)]
-来られる<br>[sound:jva-0327_来られる.mp3	Passive<br>来る<br>(H1)]
-来させる<br>[sound:jva-0328_来させる.mp3	Causative<br>来る<br>(H1)]
-来い<br>[sound:jva-0329_来い.mp3	Imperative<br>来る<br>(H1)]
-来れば<br>[sound:jva-0330_来れば.mp3	Conditional<br>来る<br>(H1)]
-連れて来る<br>[sound:jva-0331_連れて来る.mp3	Present Positive Plain<br>連れて来る<br>(H2)]
-連れて来ない<br>[sound:jva-0332_連れて来ない.mp3	Present Negative Plain<br>連れて来る<br>(H2)]
-連れて来ます<br>[sound:jva-0333_連れて来ます.mp3	Present Positive Polite<br>連れて来る<br>(H2)]
-連れて来ません<br>[sound:jva-0334_連れて来ません.mp3	Present Negative Polite<br>連れて来る<br>(H2)]
-連れて来た<br>[sound:jva-0335_連れて来た.mp3	Past Positive Plain<br>連れて来る<br>(H2)]
-連れて来なかった<br>[sound:jva-0336_連れて来なかった.mp3	Past Negative Plain<br>連れて来る<br>(H2)]
-連れて来ました<br>[sound:jva-0337_連れて来ました.mp3	Past Positive Polite<br>連れて来る<br>(H2)]
-連れて来ませんでした<br>[sound:jva-0338_連れて来ませんでした.mp3	Past Negative Polite<br>連れて来る<br>(H2)]
-連れて来て<br>[sound:jva-0339_連れて来て.mp3	-te Form<br>連れて来る<br>(H2)]
-連れて来よう<br>[sound:jva-0340_連れて来よう.mp3	Volitional<br>連れて来る<br>(H2)]
-連れて来られる<br>[sound:jva-0341_連れて来られる.mp3	Potential<br>連れて来る<br>(H2)]
-連れて来られる<br>[sound:jva-0342_連れて来られる.mp3	Passive<br>連れて来る<br>(H2)]
-連れて来させる<br>[sound:jva-0343_連れて来させる.mp3	Causative<br>連れて来る<br>(H2)]
-連れて来い<br>[sound:jva-0344_連れて来い.mp3	Imperative<br>連れて来る<br>(H2)]
-連れて来れば<br>[sound:jva-0345_連れて来れば.mp3	Conditional<br>連れて来る<br>(H2)]
-有る<br>[sound:jva-0346_有る.mp3	Present Positive Plain<br>有る<br>(I1)]
-有らない<br>[sound:jva-0347_有らない.mp3	Present Negative Plain<br>有る<br>(I1)]
-有ります<br>[sound:jva-0348_有ります.mp3	Present Positive Polite<br>有る<br>(I1)]
-有りません<br>[sound:jva-0349_有りません.mp3	Present Negative Polite<br>有る<br>(I1)]
-有った<br>[sound:jva-0350_有った.mp3	Past Positive Plain<br>有る<br>(I1)]
-有らなかった<br>[sound:jva-0351_有らなかった.mp3	Past Negative Plain<br>有る<br>(I1)]
-有りました<br>[sound:jva-0352_有りました.mp3	Past Positive Polite<br>有る<br>(I1)]
-有りませんでした<br>[sound:jva-0353_有りませんでした.mp3	Past Negative Polite<br>有る<br>(I1)]
-有って<br>[sound:jva-0354_有って.mp3	-te Form<br>有る<br>(I1)]
-有ろう<br>[sound:jva-0355_有ろう.mp3	Volitional<br>有る<br>(I1)]
-有れる<br>[sound:jva-0356_有れる.mp3	Potential<br>有る<br>(I1)]
-有られる<br>[sound:jva-0357_有られる.mp3	Passive<br>有る<br>(I1)]
-有らせる<br>[sound:jva-0358_有らせる.mp3	Causative<br>有る<br>(I1)]
-有れ<br>[sound:jva-0359_有れ.mp3	Imperative<br>有る<br>(I1)]
-有れば<br>[sound:jva-0360_有れば.mp3	Conditional<br>有る<br>(I1)]
-書く<br>[sound:jva-0361_書く.mp3	Present Positive Plain<br>書く<br>(J1)]
-書かない<br>[sound:jva-0362_書かない.mp3	Present Negative Plain<br>書く<br>(J1)]
-書きます<br>[sound:jva-0363_書きます.mp3	Present Positive Polite<br>書く<br>(J1)]
-書きません<br>[sound:jva-0364_書きません.mp3	Present Negative Polite<br>書く<br>(J1)]
-書いた<br>[sound:jva-0365_書いた.mp3	Past Positive Plain<br>書く<br>(J1)]
-書かなかった<br>[sound:jva-0366_書かなかった.mp3	Past Negative Plain<br>書く<br>(J1)]
-書きました<br>[sound:jva-0367_書きました.mp3	Past Positive Polite<br>書く<br>(J1)]
-書きませんでした<br>[sound:jva-0368_書きませんでした.mp3	Past Negative Polite<br>書く<br>(J1)]
-書いて<br>[sound:jva-0369_書いて.mp3	-te Form<br>書く<br>(J1)]
-書こう<br>[sound:jva-0370_書こう.mp3	Volitional<br>書く<br>(J1)]
-書ける<br>[sound:jva-0371_書ける.mp3	Potential<br>書く<br>(J1)]
-書かれる<br>[sound:jva-0372_書かれる.mp3	Passive<br>書く<br>(J1)]
-書かせる<br>[sound:jva-0373_書かせる.mp3	Causative<br>書く<br>(J1)]
-書け<br>[sound:jva-0374_書け.mp3	Imperative<br>書く<br>(J1)]
-書けば<br>[sound:jva-0375_書けば.mp3	Conditional<br>書く<br>(J1)]
-聞く<br>[sound:jva-0376_聞く.mp3	Present Positive Plain<br>聞く<br>(J2)]
-聞かない<br>[sound:jva-0377_聞かない.mp3	Present Negative Plain<br>聞く<br>(J2)]
-聞きます<br>[sound:jva-0378_聞きます.mp3	Present Positive Polite<br>聞く<br>(J2)]
-聞きません<br>[sound:jva-0379_聞きません.mp3	Present Negative Polite<br>聞く<br>(J2)]
-聞いた<br>[sound:jva-0380_聞いた.mp3	Past Positive Plain<br>聞く<br>(J2)]
-聞かなかった<br>[sound:jva-0381_聞かなかった.mp3	Past Negative Plain<br>聞く<br>(J2)]
-聞きました<br>[sound:jva-0382_聞きました.mp3	Past Positive Polite<br>聞く<br>(J2)]
-聞きませんでした<br>[sound:jva-0383_聞きませんでした.mp3	Past Negative Polite<br>聞く<br>(J2)]
-聞いて<br>[sound:jva-0384_聞いて.mp3	-te Form<br>聞く<br>(J2)]
-聞こう<br>[sound:jva-0385_聞こう.mp3	Volitional<br>聞く<br>(J2)]
-聞ける<br>[sound:jva-0386_聞ける.mp3	Potential<br>聞く<br>(J2)]
-聞かれる<br>[sound:jva-0387_聞かれる.mp3	Passive<br>聞く<br>(J2)]
-聞かせる<br>[sound:jva-0388_聞かせる.mp3	Causative<br>聞く<br>(J2)]
-聞け<br>[sound:jva-0389_聞け.mp3	Imperative<br>聞く<br>(J2)]
-聞けば<br>[sound:jva-0390_聞けば.mp3	Conditional<br>聞く<br>(J2)]
-置く<br>[sound:jva-0391_置く.mp3	Present Positive Plain<br>置く<br>(J3)]
-置かない<br>[sound:jva-0392_置かない.mp3	Present Negative Plain<br>置く<br>(J3)]
-置きます<br>[sound:jva-0393_置きます.mp3	Present Positive Polite<br>置く<br>(J3)]
-置きません<br>[sound:jva-0394_置きません.mp3	Present Negative Polite<br>置く<br>(J3)]
-置いた<br>[sound:jva-0395_置いた.mp3	Past Positive Plain<br>置く<br>(J3)]
-置かなかった<br>[sound:jva-0396_置かなかった.mp3	Past Negative Plain<br>置く<br>(J3)]
-置きました<br>[sound:jva-0397_置きました.mp3	Past Positive Polite<br>置く<br>(J3)]
-置きませんでした<br>[sound:jva-0398_置きませんでした.mp3	Past Negative Polite<br>置く<br>(J3)]
-置いて<br>[sound:jva-0399_置いて.mp3	-te Form<br>置く<br>(J3)]
-置こう<br>[sound:jva-0400_置こう.mp3	Volitional<br>置く<br>(J3)]
-置ける<br>[sound:jva-0401_置ける.mp3	Potential<br>置く<br>(J3)]
-置かれる<br>[sound:jva-0402_置かれる.mp3	Passive<br>置く<br>(J3)]
-置かせる<br>[sound:jva-0403_置かせる.mp3	Causative<br>置く<br>(J3)]
-置け<br>[sound:jva-0404_置け.mp3	Imperative<br>置く<br>(J3)]
-置けば<br>[sound:jva-0405_置けば.mp3	Conditional<br>置く<br>(J3)]
-接する<br>[sound:jva-0406_接する.mp3	Present Positive Plain<br>接する<br>(K1)]
-接しない<br>[sound:jva-0407_接しない.mp3	Present Negative Plain<br>接する<br>(K1)]
-接します<br>[sound:jva-0408_接します.mp3	Present Positive Polite<br>接する<br>(K1)]
-接しません<br>[sound:jva-0409_接しません.mp3	Present Negative Polite<br>接する<br>(K1)]
-接した<br>[sound:jva-0410_接した.mp3	Past Positive Plain<br>接する<br>(K1)]
-接しなかった<br>[sound:jva-0411_接しなかった.mp3	Past Negative Plain<br>接する<br>(K1)]
-接しました<br>[sound:jva-0412_接しました.mp3	Past Positive Polite<br>接する<br>(K1)]
-接しませんでした<br>[sound:jva-0413_接しませんでした.mp3	Past Negative Polite<br>接する<br>(K1)]
-接して<br>[sound:jva-0414_接して.mp3	-te Form<br>接する<br>(K1)]
-接しよう<br>[sound:jva-0415_接しよう.mp3	Volitional<br>接する<br>(K1)]
-接できる<br>[sound:jva-0416_接できる.mp3	Potential<br>接する<br>(K1)]
-接される<br>[sound:jva-0417_接される.mp3	Passive<br>接する<br>(K1)]
-接させる<br>[sound:jva-0418_接させる.mp3	Causative<br>接する<br>(K1)]
-接せよ<br>[sound:jva-0419_接せよ.mp3	Imperative<br>接する<br>(K1)]
-接すれば<br>[sound:jva-0420_接すれば.mp3	Conditional<br>接する<br>(K1)]
-発する<br>[sound:jva-0421_発する.mp3	Present Positive Plain<br>発する<br>(K2)]
-発しない<br>[sound:jva-0422_発しない.mp3	Present Negative Plain<br>発する<br>(K2)]
-発します<br>[sound:jva-0423_発します.mp3	Present Positive Polite<br>発する<br>(K2)]
-発しません<br>[sound:jva-0424_発しません.mp3	Present Negative Polite<br>発する<br>(K2)]
-発した<br>[sound:jva-0425_発した.mp3	Past Positive Plain<br>発する<br>(K2)]
-発さなかった<br>[sound:jva-0426_発さなかった.mp3	Past Negative Plain<br>発する<br>(K2)]
-発しました<br>[sound:jva-0427_発しました.mp3	Past Positive Polite<br>発する<br>(K2)]
-発しませんでした<br>[sound:jva-0428_発しませんでした.mp3	Past Negative Polite<br>発する<br>(K2)]
-発して<br>[sound:jva-0429_発して.mp3	-te Form<br>発する<br>(K2)]
-発そう<br>[sound:jva-0430_発そう.mp3	Volitional<br>発する<br>(K2)]
-発できる<br>[sound:jva-0431_発できる.mp3	Potential<br>発する<br>(K2)]
-発される<br>[sound:jva-0432_発される.mp3	Passive<br>発する<br>(K2)]
-発させる<br>[sound:jva-0433_発させる.mp3	Causative<br>発する<br>(K2)]
-発せよ<br>[sound:jva-0434_発せよ.mp3	Imperative<br>発する<br>(K2)]
-発すれば<br>[sound:jva-0435_発すれば.mp3	Conditional<br>発する<br>(K2)]
-罰する<br>[sound:jva-0436_罰する.mp3	Present Positive Plain<br>罰する<br>(K3)]
-罰しない<br>[sound:jva-0437_罰しない.mp3	Present Negative Plain<br>罰する<br>(K3)]
-罰します<br>[sound:jva-0438_罰します.mp3	Present Positive Polite<br>罰する<br>(K3)]
-罰しません<br>[sound:jva-0439_罰しません.mp3	Present Negative Polite<br>罰する<br>(K3)]
-罰した<br>[sound:jva-0440_罰した.mp3	Past Positive Plain<br>罰する<br>(K3)]
-罰さなかった<br>[sound:jva-0441_罰さなかった.mp3	Past Negative Plain<br>罰する<br>(K3)]
-罰しました<br>[sound:jva-0442_罰しました.mp3	Past Positive Polite<br>罰する<br>(K3)]
-罰しませんでした<br>[sound:jva-0443_罰しませんでした.mp3	Past Negative Polite<br>罰する<br>(K3)]
-罰して<br>[sound:jva-0444_罰して.mp3	-te Form<br>罰する<br>(K3)]
-罰そう<br>[sound:jva-0445_罰そう.mp3	Volitional<br>罰する<br>(K3)]
-罰できる<br>[sound:jva-0446_罰できる.mp3	Potential<br>罰する<br>(K3)]
-罰される<br>[sound:jva-0447_罰される.mp3	Passive<br>罰する<br>(K3)]
-罰させる<br>[sound:jva-0448_罰させる.mp3	Causative<br>罰する<br>(K3)]
-罰せよ<br>[sound:jva-0449_罰せよ.mp3	Imperative<br>罰する<br>(K3)]
-罰すれば<br>[sound:jva-0450_罰すれば.mp3	Conditional<br>罰する<br>(K3)]
-指す<br>[sound:jva-0451_指す.mp3	Present Positive Plain<br>指す<br>(L1)]
-指さない<br>[sound:jva-0452_指さない.mp3	Present Negative Plain<br>指す<br>(L1)]
-指します<br>[sound:jva-0453_指します.mp3	Present Positive Polite<br>指す<br>(L1)]
-指しません<br>[sound:jva-0454_指しません.mp3	Present Negative Polite<br>指す<br>(L1)]
-指した<br>[sound:jva-0455_指した.mp3	Past Positive Plain<br>指す<br>(L1)]
-指さなかった<br>[sound:jva-0456_指さなかった.mp3	Past Negative Plain<br>指す<br>(L1)]
-指しました<br>[sound:jva-0457_指しました.mp3	Past Positive Polite<br>指す<br>(L1)]
-指しませんでした<br>[sound:jva-0458_指しませんでした.mp3	Past Negative Polite<br>指す<br>(L1)]
-指して<br>[sound:jva-0459_指して.mp3	-te Form<br>指す<br>(L1)]
-指そう<br>[sound:jva-0460_指そう.mp3	Volitional<br>指す<br>(L1)]
-指せる<br>[sound:jva-0461_指せる.mp3	Potential<br>指す<br>(L1)]
-指される<br>[sound:jva-0462_指される.mp3	Passive<br>指す<br>(L1)]
-指させる<br>[sound:jva-0463_指させる.mp3	Causative<br>指す<br>(L1)]
-指せ<br>[sound:jva-0464_指せ.mp3	Imperative<br>指す<br>(L1)]
-指せば<br>[sound:jva-0465_指せば.mp3	Conditional<br>指す<br>(L1)]
-話す<br>[sound:jva-0466_話す.mp3	Present Positive Plain<br>話す<br>(L2)]
-話さない<br>[sound:jva-0467_話さない.mp3	Present Negative Plain<br>話す<br>(L2)]
-話します<br>[sound:jva-0468_話します.mp3	Present Positive Polite<br>話す<br>(L2)]
-話しません<br>[sound:jva-0469_話しません.mp3	Present Negative Polite<br>話す<br>(L2)]
-話した<br>[sound:jva-0470_話した.mp3	Past Positive Plain<br>話す<br>(L2)]
-話さなかった<br>[sound:jva-0471_話さなかった.mp3	Past Negative Plain<br>話す<br>(L2)]
-話しました<br>[sound:jva-0472_話しました.mp3	Past Positive Polite<br>話す<br>(L2)]
-話しませんでした<br>[sound:jva-0473_話しませんでした.mp3	Past Negative Polite<br>話す<br>(L2)]
-話して<br>[sound:jva-0474_話して.mp3	-te Form<br>話す<br>(L2)]
-話そう<br>[sound:jva-0475_話そう.mp3	Volitional<br>話す<br>(L2)]
-話せる<br>[sound:jva-0476_話せる.mp3	Potential<br>話す<br>(L2)]
-話される<br>[sound:jva-0477_話される.mp3	Passive<br>話す<br>(L2)]
-話させる<br>[sound:jva-0478_話させる.mp3	Causative<br>話す<br>(L2)]
-話せ<br>[sound:jva-0479_話せ.mp3	Imperative<br>話す<br>(L2)]
-話せば<br>[sound:jva-0480_話せば.mp3	Conditional<br>話す<br>(L2)]
-示す<br>[sound:jva-0481_示す.mp3	Present Positive Plain<br>示す<br>(L3)]
-示さない<br>[sound:jva-0482_示さない.mp3	Present Negative Plain<br>示す<br>(L3)]
-示します<br>[sound:jva-0483_示します.mp3	Present Positive Polite<br>示す<br>(L3)]
-示しません<br>[sound:jva-0484_示しません.mp3	Present Negative Polite<br>示す<br>(L3)]
-示した<br>[sound:jva-0485_示した.mp3	Past Positive Plain<br>示す<br>(L3)]
-示さなかった<br>[sound:jva-0486_示さなかった.mp3	Past Negative Plain<br>示す<br>(L3)]
-示しました<br>[sound:jva-0487_示しました.mp3	Past Positive Polite<br>示す<br>(L3)]
-示しませんでした<br>[sound:jva-0488_示しませんでした.mp3	Past Negative Polite<br>示す<br>(L3)]
-示して<br>[sound:jva-0489_示して.mp3	-te Form<br>示す<br>(L3)]
-示そう<br>[sound:jva-0490_示そう.mp3	Volitional<br>示す<br>(L3)]
-示せる<br>[sound:jva-0491_示せる.mp3	Potential<br>示す<br>(L3)]
-示される<br>[sound:jva-0492_示される.mp3	Passive<br>示す<br>(L3)]
-示させる<br>[sound:jva-0493_示させる.mp3	Causative<br>示す<br>(L3)]
-示せ<br>[sound:jva-0494_示せ.mp3	Imperative<br>示す<br>(L3)]
-示せば<br>[sound:jva-0495_示せば.mp3	Conditional<br>示す<br>(L3)]
-愛する<br>[sound:jva-0496_愛する.mp3	Present Positive Plain<br>愛する<br>(M1)]
-愛さない<br>[sound:jva-0497_愛さない.mp3	Present Negative Plain<br>愛する<br>(M1)]
-愛します<br>[sound:jva-0498_愛します.mp3	Present Positive Polite<br>愛する<br>(M1)]
-愛しません<br>[sound:jva-0499_愛しません.mp3	Present Negative Polite<br>愛する<br>(M1)]
-愛した<br>[sound:jva-0500_愛した.mp3	Past Positive Plain<br>愛する<br>(M1)]
-愛さなかった<br>[sound:jva-0501_愛さなかった.mp3	Past Negative Plain<br>愛する<br>(M1)]
-愛しました<br>[sound:jva-0502_愛しました.mp3	Past Positive Polite<br>愛する<br>(M1)]
-愛しませんでした<br>[sound:jva-0503_愛しませんでした.mp3	Past Negative Polite<br>愛する<br>(M1)]
-愛して<br>[sound:jva-0504_愛して.mp3	-te Form<br>愛する<br>(M1)]
-愛しよう<br>[sound:jva-0505_愛しよう.mp3	Volitional<br>愛する<br>(M1)]
-愛せる<br>[sound:jva-0506_愛せる.mp3	Potential<br>愛する<br>(M1)]
-愛される<br>[sound:jva-0507_愛される.mp3	Passive<br>愛する<br>(M1)]
-愛させる<br>[sound:jva-0508_愛させる.mp3	Causative<br>愛する<br>(M1)]
-愛せ<br>[sound:jva-0509_愛せ.mp3	Imperative<br>愛する<br>(M1)]
-愛せば<br>[sound:jva-0510_愛せば.mp3	Conditional<br>愛する<br>(M1)]
-化する<br>[sound:jva-0511_化する.mp3	Present Positive Plain<br>化する<br>(M2)]
-化しない<br>[sound:jva-0512_化しない.mp3	Present Negative Plain<br>化する<br>(M2)]
-化します<br>[sound:jva-0513_化します.mp3	Present Positive Polite<br>化する<br>(M2)]
-化しません<br>[sound:jva-0514_化しません.mp3	Present Negative Polite<br>化する<br>(M2)]
-化した<br>[sound:jva-0515_化した.mp3	Past Positive Plain<br>化する<br>(M2)]
-化さなかった<br>[sound:jva-0516_化さなかった.mp3	Past Negative Plain<br>化する<br>(M2)]
-化しました<br>[sound:jva-0517_化しました.mp3	Past Positive Polite<br>化する<br>(M2)]
-化しませんでした<br>[sound:jva-0518_化しませんでした.mp3	Past Negative Polite<br>化する<br>(M2)]
-化して<br>[sound:jva-0519_化して.mp3	-te Form<br>化する<br>(M2)]
-化そう<br>[sound:jva-0520_化そう.mp3	Volitional<br>化する<br>(M2)]
-化せる<br>[sound:jva-0521_化せる.mp3	Potential<br>化する<br>(M2)]
-化される<br>[sound:jva-0522_化される.mp3	Passive<br>化する<br>(M2)]
-化させる<br>[sound:jva-0523_化させる.mp3	Causative<br>化する<br>(M2)]
-化せよ<br>[sound:jva-0524_化せよ.mp3	Imperative<br>化する<br>(M2)]
-化せば<br>[sound:jva-0525_化せば.mp3	Conditional<br>化する<br>(M2)]
-属する<br>[sound:jva-0526_属する.mp3	Present Positive Plain<br>属する<br>(M3)]
-属さない<br>[sound:jva-0527_属さない.mp3	Present Negative Plain<br>属する<br>(M3)]
-属します<br>[sound:jva-0528_属します.mp3	Present Positive Polite<br>属する<br>(M3)]
-属しません<br>[sound:jva-0529_属しません.mp3	Present Negative Polite<br>属する<br>(M3)]
-属した<br>[sound:jva-0530_属した.mp3	Past Positive Plain<br>属する<br>(M3)]
-属さなかった<br>[sound:jva-0531_属さなかった.mp3	Past Negative Plain<br>属する<br>(M3)]
-属しました<br>[sound:jva-0532_属しました.mp3	Past Positive Polite<br>属する<br>(M3)]
-属しませんでした<br>[sound:jva-0533_属しませんでした.mp3	Past Negative Polite<br>属する<br>(M3)]
-属して<br>[sound:jva-0534_属して.mp3	-te Form<br>属する<br>(M3)]
-属しよう<br>[sound:jva-0535_属しよう.mp3	Volitional<br>属する<br>(M3)]
-属せる<br>[sound:jva-0536_属せる.mp3	Potential<br>属する<br>(M3)]
-属される<br>[sound:jva-0537_属される.mp3	Passive<br>属する<br>(M3)]
-属させる<br>[sound:jva-0538_属させる.mp3	Causative<br>属する<br>(M3)]
-属せ<br>[sound:jva-0539_属せ.mp3	Imperative<br>属する<br>(M3)]
-属せば<br>[sound:jva-0540_属せば.mp3	Conditional<br>属する<br>(M3)]
-待つ<br>[sound:jva-0541_待つ.mp3	Present Positive Plain<br>待つ<br>(N1)]
-待たない<br>[sound:jva-0542_待たない.mp3	Present Negative Plain<br>待つ<br>(N1)]
-待ちます<br>[sound:jva-0543_待ちます.mp3	Present Positive Polite<br>待つ<br>(N1)]
-待ちません<br>[sound:jva-0544_待ちません.mp3	Present Negative Polite<br>待つ<br>(N1)]
-待った<br>[sound:jva-0545_待った.mp3	Past Positive Plain<br>待つ<br>(N1)]
-待たなかった<br>[sound:jva-0546_待たなかった.mp3	Past Negative Plain<br>待つ<br>(N1)]
-待ちました<br>[sound:jva-0547_待ちました.mp3	Past Positive Polite<br>待つ<br>(N1)]
-待ちませんでした<br>[sound:jva-0548_待ちませんでした.mp3	Past Negative Polite<br>待つ<br>(N1)]
-待って<br>[sound:jva-0549_待って.mp3	-te Form<br>待つ<br>(N1)]
-待とう<br>[sound:jva-0550_待とう.mp3	Volitional<br>待つ<br>(N1)]
-待てる<br>[sound:jva-0551_待てる.mp3	Potential<br>待つ<br>(N1)]
-待たれる<br>[sound:jva-0552_待たれる.mp3	Passive<br>待つ<br>(N1)]
-待たせる<br>[sound:jva-0553_待たせる.mp3	Causative<br>待つ<br>(N1)]
-待て<br>[sound:jva-0554_待て.mp3	Imperative<br>待つ<br>(N1)]
-待てば<br>[sound:jva-0555_待てば.mp3	Conditional<br>待つ<br>(N1)]
-持つ<br>[sound:jva-0556_持つ.mp3	Present Positive Plain<br>持つ<br>(N2)]
-持たない<br>[sound:jva-0557_持たない.mp3	Present Negative Plain<br>持つ<br>(N2)]
-持ちます<br>[sound:jva-0558_持ちます.mp3	Present Positive Polite<br>持つ<br>(N2)]
-持ちません<br>[sound:jva-0559_持ちません.mp3	Present Negative Polite<br>持つ<br>(N2)]
-持った<br>[sound:jva-0560_持った.mp3	Past Positive Plain<br>持つ<br>(N2)]
-持たなかった<br>[sound:jva-0561_持たなかった.mp3	Past Negative Plain<br>持つ<br>(N2)]
-持ちました<br>[sound:jva-0562_持ちました.mp3	Past Positive Polite<br>持つ<br>(N2)]
-持ちませんでした<br>[sound:jva-0563_持ちませんでした.mp3	Past Negative Polite<br>持つ<br>(N2)]
-持って<br>[sound:jva-0564_持って.mp3	-te Form<br>持つ<br>(N2)]
-持とう<br>[sound:jva-0565_持とう.mp3	Volitional<br>持つ<br>(N2)]
-持てる<br>[sound:jva-0566_持てる.mp3	Potential<br>持つ<br>(N2)]
-持たれる<br>[sound:jva-0567_持たれる.mp3	Passive<br>持つ<br>(N2)]
-持たせる<br>[sound:jva-0568_持たせる.mp3	Causative<br>持つ<br>(N2)]
-持て<br>[sound:jva-0569_持て.mp3	Imperative<br>持つ<br>(N2)]
-持てば<br>[sound:jva-0570_持てば.mp3	Conditional<br>持つ<br>(N2)]
-立つ<br>[sound:jva-0571_立つ.mp3	Present Positive Plain<br>立つ<br>(N3)]
-立たない<br>[sound:jva-0572_立たない.mp3	Present Negative Plain<br>立つ<br>(N3)]
-立ちます<br>[sound:jva-0573_立ちます.mp3	Present Positive Polite<br>立つ<br>(N3)]
-立ちません<br>[sound:jva-0574_立ちません.mp3	Present Negative Polite<br>立つ<br>(N3)]
-立った<br>[sound:jva-0575_立った.mp3	Past Positive Plain<br>立つ<br>(N3)]
-立たなかった<br>[sound:jva-0576_立たなかった.mp3	Past Negative Plain<br>立つ<br>(N3)]
-立ちました<br>[sound:jva-0577_立ちました.mp3	Past Positive Polite<br>立つ<br>(N3)]
-立ちませんでした<br>[sound:jva-0578_立ちませんでした.mp3	Past Negative Polite<br>立つ<br>(N3)]
-立って<br>[sound:jva-0579_立って.mp3	-te Form<br>立つ<br>(N3)]
-立とう<br>[sound:jva-0580_立とう.mp3	Volitional<br>立つ<br>(N3)]
-立てる<br>[sound:jva-0581_立てる.mp3	Potential<br>立つ<br>(N3)]
-立たれる<br>[sound:jva-0582_立たれる.mp3	Passive<br>立つ<br>(N3)]
-立たせる<br>[sound:jva-0583_立たせる.mp3	Causative<br>立つ<br>(N3)]
-立て<br>[sound:jva-0584_立て.mp3	Imperative<br>立つ<br>(N3)]
-立てば<br>[sound:jva-0585_立てば.mp3	Conditional<br>立つ<br>(N3)]
-在る<br>[sound:jva-0586_在る.mp3	Present Positive Plain<br>在る<br>(O1)]
-在らない<br>[sound:jva-0587_在らない.mp3	Present Negative Plain<br>在る<br>(O1)]
-在ります<br>[sound:jva-0588_在ります.mp3	Present Positive Polite<br>在る<br>(O1)]
-在りません<br>[sound:jva-0589_在りません.mp3	Present Negative Polite<br>在る<br>(O1)]
-在った<br>[sound:jva-0590_在った.mp3	Past Positive Plain<br>在る<br>(O1)]
-在らなかった<br>[sound:jva-0591_在らなかった.mp3	Past Negative Plain<br>在る<br>(O1)]
-在りました<br>[sound:jva-0592_在りました.mp3	Past Positive Polite<br>在る<br>(O1)]
-在りませんでした<br>[sound:jva-0593_在りませんでした.mp3	Past Negative Polite<br>在る<br>(O1)]
-在って<br>[sound:jva-0594_在って.mp3	-te Form<br>在る<br>(O1)]
-在ろう<br>[sound:jva-0595_在ろう.mp3	Volitional<br>在る<br>(O1)]
-在れる<br>[sound:jva-0596_在れる.mp3	Potential<br>在る<br>(O1)]
-在られる<br>[sound:jva-0597_在られる.mp3	Passive<br>在る<br>(O1)]
-在らせる<br>[sound:jva-0598_在らせる.mp3	Causative<br>在る<br>(O1)]
-在れ<br>[sound:jva-0599_在れ.mp3	Imperative<br>在る<br>(O1)]
-在れば<br>[sound:jva-0600_在れば.mp3	Conditional<br>在る<br>(O1)]
-問う<br>[sound:jva-0601_問う.mp3	Present Positive Plain<br>問う<br>(P1)]
-問わない<br>[sound:jva-0602_問わない.mp3	Present Negative Plain<br>問う<br>(P1)]
-問います<br>[sound:jva-0603_問います.mp3	Present Positive Polite<br>問う<br>(P1)]
-問いません<br>[sound:jva-0604_問いません.mp3	Present Negative Polite<br>問う<br>(P1)]
-問った<br>[sound:jva-0605_問った.mp3	Past Positive Plain<br>問う<br>(P1)]
-問わなかった<br>[sound:jva-0606_問わなかった.mp3	Past Negative Plain<br>問う<br>(P1)]
-問いました<br>[sound:jva-0607_問いました.mp3	Past Positive Polite<br>問う<br>(P1)]
-問いませんでした<br>[sound:jva-0608_問いませんでした.mp3	Past Negative Polite<br>問う<br>(P1)]
-問って<br>[sound:jva-0609_問って.mp3	-te Form<br>問う<br>(P1)]
-問おう<br>[sound:jva-0610_問おう.mp3	Volitional<br>問う<br>(P1)]
-問える<br>[sound:jva-0611_問える.mp3	Potential<br>問う<br>(P1)]
-問われる<br>[sound:jva-0612_問われる.mp3	Passive<br>問う<br>(P1)]
-問わせる<br>[sound:jva-0613_問わせる.mp3	Causative<br>問う<br>(P1)]
-問え<br>[sound:jva-0614_問え.mp3	Imperative<br>問う<br>(P1)]
-問えば<br>[sound:jva-0615_問えば.mp3	Conditional<br>問う<br>(P1)]
-呼ぶ<br>[sound:jva-0616_呼ぶ.mp3	Present Positive Plain<br>呼ぶ<br>(Q1)]
-呼ばない<br>[sound:jva-0617_呼ばない.mp3	Present Negative Plain<br>呼ぶ<br>(Q1)]
-呼びます<br>[sound:jva-0618_呼びます.mp3	Present Positive Polite<br>呼ぶ<br>(Q1)]
-呼びません<br>[sound:jva-0619_呼びません.mp3	Present Negative Polite<br>呼ぶ<br>(Q1)]
-呼んだ<br>[sound:jva-0620_呼んだ.mp3	Past Positive Plain<br>呼ぶ<br>(Q1)]
-呼ばなかった<br>[sound:jva-0621_呼ばなかった.mp3	Past Negative Plain<br>呼ぶ<br>(Q1)]
-呼びました<br>[sound:jva-0622_呼びました.mp3	Past Positive Polite<br>呼ぶ<br>(Q1)]
-呼びませんでした<br>[sound:jva-0623_呼びませんでした.mp3	Past Negative Polite<br>呼ぶ<br>(Q1)]
-呼んで<br>[sound:jva-0624_呼んで.mp3	-te Form<br>呼ぶ<br>(Q1)]
-呼ぼう<br>[sound:jva-0625_呼ぼう.mp3	Volitional<br>呼ぶ<br>(Q1)]
-呼べる<br>[sound:jva-0626_呼べる.mp3	Potential<br>呼ぶ<br>(Q1)]
-呼ばれる<br>[sound:jva-0627_呼ばれる.mp3	Passive<br>呼ぶ<br>(Q1)]
-呼ばせる<br>[sound:jva-0628_呼ばせる.mp3	Causative<br>呼ぶ<br>(Q1)]
-呼べ<br>[sound:jva-0629_呼べ.mp3	Imperative<br>呼ぶ<br>(Q1)]
-呼べば<br>[sound:jva-0630_呼べば.mp3	Conditional<br>呼ぶ<br>(Q1)]
-学ぶ<br>[sound:jva-0631_学ぶ.mp3	Present Positive Plain<br>学ぶ<br>(Q2)]
-学ばない<br>[sound:jva-0632_学ばない.mp3	Present Negative Plain<br>学ぶ<br>(Q2)]
-学びます<br>[sound:jva-0633_学びます.mp3	Present Positive Polite<br>学ぶ<br>(Q2)]
-学びません<br>[sound:jva-0634_学びません.mp3	Present Negative Polite<br>学ぶ<br>(Q2)]
-学んだ<br>[sound:jva-0635_学んだ.mp3	Past Positive Plain<br>学ぶ<br>(Q2)]
-学ばなかった<br>[sound:jva-0636_学ばなかった.mp3	Past Negative Plain<br>学ぶ<br>(Q2)]
-学びました<br>[sound:jva-0637_学びました.mp3	Past Positive Polite<br>学ぶ<br>(Q2)]
-学びませんでした<br>[sound:jva-0638_学びませんでした.mp3	Past Negative Polite<br>学ぶ<br>(Q2)]
-学んで<br>[sound:jva-0639_学んで.mp3	-te Form<br>学ぶ<br>(Q2)]
-学ぼう<br>[sound:jva-0640_学ぼう.mp3	Volitional<br>学ぶ<br>(Q2)]
-学べる<br>[sound:jva-0641_学べる.mp3	Potential<br>学ぶ<br>(Q2)]
-学ばれる<br>[sound:jva-0642_学ばれる.mp3	Passive<br>学ぶ<br>(Q2)]
-学ばせる<br>[sound:jva-0643_学ばせる.mp3	Causative<br>学ぶ<br>(Q2)]
-学べ<br>[sound:jva-0644_学べ.mp3	Imperative<br>学ぶ<br>(Q2)]
-学べば<br>[sound:jva-0645_学べば.mp3	Conditional<br>学ぶ<br>(Q2)]
-並ぶ<br>[sound:jva-0646_並ぶ.mp3	Present Positive Plain<br>並ぶ<br>(Q3)]
-並ばない<br>[sound:jva-0647_並ばない.mp3	Present Negative Plain<br>並ぶ<br>(Q3)]
-並びます<br>[sound:jva-0648_並びます.mp3	Present Positive Polite<br>並ぶ<br>(Q3)]
-並びません<br>[sound:jva-0649_並びません.mp3	Present Negative Polite<br>並ぶ<br>(Q3)]
-並んだ<br>[sound:jva-0650_並んだ.mp3	Past Positive Plain<br>並ぶ<br>(Q3)]
-並ばなかった<br>[sound:jva-0651_並ばなかった.mp3	Past Negative Plain<br>並ぶ<br>(Q3)]
-並びました<br>[sound:jva-0652_並びました.mp3	Past Positive Polite<br>並ぶ<br>(Q3)]
-並びませんでした<br>[sound:jva-0653_並びませんでした.mp3	Past Negative Polite<br>並ぶ<br>(Q3)]
-並んで<br>[sound:jva-0654_並んで.mp3	-te Form<br>並ぶ<br>(Q3)]
-並ぼう<br>[sound:jva-0655_並ぼう.mp3	Volitional<br>並ぶ<br>(Q3)]
-並べる<br>[sound:jva-0656_並べる.mp3	Potential<br>並ぶ<br>(Q3)]
-並ばれる<br>[sound:jva-0657_並ばれる.mp3	Passive<br>並ぶ<br>(Q3)]
-並ばせる<br>[sound:jva-0658_並ばせる.mp3	Causative<br>並ぶ<br>(Q3)]
-並べ<br>[sound:jva-0659_並べ.mp3	Imperative<br>並ぶ<br>(Q3)]
-並べば<br>[sound:jva-0660_並べば.mp3	Conditional<br>並ぶ<br>(Q3)]
-入る<br>[sound:jva-0661_入る.mp3	Present Positive Plain<br>入る<br>(R1)]
-入らない<br>[sound:jva-0662_入らない.mp3	Present Negative Plain<br>入る<br>(R1)]
-入ります<br>[sound:jva-0663_入ります.mp3	Present Positive Polite<br>入る<br>(R1)]
-入りません<br>[sound:jva-0664_入りません.mp3	Present Negative Polite<br>入る<br>(R1)]
-入った<br>[sound:jva-0665_入った.mp3	Past Positive Plain<br>入る<br>(R1)]
-入らなかった<br>[sound:jva-0666_入らなかった.mp3	Past Negative Plain<br>入る<br>(R1)]
-入りました<br>[sound:jva-0667_入りました.mp3	Past Positive Polite<br>入る<br>(R1)]
-入りませんでした<br>[sound:jva-0668_入りませんでした.mp3	Past Negative Polite<br>入る<br>(R1)]
-入って<br>[sound:jva-0669_入って.mp3	-te Form<br>入る<br>(R1)]
-入ろう<br>[sound:jva-0670_入ろう.mp3	Volitional<br>入る<br>(R1)]
-入れる<br>[sound:jva-0671_入れる.mp3	Potential<br>入る<br>(R1)]
-入られる<br>[sound:jva-0672_入られる.mp3	Passive<br>入る<br>(R1)]
-入れさせる<br>[sound:jva-0673_入れさせる.mp3	Causative<br>入る<br>(R1)]
-入れ<br>[sound:jva-0674_入れ.mp3	Imperative<br>入る<br>(R1)]
-入れば<br>[sound:jva-0675_入れば.mp3	Conditional<br>入る<br>(R1)]
-作る<br>[sound:jva-0676_作る.mp3	Present Positive Plain<br>作る<br>(R2)]
-作らない<br>[sound:jva-0677_作らない.mp3	Present Negative Plain<br>作る<br>(R2)]
-作ります<br>[sound:jva-0678_作ります.mp3	Present Positive Polite<br>作る<br>(R2)]
-作りません<br>[sound:jva-0679_作りません.mp3	Present Negative Polite<br>作る<br>(R2)]
-作った<br>[sound:jva-0680_作った.mp3	Past Positive Plain<br>作る<br>(R2)]
-作らなかった<br>[sound:jva-0681_作らなかった.mp3	Past Negative Plain<br>作る<br>(R2)]
-作りました<br>[sound:jva-0682_作りました.mp3	Past Positive Polite<br>作る<br>(R2)]
-作りませんでした<br>[sound:jva-0683_作りませんでした.mp3	Past Negative Polite<br>作る<br>(R2)]
-作って<br>[sound:jva-0684_作って.mp3	-te Form<br>作る<br>(R2)]
-作ろう<br>[sound:jva-0685_作ろう.mp3	Volitional<br>作る<br>(R2)]
-作れる<br>[sound:jva-0686_作れる.mp3	Potential<br>作る<br>(R2)]
-作られる<br>[sound:jva-0687_作られる.mp3	Passive<br>作る<br>(R2)]
-作らせる<br>[sound:jva-0688_作らせる.mp3	Causative<br>作る<br>(R2)]
-作れ<br>[sound:jva-0689_作れ.mp3	Imperative<br>作る<br>(R2)]
-作れば<br>[sound:jva-0690_作れば.mp3	Conditional<br>作る<br>(R2)]
-知る<br>[sound:jva-0691_知る.mp3	Present Positive Plain<br>知る<br>(R3)]
-知らない<br>[sound:jva-0692_知らない.mp3	Present Negative Plain<br>知る<br>(R3)]
-知ります<br>[sound:jva-0693_知ります.mp3	Present Positive Polite<br>知る<br>(R3)]
-知りません<br>[sound:jva-0694_知りません.mp3	Present Negative Polite<br>知る<br>(R3)]
-知った<br>[sound:jva-0695_知った.mp3	Past Positive Plain<br>知る<br>(R3)]
-知らなかった<br>[sound:jva-0696_知らなかった.mp3	Past Negative Plain<br>知る<br>(R3)]
-知りました<br>[sound:jva-0697_知りました.mp3	Past Positive Polite<br>知る<br>(R3)]
-知りませんでした<br>[sound:jva-0698_知りませんでした.mp3	Past Negative Polite<br>知る<br>(R3)]
-知って<br>[sound:jva-0699_知って.mp3	-te Form<br>知る<br>(R3)]
-知ろう<br>[sound:jva-0700_知ろう.mp3	Volitional<br>知る<br>(R3)]
-知れる<br>[sound:jva-0701_知れる.mp3	Potential<br>知る<br>(R3)]
-知られる<br>[sound:jva-0702_知られる.mp3	Passive<br>知る<br>(R3)]
-知らせる<br>[sound:jva-0703_知らせる.mp3	Causative<br>知る<br>(R3)]
-知れ<br>[sound:jva-0704_知れ.mp3	Imperative<br>知る<br>(R3)]
-知れば<br>[sound:jva-0705_知れば.mp3	Conditional<br>知る<br>(R3)]
-分かる<br>[sound:jva-0706_分かる.mp3	Present Positive Plain<br>分かる<br>(R4)]
-分からない<br>[sound:jva-0707_分からない.mp3	Present Negative Plain<br>分かる<br>(R4)]
-分かります<br>[sound:jva-0708_分かります.mp3	Present Positive Polite<br>分かる<br>(R4)]
-分かりません<br>[sound:jva-0709_分かりません.mp3	Present Negative Polite<br>分かる<br>(R4)]
-分かった<br>[sound:jva-0710_分かった.mp3	Past Positive Plain<br>分かる<br>(R4)]
-分からなかった<br>[sound:jva-0711_分からなかった.mp3	Past Negative Plain<br>分かる<br>(R4)]
-分かりました<br>[sound:jva-0712_分かりました.mp3	Past Positive Polite<br>分かる<br>(R4)]
-分かりませんでした<br>[sound:jva-0713_分かりませんでした.mp3	Past Negative Polite<br>分かる<br>(R4)]
-分かって<br>[sound:jva-0714_分かって.mp3	-te Form<br>分かる<br>(R4)]
-分かろう<br>[sound:jva-0715_分かろう.mp3	Volitional<br>分かる<br>(R4)]
-分かれる<br>[sound:jva-0716_分かれる.mp3	Potential<br>分かる<br>(R4)]
-分かれる<br>[sound:jva-0717_分かれる.mp3	Passive<br>分かる<br>(R4)]
-分からせる<br>[sound:jva-0718_分からせる.mp3	Causative<br>分かる<br>(R4)]
-分かれ<br>[sound:jva-0719_分かれ.mp3	Imperative<br>分かる<br>(R4)]
-分かれば<br>[sound:jva-0720_分かれば.mp3	Conditional<br>分かる<br>(R4)]
-なさる<br>[sound:jva-0721_なさる.mp3	Present Positive Plain<br>なさる<br>(S1)]
-なさらない<br>[sound:jva-0722_なさらない.mp3	Present Negative Plain<br>なさる<br>(S1)]
-なさいます<br>[sound:jva-0723_なさいます.mp3	Present Positive Polite<br>なさる<br>(S1)]
-なさいません<br>[sound:jva-0724_なさいません.mp3	Present Negative Polite<br>なさる<br>(S1)]
-なさった<br>[sound:jva-0725_なさった.mp3	Past Positive Plain<br>なさる<br>(S1)]
-なさらなかった<br>[sound:jva-0726_なさらなかった.mp3	Past Negative Plain<br>なさる<br>(S1)]
-なさいました<br>[sound:jva-0727_なさいました.mp3	Past Positive Polite<br>なさる<br>(S1)]
-なさいませんでした<br>[sound:jva-0728_なさいませんでした.mp3	Past Negative Polite<br>なさる<br>(S1)]
-なさって<br>[sound:jva-0729_なさって.mp3	-te Form<br>なさる<br>(S1)]
-なさろう<br>[sound:jva-0730_なさろう.mp3	Volitional<br>なさる<br>(S1)]
-なされる<br>[sound:jva-0731_なされる.mp3	Potential<br>なさる<br>(S1)]
-なさられる<br>[sound:jva-0732_なさられる.mp3	Passive<br>なさる<br>(S1)]
-なさらせる<br>[sound:jva-0733_なさらせる.mp3	Causative<br>なさる<br>(S1)]
-なさって<br>[sound:jva-0734_なさって.mp3	Imperative<br>なさる<br>(S1)]
-なされば<br>[sound:jva-0735_なされば.mp3	Conditional<br>なさる<br>(S1)]
-下さる<br>[sound:jva-0736_下さる.mp3	Present Positive Plain<br>下さる<br>(S2)]
-下さらない<br>[sound:jva-0737_下さらない.mp3	Present Negative Plain<br>下さる<br>(S2)]
-下さいます<br>[sound:jva-0738_下さいます.mp3	Present Positive Polite<br>下さる<br>(S2)]
-下さいません<br>[sound:jva-0739_下さいません.mp3	Present Negative Polite<br>下さる<br>(S2)]
-下さった<br>[sound:jva-0740_下さった.mp3	Past Positive Plain<br>下さる<br>(S2)]
-下さらなかった<br>[sound:jva-0741_下さらなかった.mp3	Past Negative Plain<br>下さる<br>(S2)]
-下さいました<br>[sound:jva-0742_下さいました.mp3	Past Positive Polite<br>下さる<br>(S2)]
-下さいませんでした<br>[sound:jva-0743_下さいませんでした.mp3	Past Negative Polite<br>下さる<br>(S2)]
-下さって<br>[sound:jva-0744_下さって.mp3	-te Form<br>下さる<br>(S2)]
-下さろう<br>[sound:jva-0745_下さろう.mp3	Volitional<br>下さる<br>(S2)]
-下される<br>[sound:jva-0746_下される.mp3	Potential<br>下さる<br>(S2)]
-下さられる<br>[sound:jva-0747_下さられる.mp3	Passive<br>下さる<br>(S2)]
-下さらせる<br>[sound:jva-0748_下さらせる.mp3	Causative<br>下さる<br>(S2)]
-下さい<br>[sound:jva-0749_下さい.mp3	Imperative<br>下さる<br>(S2)]
-下されば<br>[sound:jva-0750_下されば.mp3	Conditional<br>下さる<br>(S2)]
-仰る<br>[sound:jva-0751_仰る.mp3	Present Positive Plain<br>仰る<br>(S3)]
-仰らない<br>[sound:jva-0752_仰らない.mp3	Present Negative Plain<br>仰る<br>(S3)]
-仰います<br>[sound:jva-0753_仰います.mp3	Present Positive Polite<br>仰る<br>(S3)]
-仰いません<br>[sound:jva-0754_仰いません.mp3	Present Negative Polite<br>仰る<br>(S3)]
-仰った<br>[sound:jva-0755_仰った.mp3	Past Positive Plain<br>仰る<br>(S3)]
-仰らなかった<br>[sound:jva-0756_仰らなかった.mp3	Past Negative Plain<br>仰る<br>(S3)]
-仰いました<br>[sound:jva-0757_仰いました.mp3	Past Positive Polite<br>仰る<br>(S3)]
-仰いませんでした<br>[sound:jva-0758_仰いませんでした.mp3	Past Negative Polite<br>仰る<br>(S3)]
-仰って<br>[sound:jva-0759_仰って.mp3	-te Form<br>仰る<br>(S3)]
-仰りましょう<br>[sound:jva-0760_仰りましょう.mp3	Volitional<br>仰る<br>(S3)]
-仰れる<br>[sound:jva-0761_仰れる.mp3	Potential<br>仰る<br>(S3)]
-仰られる<br>[sound:jva-0762_仰られる.mp3	Passive<br>仰る<br>(S3)]
-仰らせる<br>[sound:jva-0763_仰らせる.mp3	Causative<br>仰る<br>(S3)]
-仰って<br>[sound:jva-0764_仰って.mp3	Imperative<br>仰る<br>(S3)]
-仰れば<br>[sound:jva-0765_仰れば.mp3	Conditional<br>仰る<br>(S3)]
-だ<br>[sound:jva-0766_だ.mp3	Present Positive Plain<br>だ<br>(T1)]
-ではない<br>[sound:jva-0767_ではない.mp3	Present Negative Plain<br>だ<br>(T1)]
-です<br>[sound:jva-0768_です.mp3	Present Positive Polite<br>だ<br>(T1)]
-ではありません<br>[sound:jva-0769_ではありません.mp3	Present Negative Polite<br>だ<br>(T1)]
-だった<br>[sound:jva-0770_だった.mp3	Past Positive Plain<br>だ<br>(T1)]
-ではなかった<br>[sound:jva-0771_ではなかった.mp3	Past Negative Plain<br>だ<br>(T1)]
-でした<br>[sound:jva-0772_でした.mp3	Past Positive Polite<br>だ<br>(T1)]
-ではありませんでした<br>[sound:jva-0773_ではありませんでした.mp3	Past Negative Polite<br>だ<br>(T1)]
-で<br>[sound:jva-0774_で.mp3	-te Form<br>だ<br>(T1)]
-だろう<br>[sound:jva-0775_だろう.mp3	Volitional<br>だ<br>(T1)]
-できる<br>[sound:jva-0776_できる.mp3	Potential<br>だ<br>(T1)]
-される<br>[sound:jva-0777_される.mp3	Passive<br>だ<br>(T1)]
-させる<br>[sound:jva-0778_させる.mp3	Causative<br>だ<br>(T1)]
-だろ<br>[sound:jva-0779_だろ.mp3	Imperative<br>だ<br>(T1)]
-なら<br>[sound:jva-0780_なら.mp3	Conditional<br>だ<br>(T1)]
-する<br>[sound:jva-0781_する.mp3	Present Positive Plain<br>する<br>(U1)]
-しない<br>[sound:jva-0782_しない.mp3	Present Negative Plain<br>する<br>(U1)]
-します<br>[sound:jva-0783_します.mp3	Present Positive Polite<br>する<br>(U1)]
-しません<br>[sound:jva-0784_しません.mp3	Present Negative Polite<br>する<br>(U1)]
-した<br>[sound:jva-0785_した.mp3	Past Positive Plain<br>する<br>(U1)]
-しなかった<br>[sound:jva-0786_しなかった.mp3	Past Negative Plain<br>する<br>(U1)]
-しました<br>[sound:jva-0787_しました.mp3	Past Positive Polite<br>する<br>(U1)]
-しませんでした<br>[sound:jva-0788_しませんでした.mp3	Past Negative Polite<br>する<br>(U1)]
-して<br>[sound:jva-0789_して.mp3	-te Form<br>する<br>(U1)]
-しよう<br>[sound:jva-0790_しよう.mp3	Volitional<br>する<br>(U1)]
-できる<br>[sound:jva-0791_できる.mp3	Potential<br>する<br>(U1)]
-される<br>[sound:jva-0792_される.mp3	Passive<br>する<br>(U1)]
-させる<br>[sound:jva-0793_させる.mp3	Causative<br>する<br>(U1)]
-しろ<br>[sound:jva-0794_しろ.mp3	Imperative<br>する<br>(U1)]
-すれば<br>[sound:jva-0795_すれば.mp3	Conditional<br>する<br>(U1)]
-使用する<br>[sound:jva-0796_使用する.mp3	Present Positive Plain<br>使用する<br>(U2)]
-使用しない<br>[sound:jva-0797_使用しない.mp3	Present Negative Plain<br>使用する<br>(U2)]
-使用します<br>[sound:jva-0798_使用します.mp3	Present Positive Polite<br>使用する<br>(U2)]
-使用しません<br>[sound:jva-0799_使用しません.mp3	Present Negative Polite<br>使用する<br>(U2)]
-使用した<br>[sound:jva-0800_使用した.mp3	Past Positive Plain<br>使用する<br>(U2)]
-使用しなかった<br>[sound:jva-0801_使用しなかった.mp3	Past Negative Plain<br>使用する<br>(U2)]
-使用しました<br>[sound:jva-0802_使用しました.mp3	Past Positive Polite<br>使用する<br>(U2)]
-使用しませんでした<br>[sound:jva-0803_使用しませんでした.mp3	Past Negative Polite<br>使用する<br>(U2)]
-使用して<br>[sound:jva-0804_使用して.mp3	-te Form<br>使用する<br>(U2)]
-使用しよう<br>[sound:jva-0805_使用しよう.mp3	Volitional<br>使用する<br>(U2)]
-使用できる<br>[sound:jva-0806_使用できる.mp3	Potential<br>使用する<br>(U2)]
-使用される<br>[sound:jva-0807_使用される.mp3	Passive<br>使用する<br>(U2)]
-使用させる<br>[sound:jva-0808_使用させる.mp3	Causative<br>使用する<br>(U2)]
-使用しろ<br>[sound:jva-0809_使用しろ.mp3	Imperative<br>使用する<br>(U2)]
-使用すれば<br>[sound:jva-0810_使用すれば.mp3	Conditional<br>使用する<br>(U2)]
-表示する<br>[sound:jva-0811_表示する.mp3	Present Positive Plain<br>表示する<br>(U3)]
-表示しない<br>[sound:jva-0812_表示しない.mp3	Present Negative Plain<br>表示する<br>(U3)]
-表示します<br>[sound:jva-0813_表示します.mp3	Present Positive Polite<br>表示する<br>(U3)]
-表示しません<br>[sound:jva-0814_表示しません.mp3	Present Negative Polite<br>表示する<br>(U3)]
-表示した<br>[sound:jva-0815_表示した.mp3	Past Positive Plain<br>表示する<br>(U3)]
-表示しなかった<br>[sound:jva-0816_表示しなかった.mp3	Past Negative Plain<br>表示する<br>(U3)]
-表示しました<br>[sound:jva-0817_表示しました.mp3	Past Positive Polite<br>表示する<br>(U3)]
-表示しませんでした<br>[sound:jva-0818_表示しませんでした.mp3	Past Negative Polite<br>表示する<br>(U3)]
-表示して<br>[sound:jva-0819_表示して.mp3	-te Form<br>表示する<br>(U3)]
-表示しよう<br>[sound:jva-0820_表示しよう.mp3	Volitional<br>表示する<br>(U3)]
-表示できる<br>[sound:jva-0821_表示できる.mp3	Potential<br>表示する<br>(U3)]
-表示される<br>[sound:jva-0822_表示される.mp3	Passive<br>表示する<br>(U3)]
-表示させる<br>[sound:jva-0823_表示させる.mp3	Causative<br>表示する<br>(U3)]
-表示しろ<br>[sound:jva-0824_表示しろ.mp3	Imperative<br>表示する<br>(U3)]
-表示すれば<br>[sound:jva-0825_表示すれば.mp3	Conditional<br>表示する<br>(U3)]
-くれる<br>[sound:jva-0826_くれる.mp3	Present Positive Plain<br>くれる<br>(V1)]
-くれない<br>[sound:jva-0827_くれない.mp3	Present Negative Plain<br>くれる<br>(V1)]
-くれます<br>[sound:jva-0828_くれます.mp3	Present Positive Polite<br>くれる<br>(V1)]
-くれません<br>[sound:jva-0829_くれません.mp3	Present Negative Polite<br>くれる<br>(V1)]
-くれた<br>[sound:jva-0830_くれた.mp3	Past Positive Plain<br>くれる<br>(V1)]
-くれなかった<br>[sound:jva-0831_くれなかった.mp3	Past Negative Plain<br>くれる<br>(V1)]
-くれました<br>[sound:jva-0832_くれました.mp3	Past Positive Polite<br>くれる<br>(V1)]
-くれませんでした<br>[sound:jva-0833_くれませんでした.mp3	Past Negative Polite<br>くれる<br>(V1)]
-くれて<br>[sound:jva-0834_くれて.mp3	-te Form<br>くれる<br>(V1)]
-くれよう<br>[sound:jva-0835_くれよう.mp3	Volitional<br>くれる<br>(V1)]
-くれる<br>[sound:jva-0836_くれる.mp3	Potential<br>くれる<br>(V1)]
-くれられる<br>[sound:jva-0837_くれられる.mp3	Passive<br>くれる<br>(V1)]
-くれさせる<br>[sound:jva-0838_くれさせる.mp3	Causative<br>くれる<br>(V1)]
-くれ<br>[sound:jva-0839_くれ.mp3	Imperative<br>くれる<br>(V1)]
-くれれば<br>[sound:jva-0840_くれれば.mp3	Conditional<br>くれる<br>(V1)]
-呉れる<br>[sound:jva-0841_呉れる.mp3	Present Positive Plain<br>呉れる<br>(V2)]
-呉れない<br>[sound:jva-0842_呉れない.mp3	Present Negative Plain<br>呉れる<br>(V2)]
-呉れます<br>[sound:jva-0843_呉れます.mp3	Present Positive Polite<br>呉れる<br>(V2)]
-呉れません<br>[sound:jva-0844_呉れません.mp3	Present Negative Polite<br>呉れる<br>(V2)]
-呉れた<br>[sound:jva-0845_呉れた.mp3	Past Positive Plain<br>呉れる<br>(V2)]
-呉れなかった<br>[sound:jva-0846_呉れなかった.mp3	Past Negative Plain<br>呉れる<br>(V2)]
-呉れました<br>[sound:jva-0847_呉れました.mp3	Past Positive Polite<br>呉れる<br>(V2)]
-呉れませんでした<br>[sound:jva-0848_呉れませんでした.mp3	Past Negative Polite<br>呉れる<br>(V2)]
-呉れて<br>[sound:jva-0849_呉れて.mp3	-te Form<br>呉れる<br>(V2)]
-呉れよう<br>[sound:jva-0850_呉れよう.mp3	Volitional<br>呉れる<br>(V2)]
-呉れる<br>[sound:jva-0851_呉れる.mp3	Potential<br>呉れる<br>(V2)]
-呉れられる<br>[sound:jva-0852_呉れられる.mp3	Passive<br>呉れる<br>(V2)]
-呉れさせる<br>[sound:jva-0853_呉れさせる.mp3	Causative<br>呉れる<br>(V2)]
-呉れ<br>[sound:jva-0854_呉れ.mp3	Imperative<br>呉れる<br>(V2)]
-呉れれば<br>[sound:jva-0855_呉れれば.mp3	Conditional<br>呉れる<br>(V2)]
-ある<br>[sound:jva-0856_ある.mp3	Present Positive Plain<br>ある<br>(W1)]
-ない<br>[sound:jva-0857_ない.mp3	Present Negative Plain<br>ある<br>(W1)]
-あります<br>[sound:jva-0858_あります.mp3	Present Positive Polite<br>ある<br>(W1)]
-ありません<br>[sound:jva-0859_ありません.mp3	Present Negative Polite<br>ある<br>(W1)]
-あった<br>[sound:jva-0860_あった.mp3	Past Positive Plain<br>ある<br>(W1)]
-なかった<br>[sound:jva-0861_なかった.mp3	Past Negative Plain<br>ある<br>(W1)]
-ありました<br>[sound:jva-0862_ありました.mp3	Past Positive Polite<br>ある<br>(W1)]
-ありませんでした<br>[sound:jva-0863_ありませんでした.mp3	Past Negative Polite<br>ある<br>(W1)]
-あって<br>[sound:jva-0864_あって.mp3	-te Form<br>ある<br>(W1)]
-あろう<br>[sound:jva-0865_あろう.mp3	Volitional<br>ある<br>(W1)]
-ありえる<br>[sound:jva-0866_ありえる.mp3	Potential<br>ある<br>(W1)]
-ありえる<br>[sound:jva-0867_ありえる.mp3	Passive<br>ある<br>(W1)]
-あらせる<br>[sound:jva-0868_あらせる.mp3	Causative<br>ある<br>(W1)]
-あれ<br>[sound:jva-0869_あれ.mp3	Imperative<br>ある<br>(W1)]
+買う<br>	[sound:jva-0001_買う.mp3] Present Positive Plain<br>買う<br>(C1)
+買わない<br>	[sound:jva-0002_買わない.mp3] Present Negative Plain<br>買う<br>(C1)
+買います<br>	[sound:jva-0003_買います.mp3] Present Positive Polite<br>買う<br>(C1)
+買いません<br>	[sound:jva-0004_買いません.mp3] Present Negative Polite<br>買う<br>(C1)
+買った<br>	[sound:jva-0005_買った.mp3] Past Positive Plain<br>買う<br>(C1)
+買わなかった<br>	[sound:jva-0006_買わなかった.mp3] Past Negative Plain<br>買う<br>(C1)
+買いました<br>	[sound:jva-0007_買いました.mp3] Past Positive Polite<br>買う<br>(C1)
+買いませんでした<br>	[sound:jva-0008_買いませんでした.mp3] Past Negative Polite<br>買う<br>(C1)
+買って<br>	[sound:jva-0009_買って.mp3] -te Form<br>買う<br>(C1)
+買おう<br>	[sound:jva-0010_買おう.mp3] Volitional<br>買う<br>(C1)
+買える<br>	[sound:jva-0011_買える.mp3] Potential<br>買う<br>(C1)
+買われる<br>	[sound:jva-0012_買われる.mp3] Passive<br>買う<br>(C1)
+買わせる<br>	[sound:jva-0013_買わせる.mp3] Causative<br>買う<br>(C1)
+買え<br>	[sound:jva-0014_買え.mp3] Imperative<br>買う<br>(C1)
+買えば<br>	[sound:jva-0015_買えば.mp3] Conditional<br>買う<br>(C1)
+思う<br>	[sound:jva-0016_思う.mp3] Present Positive Plain<br>思う<br>(C2)
+思わない<br>	[sound:jva-0017_思わない.mp3] Present Negative Plain<br>思う<br>(C2)
+思います<br>	[sound:jva-0018_思います.mp3] Present Positive Polite<br>思う<br>(C2)
+思いません<br>	[sound:jva-0019_思いません.mp3] Present Negative Polite<br>思う<br>(C2)
+思った<br>	[sound:jva-0020_思った.mp3] Past Positive Plain<br>思う<br>(C2)
+思わなかった<br>	[sound:jva-0021_思わなかった.mp3] Past Negative Plain<br>思う<br>(C2)
+思いました<br>	[sound:jva-0022_思いました.mp3] Past Positive Polite<br>思う<br>(C2)
+思いませんでした<br>	[sound:jva-0023_思いませんでした.mp3] Past Negative Polite<br>思う<br>(C2)
+思って<br>	[sound:jva-0024_思って.mp3] -te Form<br>思う<br>(C2)
+思おう<br>	[sound:jva-0025_思おう.mp3] Volitional<br>思う<br>(C2)
+思える<br>	[sound:jva-0026_思える.mp3] Potential<br>思う<br>(C2)
+思われる<br>	[sound:jva-0027_思われる.mp3] Passive<br>思う<br>(C2)
+思わせる<br>	[sound:jva-0028_思わせる.mp3] Causative<br>思う<br>(C2)
+思え<br>	[sound:jva-0029_思え.mp3] Imperative<br>思う<br>(C2)
+思えば<br>	[sound:jva-0030_思えば.mp3] Conditional<br>思う<br>(C2)
+言う<br>	[sound:jva-0031_言う.mp3] Present Positive Plain<br>言う<br>(C3)
+言わない<br>	[sound:jva-0032_言わない.mp3] Present Negative Plain<br>言う<br>(C3)
+言います<br>	[sound:jva-0033_言います.mp3] Present Positive Polite<br>言う<br>(C3)
+言いません<br>	[sound:jva-0034_言いません.mp3] Present Negative Polite<br>言う<br>(C3)
+言った<br>	[sound:jva-0035_言った.mp3] Past Positive Plain<br>言う<br>(C3)
+言わなかった<br>	[sound:jva-0036_言わなかった.mp3] Past Negative Plain<br>言う<br>(C3)
+言いました<br>	[sound:jva-0037_言いました.mp3] Past Positive Polite<br>言う<br>(C3)
+言いませんでした<br>	[sound:jva-0038_言いませんでした.mp3] Past Negative Polite<br>言う<br>(C3)
+言って<br>	[sound:jva-0039_言って.mp3] -te Form<br>言う<br>(C3)
+言おう<br>	[sound:jva-0040_言おう.mp3] Volitional<br>言う<br>(C3)
+言える<br>	[sound:jva-0041_言える.mp3] Potential<br>言う<br>(C3)
+言われる<br>	[sound:jva-0042_言われる.mp3] Passive<br>言う<br>(C3)
+言わせる<br>	[sound:jva-0043_言わせる.mp3] Causative<br>言う<br>(C3)
+言え<br>	[sound:jva-0044_言え.mp3] Imperative<br>言う<br>(C3)
+言えば<br>	[sound:jva-0045_言えば.mp3] Conditional<br>言う<br>(C3)
+飲む<br>	[sound:jva-0046_飲む.mp3] Present Positive Plain<br>飲む<br>(A1)
+飲まない<br>	[sound:jva-0047_飲まない.mp3] Present Negative Plain<br>飲む<br>(A1)
+飲みます<br>	[sound:jva-0048_飲みます.mp3] Present Positive Polite<br>飲む<br>(A1)
+飲みません<br>	[sound:jva-0049_飲みません.mp3] Present Negative Polite<br>飲む<br>(A1)
+飲んだ<br>	[sound:jva-0050_飲んだ.mp3] Past Positive Plain<br>飲む<br>(A1)
+飲まなかった<br>	[sound:jva-0051_飲まなかった.mp3] Past Negative Plain<br>飲む<br>(A1)
+飲みました<br>	[sound:jva-0052_飲みました.mp3] Past Positive Polite<br>飲む<br>(A1)
+飲みませんでした<br>	[sound:jva-0053_飲みませんでした.mp3] Past Negative Polite<br>飲む<br>(A1)
+飲んで<br>	[sound:jva-0054_飲んで.mp3] -te Form<br>飲む<br>(A1)
+飲もう<br>	[sound:jva-0055_飲もう.mp3] Volitional<br>飲む<br>(A1)
+飲める<br>	[sound:jva-0056_飲める.mp3] Potential<br>飲む<br>(A1)
+飲まれる<br>	[sound:jva-0057_飲まれる.mp3] Passive<br>飲む<br>(A1)
+飲ませる<br>	[sound:jva-0058_飲ませる.mp3] Causative<br>飲む<br>(A1)
+飲め<br>	[sound:jva-0059_飲め.mp3] Imperative<br>飲む<br>(A1)
+飲めば<br>	[sound:jva-0060_飲めば.mp3] Conditional<br>飲む<br>(A1)
+含む<br>	[sound:jva-0061_含む.mp3] Present Positive Plain<br>含む<br>(A2)
+含まない<br>	[sound:jva-0062_含まない.mp3] Present Negative Plain<br>含む<br>(A2)
+含みます<br>	[sound:jva-0063_含みます.mp3] Present Positive Polite<br>含む<br>(A2)
+含みません<br>	[sound:jva-0064_含みません.mp3] Present Negative Polite<br>含む<br>(A2)
+含んだ<br>	[sound:jva-0065_含んだ.mp3] Past Positive Plain<br>含む<br>(A2)
+含まなかった<br>	[sound:jva-0066_含まなかった.mp3] Past Negative Plain<br>含む<br>(A2)
+含みました<br>	[sound:jva-0067_含みました.mp3] Past Positive Polite<br>含む<br>(A2)
+含みませんでした<br>	[sound:jva-0068_含みませんでした.mp3] Past Negative Polite<br>含む<br>(A2)
+含んで<br>	[sound:jva-0069_含んで.mp3] -te Form<br>含む<br>(A2)
+含もう<br>	[sound:jva-0070_含もう.mp3] Volitional<br>含む<br>(A2)
+含める<br>	[sound:jva-0071_含める.mp3] Potential<br>含む<br>(A2)
+含まれる<br>	[sound:jva-0072_含まれる.mp3] Passive<br>含む<br>(A2)
+含ませる<br>	[sound:jva-0073_含ませる.mp3] Causative<br>含む<br>(A2)
+含め<br>	[sound:jva-0074_含め.mp3] Imperative<br>含む<br>(A2)
+含めば<br>	[sound:jva-0075_含めば.mp3] Conditional<br>含む<br>(A2)
+住む<br>	[sound:jva-0076_住む.mp3] Present Positive Plain<br>住む<br>(A3)
+住まない<br>	[sound:jva-0077_住まない.mp3] Present Negative Plain<br>住む<br>(A3)
+住みます<br>	[sound:jva-0078_住みます.mp3] Present Positive Polite<br>住む<br>(A3)
+住みません<br>	[sound:jva-0079_住みません.mp3] Present Negative Polite<br>住む<br>(A3)
+住んだ<br>	[sound:jva-0080_住んだ.mp3] Past Positive Plain<br>住む<br>(A3)
+住まなかった<br>	[sound:jva-0081_住まなかった.mp3] Past Negative Plain<br>住む<br>(A3)
+住みました<br>	[sound:jva-0082_住みました.mp3] Past Positive Polite<br>住む<br>(A3)
+住みませんでした<br>	[sound:jva-0083_住みませんでした.mp3] Past Negative Polite<br>住む<br>(A3)
+住んで<br>	[sound:jva-0084_住んで.mp3] -te Form<br>住む<br>(A3)
+住もう<br>	[sound:jva-0085_住もう.mp3] Volitional<br>住む<br>(A3)
+住める<br>	[sound:jva-0086_住める.mp3] Potential<br>住む<br>(A3)
+住まれる<br>	[sound:jva-0087_住まれる.mp3] Passive<br>住む<br>(A3)
+住ませる<br>	[sound:jva-0088_住ませる.mp3] Causative<br>住む<br>(A3)
+住め<br>	[sound:jva-0089_住め.mp3] Imperative<br>住む<br>(A3)
+住めば<br>	[sound:jva-0090_住めば.mp3] Conditional<br>住む<br>(A3)
+食べる<br>	[sound:jva-0091_食べる.mp3] Present Positive Plain<br>食べる<br>(B1)
+食べない<br>	[sound:jva-0092_食べない.mp3] Present Negative Plain<br>食べる<br>(B1)
+食べます<br>	[sound:jva-0093_食べます.mp3] Present Positive Polite<br>食べる<br>(B1)
+食べません<br>	[sound:jva-0094_食べません.mp3] Present Negative Polite<br>食べる<br>(B1)
+食べた<br>	[sound:jva-0095_食べた.mp3] Past Positive Plain<br>食べる<br>(B1)
+食べなかった<br>	[sound:jva-0096_食べなかった.mp3] Past Negative Plain<br>食べる<br>(B1)
+食べました<br>	[sound:jva-0097_食べました.mp3] Past Positive Polite<br>食べる<br>(B1)
+食べませんでした<br>	[sound:jva-0098_食べませんでした.mp3] Past Negative Polite<br>食べる<br>(B1)
+食べて<br>	[sound:jva-0099_食べて.mp3] -te Form<br>食べる<br>(B1)
+食べよう<br>	[sound:jva-0100_食べよう.mp3] Volitional<br>食べる<br>(B1)
+食べられる<br>	[sound:jva-0101_食べられる.mp3] Potential<br>食べる<br>(B1)
+食べられる<br>	[sound:jva-0102_食べられる.mp3] Passive<br>食べる<br>(B1)
+食べさせる<br>	[sound:jva-0103_食べさせる.mp3] Causative<br>食べる<br>(B1)
+食べろ<br>	[sound:jva-0104_食べろ.mp3] Imperative<br>食べる<br>(B1)
+食べれば<br>	[sound:jva-0105_食べれば.mp3] Conditional<br>食べる<br>(B1)
+見る<br>	[sound:jva-0106_見る.mp3] Present Positive Plain<br>見る<br>(B2)
+見ない<br>	[sound:jva-0107_見ない.mp3] Present Negative Plain<br>見る<br>(B2)
+見ます<br>	[sound:jva-0108_見ます.mp3] Present Positive Polite<br>見る<br>(B2)
+見ません<br>	[sound:jva-0109_見ません.mp3] Present Negative Polite<br>見る<br>(B2)
+見た<br>	[sound:jva-0110_見た.mp3] Past Positive Plain<br>見る<br>(B2)
+見なかった<br>	[sound:jva-0111_見なかった.mp3] Past Negative Plain<br>見る<br>(B2)
+見ました<br>	[sound:jva-0112_見ました.mp3] Past Positive Polite<br>見る<br>(B2)
+見ませんでした<br>	[sound:jva-0113_見ませんでした.mp3] Past Negative Polite<br>見る<br>(B2)
+見て<br>	[sound:jva-0114_見て.mp3] -te Form<br>見る<br>(B2)
+見よう<br>	[sound:jva-0115_見よう.mp3] Volitional<br>見る<br>(B2)
+見られる<br>	[sound:jva-0116_見られる.mp3] Potential<br>見る<br>(B2)
+見られる<br>	[sound:jva-0117_見られる.mp3] Passive<br>見る<br>(B2)
+見させる<br>	[sound:jva-0118_見させる.mp3] Causative<br>見る<br>(B2)
+見ろ<br>	[sound:jva-0119_見ろ.mp3] Imperative<br>見る<br>(B2)
+見れば<br>	[sound:jva-0120_見れば.mp3] Conditional<br>見る<br>(B2)
+用いる<br>	[sound:jva-0121_用いる.mp3] Present Positive Plain<br>用いる<br>(B3)
+用いない<br>	[sound:jva-0122_用いない.mp3] Present Negative Plain<br>用いる<br>(B3)
+用います<br>	[sound:jva-0123_用います.mp3] Present Positive Polite<br>用いる<br>(B3)
+用いません<br>	[sound:jva-0124_用いません.mp3] Present Negative Polite<br>用いる<br>(B3)
+用いた<br>	[sound:jva-0125_用いた.mp3] Past Positive Plain<br>用いる<br>(B3)
+用いなかった<br>	[sound:jva-0126_用いなかった.mp3] Past Negative Plain<br>用いる<br>(B3)
+用いました<br>	[sound:jva-0127_用いました.mp3] Past Positive Polite<br>用いる<br>(B3)
+用いませんでした<br>	[sound:jva-0128_用いませんでした.mp3] Past Negative Polite<br>用いる<br>(B3)
+用いて<br>	[sound:jva-0129_用いて.mp3] -te Form<br>用いる<br>(B3)
+用おう<br>	[sound:jva-0130_用おう.mp3] Volitional<br>用いる<br>(B3)
+用える<br>	[sound:jva-0131_用える.mp3] Potential<br>用いる<br>(B3)
+用われる<br>	[sound:jva-0132_用われる.mp3] Passive<br>用いる<br>(B3)
+用わせる<br>	[sound:jva-0133_用わせる.mp3] Causative<br>用いる<br>(B3)
+用いろ<br>	[sound:jva-0134_用いろ.mp3] Imperative<br>用いる<br>(B3)
+用えば<br>	[sound:jva-0135_用えば.mp3] Conditional<br>用いる<br>(B3)
+行く(D1)<br>	[sound:jva-0136_彼は毎朝ジョギングに行く。.mp3] 行く
+行く(D1)<br>	[sound:jva-0137_彼女は雨の日には外出しない。.mp3] 行かない
+行く(D1)<br>	[sound:jva-0138_私たちは今晩映画を見に行きます。.mp3] 行きます
+行く(D1)<br>	[sound:jva-0139_この週末は旅行には行きません。.mp3] 行きません
+行く(D1)<br>	[sound:jva-0140_先週、友達と海へ行った。.mp3] 行った
+行く(D1)<br>	[sound:jva-0141_彼は昨日、授業に行かなかった。.mp3] 行かなかった
+行く(D1)<br>	[sound:jva-0142_彼女は昨夜、コンサートに行きました。.mp3] 行きました
+行く(D1)<br>	[sound:jva-0143_私たちは先週末、野外コンサートに行きませんでした。.mp3] 行きませんでした
+行く(D1)<br>	[sound:jva-0144_彼らは映画館に行ってきた。.mp3] 行って
+行く(D1)<br>	[sound:jva-0145_明日は公園にピクニックしに行こう。.mp3] 行こう
+行く(D1)<br>	[sound:jva-0146_彼は一人で外国に行ける。.mp3] 行ける
+行く(D1)<br>	[sound:jva-0147_その会社では、定期的に海外出張が行かれる。.mp3] 行かれる
+行く(D1)<br>	[sound:jva-0148_両親は子供たちを映画館に行かせた。.mp3] 行かせる
+行く(D1)<br>	[sound:jva-0149_早く行け！.mp3] 行け
+行く(D1)<br>	[sound:jva-0150_もし天気が良ければ、散歩に行けばどうですか？.mp3] 行けば
+往く(D2)<br>	[sound:jva-0151_彼は毎年夏に祖国へ往く。.mp3] 往く
+往く(D2)<br>	[sound:jva-0152_彼女は町から出ずに往かない。.mp3] 往かない
+往く(D2)<br>	[sound:jva-0153_彼は出張のために東京へ往きます。.mp3] 往きます
+往く(D2)<br>	[sound:jva-0154_今日は用事があって出かけないので、外には往きません。.mp3] 往きません
+往く(D2)<br>	[sound:jva-0155_私は昨日、彼の家へ往いた。.mp3] 往いた
+往く(D2)<br>	[sound:jva-0156_彼は昨日、予定が変わって出かけなかったので、祭りへ往かなかった。.mp3] 往かなかった
+往く(D2)<br>	[sound:jva-0157_先月、京都へ往きました。.mp3] 往きました
+往く(D2)<br>	[sound:jva-0158_その日は雨だったので、公園へ往きませんでした。.mp3] 往きませんでした
+往く(D2)<br>	[sound:jva-0159_神社へお参りに往いて、お守りを買いました。.mp3] 往いて
+往く(D2)<br>	[sound:jva-0160_明日は山へ往こうと思っています。.mp3] 往こう
+往く(D2)<br>	[sound:jva-0161_彼は自由に世界中を往ける。.mp3] 往ける
+往く(D2)<br>	[sound:jva-0162_その地域は多くの観光客によって訪れられている。.mp3] 往かれる
+往く(D2)<br>	[sound:jva-0163_彼は子供たちを危険な場所へは往かせない。.mp3] 往かせる
+往く(D2)<br>	[sound:jva-0164_旅立ちの時が来たら、新しい冒険に往け！.mp3] 往け
+往く(D2)<br>	[sound:jva-0165_大学が近くにあれば、自転車で往けばいいですね。.mp3] 往けば
+イく<br>	[sound:jva-0166_イく.mp3] Present Positive Plain<br>イく<br>(D3)
+イかん<br>	[sound:jva-0167_イかん.mp3] Present Negative Plain<br>イく<br>(D3)
+イきます<br>	[sound:jva-0168_イきます.mp3] Present Positive Polite<br>イく<br>(D3)
+イきません<br>	[sound:jva-0169_イきません.mp3] Present Negative Polite<br>イく<br>(D3)
+イった<br>	[sound:jva-0170_イった.mp3] Past Positive Plain<br>イく<br>(D3)
+イかんかった<br>	[sound:jva-0171_イかんかった.mp3] Past Negative Plain<br>イく<br>(D3)
+イきました<br>	[sound:jva-0172_イきました.mp3] Past Positive Polite<br>イく<br>(D3)
+イきませんでした<br>	[sound:jva-0173_イきませんでした.mp3] Past Negative Polite<br>イく<br>(D3)
+イって<br>	[sound:jva-0174_イって.mp3] -te Form<br>イく<br>(D3)
+イこう<br>	[sound:jva-0175_イこう.mp3] Volitional<br>イく<br>(D3)
+イける<br>	[sound:jva-0176_イける.mp3] Potential<br>イく<br>(D3)
+イかれる<br>	[sound:jva-0177_イかれる.mp3] Passive<br>イく<br>(D3)
+イかせる<br>	[sound:jva-0178_イかせる.mp3] Causative<br>イく<br>(D3)
+イけ<br>	[sound:jva-0179_イけ.mp3] Imperative<br>イく<br>(D3)
+イけば<br>	[sound:jva-0180_イけば.mp3] Conditional<br>イく<br>(D3)
+禁ずる<br>	[sound:jva-0181_禁ずる.mp3] Present Positive Plain<br>禁ずる<br>(E1)
+禁ずられない<br>	[sound:jva-0182_禁ずられない.mp3] Present Negative Plain<br>禁ずる<br>(E1)
+禁ずります<br>	[sound:jva-0183_禁ずります.mp3] Present Positive Polite<br>禁ずる<br>(E1)
+禁ずりません<br>	[sound:jva-0184_禁ずりません.mp3] Present Negative Polite<br>禁ずる<br>(E1)
+禁ずった<br>	[sound:jva-0185_禁ずった.mp3] Past Positive Plain<br>禁ずる<br>(E1)
+禁ずられなかった<br>	[sound:jva-0186_禁ずられなかった.mp3] Past Negative Plain<br>禁ずる<br>(E1)
+禁ずりました<br>	[sound:jva-0187_禁ずりました.mp3] Past Positive Polite<br>禁ずる<br>(E1)
+禁ずりませんでした<br>	[sound:jva-0188_禁ずりませんでした.mp3] Past Negative Polite<br>禁ずる<br>(E1)
+禁ずって<br>	[sound:jva-0189_禁ずって.mp3] -te Form<br>禁ずる<br>(E1)
+禁ずろう<br>	[sound:jva-0190_禁ずろう.mp3] Volitional<br>禁ずる<br>(E1)
+禁ずれる<br>	[sound:jva-0191_禁ずれる.mp3] Potential<br>禁ずる<br>(E1)
+禁ずられる<br>	[sound:jva-0192_禁ずられる.mp3] Passive<br>禁ずる<br>(E1)
+禁ずらせる<br>	[sound:jva-0193_禁ずらせる.mp3] Causative<br>禁ずる<br>(E1)
+禁ずれ<br>	[sound:jva-0194_禁ずれ.mp3] Imperative<br>禁ずる<br>(E1)
+禁ずれば<br>	[sound:jva-0195_禁ずれば.mp3] Conditional<br>禁ずる<br>(E1)
+信ずる<br>	[sound:jva-0196_信ずる.mp3] Present Positive Plain<br>信ずる<br>(E2)
+信じない<br>	[sound:jva-0197_信じない.mp3] Present Negative Plain<br>信ずる<br>(E2)
+信じます<br>	[sound:jva-0198_信じます.mp3] Present Positive Polite<br>信ずる<br>(E2)
+信じません<br>	[sound:jva-0199_信じません.mp3] Present Negative Polite<br>信ずる<br>(E2)
+信じた<br>	[sound:jva-0200_信じた.mp3] Past Positive Plain<br>信ずる<br>(E2)
+信じなかった<br>	[sound:jva-0201_信じなかった.mp3] Past Negative Plain<br>信ずる<br>(E2)
+信じました<br>	[sound:jva-0202_信じました.mp3] Past Positive Polite<br>信ずる<br>(E2)
+信じませんでした<br>	[sound:jva-0203_信じませんでした.mp3] Past Negative Polite<br>信ずる<br>(E2)
+信じて<br>	[sound:jva-0204_信じて.mp3] -te Form<br>信ずる<br>(E2)
+信じよう<br>	[sound:jva-0205_信じよう.mp3] Volitional<br>信ずる<br>(E2)
+信じられる<br>	[sound:jva-0206_信じられる.mp3] Potential<br>信ずる<br>(E2)
+信じられる<br>	[sound:jva-0207_信じられる.mp3] Passive<br>信ずる<br>(E2)
+信じさせる<br>	[sound:jva-0208_信じさせる.mp3] Causative<br>信ずる<br>(E2)
+信じろ<br>	[sound:jva-0209_信じろ.mp3] Imperative<br>信ずる<br>(E2)
+信じれば<br>	[sound:jva-0210_信じれば.mp3] Conditional<br>信ずる<br>(E2)
+命ずる<br>	[sound:jva-0211_命ずる.mp3] Present Positive Plain<br>命ずる<br>(E3)
+命ずらない<br>	[sound:jva-0212_命ずらない.mp3] Present Negative Plain<br>命ずる<br>(E3)
+命ずります<br>	[sound:jva-0213_命ずります.mp3] Present Positive Polite<br>命ずる<br>(E3)
+命ずりません<br>	[sound:jva-0214_命ずりません.mp3] Present Negative Polite<br>命ずる<br>(E3)
+命ずった<br>	[sound:jva-0215_命ずった.mp3] Past Positive Plain<br>命ずる<br>(E3)
+命ずらなかった<br>	[sound:jva-0216_命ずらなかった.mp3] Past Negative Plain<br>命ずる<br>(E3)
+命ずりました<br>	[sound:jva-0217_命ずりました.mp3] Past Positive Polite<br>命ずる<br>(E3)
+命ずりませんでした<br>	[sound:jva-0218_命ずりませんでした.mp3] Past Negative Polite<br>命ずる<br>(E3)
+命ずって<br>	[sound:jva-0219_命ずって.mp3] -te Form<br>命ずる<br>(E3)
+命ずろう<br>	[sound:jva-0220_命ずろう.mp3] Volitional<br>命ずる<br>(E3)
+命ずれる<br>	[sound:jva-0221_命ずれる.mp3] Potential<br>命ずる<br>(E3)
+命ずられる<br>	[sound:jva-0222_命ずられる.mp3] Passive<br>命ずる<br>(E3)
+命ずらせる<br>	[sound:jva-0223_命ずらせる.mp3] Causative<br>命ずる<br>(E3)
+命ずれ<br>	[sound:jva-0224_命ずれ.mp3] Imperative<br>命ずる<br>(E3)
+命ずれば<br>	[sound:jva-0225_命ずれば.mp3] Conditional<br>命ずる<br>(E3)
+泳ぐ<br>	[sound:jva-0226_泳ぐ.mp3] Present Positive Plain<br>泳ぐ<br>(F1)
+泳がない<br>	[sound:jva-0227_泳がない.mp3] Present Negative Plain<br>泳ぐ<br>(F1)
+泳ぎます<br>	[sound:jva-0228_泳ぎます.mp3] Present Positive Polite<br>泳ぐ<br>(F1)
+泳ぎません<br>	[sound:jva-0229_泳ぎません.mp3] Present Negative Polite<br>泳ぐ<br>(F1)
+泳いだ<br>	[sound:jva-0230_泳いだ.mp3] Past Positive Plain<br>泳ぐ<br>(F1)
+泳がなかった<br>	[sound:jva-0231_泳がなかった.mp3] Past Negative Plain<br>泳ぐ<br>(F1)
+泳ぎました<br>	[sound:jva-0232_泳ぎました.mp3] Past Positive Polite<br>泳ぐ<br>(F1)
+泳ぎませんでした<br>	[sound:jva-0233_泳ぎませんでした.mp3] Past Negative Polite<br>泳ぐ<br>(F1)
+泳いで<br>	[sound:jva-0234_泳いで.mp3] -te Form<br>泳ぐ<br>(F1)
+泳ごう<br>	[sound:jva-0235_泳ごう.mp3] Volitional<br>泳ぐ<br>(F1)
+泳げる<br>	[sound:jva-0236_泳げる.mp3] Potential<br>泳ぐ<br>(F1)
+泳がれる<br>	[sound:jva-0237_泳がれる.mp3] Passive<br>泳ぐ<br>(F1)
+泳がせる<br>	[sound:jva-0238_泳がせる.mp3] Causative<br>泳ぐ<br>(F1)
+泳げ<br>	[sound:jva-0239_泳げ.mp3] Imperative<br>泳ぐ<br>(F1)
+泳げば<br>	[sound:jva-0240_泳げば.mp3] Conditional<br>泳ぐ<br>(F1)
+次ぐ<br>	[sound:jva-0241_次ぐ.mp3] Present Positive Plain<br>次ぐ<br>(F2)
+次がない<br>	[sound:jva-0242_次がない.mp3] Present Negative Plain<br>次ぐ<br>(F2)
+次ぎます<br>	[sound:jva-0243_次ぎます.mp3] Present Positive Polite<br>次ぐ<br>(F2)
+次ぎません<br>	[sound:jva-0244_次ぎません.mp3] Present Negative Polite<br>次ぐ<br>(F2)
+次いだ<br>	[sound:jva-0245_次いだ.mp3] Past Positive Plain<br>次ぐ<br>(F2)
+次がなかった<br>	[sound:jva-0246_次がなかった.mp3] Past Negative Plain<br>次ぐ<br>(F2)
+次ぎました<br>	[sound:jva-0247_次ぎました.mp3] Past Positive Polite<br>次ぐ<br>(F2)
+次ぎませんでした<br>	[sound:jva-0248_次ぎませんでした.mp3] Past Negative Polite<br>次ぐ<br>(F2)
+次いで<br>	[sound:jva-0249_次いで.mp3] -te Form<br>次ぐ<br>(F2)
+次ごう<br>	[sound:jva-0250_次ごう.mp3] Volitional<br>次ぐ<br>(F2)
+次げる<br>	[sound:jva-0251_次げる.mp3] Potential<br>次ぐ<br>(F2)
+次がれる<br>	[sound:jva-0252_次がれる.mp3] Passive<br>次ぐ<br>(F2)
+次がせる<br>	[sound:jva-0253_次がせる.mp3] Causative<br>次ぐ<br>(F2)
+次げ<br>	[sound:jva-0254_次げ.mp3] Imperative<br>次ぐ<br>(F2)
+次げば<br>	[sound:jva-0255_次げば.mp3] Conditional<br>次ぐ<br>(F2)
+注ぐ<br>	[sound:jva-0256_注ぐ.mp3] Present Positive Plain<br>注ぐ<br>(F3)
+注がない<br>	[sound:jva-0257_注がない.mp3] Present Negative Plain<br>注ぐ<br>(F3)
+注ぎます<br>	[sound:jva-0258_注ぎます.mp3] Present Positive Polite<br>注ぐ<br>(F3)
+注ぎません<br>	[sound:jva-0259_注ぎません.mp3] Present Negative Polite<br>注ぐ<br>(F3)
+注いだ<br>	[sound:jva-0260_注いだ.mp3] Past Positive Plain<br>注ぐ<br>(F3)
+注がなかった<br>	[sound:jva-0261_注がなかった.mp3] Past Negative Plain<br>注ぐ<br>(F3)
+注ぎました<br>	[sound:jva-0262_注ぎました.mp3] Past Positive Polite<br>注ぐ<br>(F3)
+注ぎませんでした<br>	[sound:jva-0263_注ぎませんでした.mp3] Past Negative Polite<br>注ぐ<br>(F3)
+注いで<br>	[sound:jva-0264_注いで.mp3] -te Form<br>注ぐ<br>(F3)
+注ごう<br>	[sound:jva-0265_注ごう.mp3] Volitional<br>注ぐ<br>(F3)
+注げる<br>	[sound:jva-0266_注げる.mp3] Potential<br>注ぐ<br>(F3)
+注がれる<br>	[sound:jva-0267_注がれる.mp3] Passive<br>注ぐ<br>(F3)
+注がせる<br>	[sound:jva-0268_注がせる.mp3] Causative<br>注ぐ<br>(F3)
+注げ<br>	[sound:jva-0269_注げ.mp3] Imperative<br>注ぐ<br>(F3)
+注げば<br>	[sound:jva-0270_注げば.mp3] Conditional<br>注ぐ<br>(F3)
+死ぬ<br>	[sound:jva-0271_死ぬ.mp3] Present Positive Plain<br>死ぬ<br>(G1)
+死なない<br>	[sound:jva-0272_死なない.mp3] Present Negative Plain<br>死ぬ<br>(G1)
+死にます<br>	[sound:jva-0273_死にます.mp3] Present Positive Polite<br>死ぬ<br>(G1)
+死にません<br>	[sound:jva-0274_死にません.mp3] Present Negative Polite<br>死ぬ<br>(G1)
+死んだ<br>	[sound:jva-0275_死んだ.mp3] Past Positive Plain<br>死ぬ<br>(G1)
+死ななかった<br>	[sound:jva-0276_死ななかった.mp3] Past Negative Plain<br>死ぬ<br>(G1)
+死にました<br>	[sound:jva-0277_死にました.mp3] Past Positive Polite<br>死ぬ<br>(G1)
+死にませんでした<br>	[sound:jva-0278_死にませんでした.mp3] Past Negative Polite<br>死ぬ<br>(G1)
+死んで<br>	[sound:jva-0279_死んで.mp3] -te Form<br>死ぬ<br>(G1)
+死のう<br>	[sound:jva-0280_死のう.mp3] Volitional<br>死ぬ<br>(G1)
+死ねる<br>	[sound:jva-0281_死ねる.mp3] Potential<br>死ぬ<br>(G1)
+死なれる<br>	[sound:jva-0282_死なれる.mp3] Passive<br>死ぬ<br>(G1)
+死なせる<br>	[sound:jva-0283_死なせる.mp3] Causative<br>死ぬ<br>(G1)
+死ね<br>	[sound:jva-0284_死ね.mp3] Imperative<br>死ぬ<br>(G1)
+死ねば<br>	[sound:jva-0285_死ねば.mp3] Conditional<br>死ぬ<br>(G1)
+去ぬ<br>	[sound:jva-0286_去ぬ.mp3] Present Positive Plain<br>去ぬ<br>(G2)
+去らない<br>	[sound:jva-0287_去らない.mp3] Present Negative Plain<br>去ぬ<br>(G2)
+去ります<br>	[sound:jva-0288_去ります.mp3] Present Positive Polite<br>去ぬ<br>(G2)
+去りません<br>	[sound:jva-0289_去りません.mp3] Present Negative Polite<br>去ぬ<br>(G2)
+去った<br>	[sound:jva-0290_去った.mp3] Past Positive Plain<br>去ぬ<br>(G2)
+去らなかった<br>	[sound:jva-0291_去らなかった.mp3] Past Negative Plain<br>去ぬ<br>(G2)
+去りました<br>	[sound:jva-0292_去りました.mp3] Past Positive Polite<br>去ぬ<br>(G2)
+去りませんでした<br>	[sound:jva-0293_去りませんでした.mp3] Past Negative Polite<br>去ぬ<br>(G2)
+去って<br>	[sound:jva-0294_去って.mp3] -te Form<br>去ぬ<br>(G2)
+去ろう<br>	[sound:jva-0295_去ろう.mp3] Volitional<br>去ぬ<br>(G2)
+去れる<br>	[sound:jva-0296_去れる.mp3] Potential<br>去ぬ<br>(G2)
+去られる<br>	[sound:jva-0297_去られる.mp3] Passive<br>去ぬ<br>(G2)
+去らせる<br>	[sound:jva-0298_去らせる.mp3] Causative<br>去ぬ<br>(G2)
+去れ<br>	[sound:jva-0299_去れ.mp3] Imperative<br>去ぬ<br>(G2)
+去れば<br>	[sound:jva-0300_去れば.mp3] Conditional<br>去ぬ<br>(G2)
+往ぬ<br>	[sound:jva-0301_往ぬ.mp3] Present Positive Plain<br>往ぬ<br>(G3)
+往かぬ<br>	[sound:jva-0302_往かぬ.mp3] Present Negative Plain<br>往ぬ<br>(G3)
+往きます<br>	[sound:jva-0303_往きます.mp3] Present Positive Polite<br>往ぬ<br>(G3)
+往きません<br>	[sound:jva-0304_往きません.mp3] Present Negative Polite<br>往ぬ<br>(G3)
+往った<br>	[sound:jva-0305_往った.mp3] Past Positive Plain<br>往ぬ<br>(G3)
+往かなかった<br>	[sound:jva-0306_往かなかった.mp3] Past Negative Plain<br>往ぬ<br>(G3)
+往きました<br>	[sound:jva-0307_往きました.mp3] Past Positive Polite<br>往ぬ<br>(G3)
+往きませんでした<br>	[sound:jva-0308_往きませんでした.mp3] Past Negative Polite<br>往ぬ<br>(G3)
+往いて<br>	[sound:jva-0309_往いて.mp3] -te Form<br>往ぬ<br>(G3)
+往こう<br>	[sound:jva-0310_往こう.mp3] Volitional<br>往ぬ<br>(G3)
+往ける<br>	[sound:jva-0311_往ける.mp3] Potential<br>往ぬ<br>(G3)
+往かれる<br>	[sound:jva-0312_往かれる.mp3] Passive<br>往ぬ<br>(G3)
+往かせる<br>	[sound:jva-0313_往かせる.mp3] Causative<br>往ぬ<br>(G3)
+往け<br>	[sound:jva-0314_往け.mp3] Imperative<br>往ぬ<br>(G3)
+往けば<br>	[sound:jva-0315_往けば.mp3] Conditional<br>往ぬ<br>(G3)
+来る<br>	[sound:jva-0316_来る.mp3] Present Positive Plain<br>来る<br>(H1)
+来ない<br>	[sound:jva-0317_来ない.mp3] Present Negative Plain<br>来る<br>(H1)
+来ます<br>	[sound:jva-0318_来ます.mp3] Present Positive Polite<br>来る<br>(H1)
+来ません<br>	[sound:jva-0319_来ません.mp3] Present Negative Polite<br>来る<br>(H1)
+来た<br>	[sound:jva-0320_来た.mp3] Past Positive Plain<br>来る<br>(H1)
+来なかった<br>	[sound:jva-0321_来なかった.mp3] Past Negative Plain<br>来る<br>(H1)
+来ました<br>	[sound:jva-0322_来ました.mp3] Past Positive Polite<br>来る<br>(H1)
+来ませんでした<br>	[sound:jva-0323_来ませんでした.mp3] Past Negative Polite<br>来る<br>(H1)
+来て<br>	[sound:jva-0324_来て.mp3] -te Form<br>来る<br>(H1)
+来よう<br>	[sound:jva-0325_来よう.mp3] Volitional<br>来る<br>(H1)
+来られる<br>	[sound:jva-0326_来られる.mp3] Potential<br>来る<br>(H1)
+来られる<br>	[sound:jva-0327_来られる.mp3] Passive<br>来る<br>(H1)
+来させる<br>	[sound:jva-0328_来させる.mp3] Causative<br>来る<br>(H1)
+来い<br>	[sound:jva-0329_来い.mp3] Imperative<br>来る<br>(H1)
+来れば<br>	[sound:jva-0330_来れば.mp3] Conditional<br>来る<br>(H1)
+連れて来る<br>	[sound:jva-0331_連れて来る.mp3] Present Positive Plain<br>連れて来る<br>(H2)
+連れて来ない<br>	[sound:jva-0332_連れて来ない.mp3] Present Negative Plain<br>連れて来る<br>(H2)
+連れて来ます<br>	[sound:jva-0333_連れて来ます.mp3] Present Positive Polite<br>連れて来る<br>(H2)
+連れて来ません<br>	[sound:jva-0334_連れて来ません.mp3] Present Negative Polite<br>連れて来る<br>(H2)
+連れて来た<br>	[sound:jva-0335_連れて来た.mp3] Past Positive Plain<br>連れて来る<br>(H2)
+連れて来なかった<br>	[sound:jva-0336_連れて来なかった.mp3] Past Negative Plain<br>連れて来る<br>(H2)
+連れて来ました<br>	[sound:jva-0337_連れて来ました.mp3] Past Positive Polite<br>連れて来る<br>(H2)
+連れて来ませんでした<br>	[sound:jva-0338_連れて来ませんでした.mp3] Past Negative Polite<br>連れて来る<br>(H2)
+連れて来て<br>	[sound:jva-0339_連れて来て.mp3] -te Form<br>連れて来る<br>(H2)
+連れて来よう<br>	[sound:jva-0340_連れて来よう.mp3] Volitional<br>連れて来る<br>(H2)
+連れて来られる<br>	[sound:jva-0341_連れて来られる.mp3] Potential<br>連れて来る<br>(H2)
+連れて来られる<br>	[sound:jva-0342_連れて来られる.mp3] Passive<br>連れて来る<br>(H2)
+連れて来させる<br>	[sound:jva-0343_連れて来させる.mp3] Causative<br>連れて来る<br>(H2)
+連れて来い<br>	[sound:jva-0344_連れて来い.mp3] Imperative<br>連れて来る<br>(H2)
+連れて来れば<br>	[sound:jva-0345_連れて来れば.mp3] Conditional<br>連れて来る<br>(H2)
+有る<br>	[sound:jva-0346_有る.mp3] Present Positive Plain<br>有る<br>(I1)
+有らない<br>	[sound:jva-0347_有らない.mp3] Present Negative Plain<br>有る<br>(I1)
+有ります<br>	[sound:jva-0348_有ります.mp3] Present Positive Polite<br>有る<br>(I1)
+有りません<br>	[sound:jva-0349_有りません.mp3] Present Negative Polite<br>有る<br>(I1)
+有った<br>	[sound:jva-0350_有った.mp3] Past Positive Plain<br>有る<br>(I1)
+有らなかった<br>	[sound:jva-0351_有らなかった.mp3] Past Negative Plain<br>有る<br>(I1)
+有りました<br>	[sound:jva-0352_有りました.mp3] Past Positive Polite<br>有る<br>(I1)
+有りませんでした<br>	[sound:jva-0353_有りませんでした.mp3] Past Negative Polite<br>有る<br>(I1)
+有って<br>	[sound:jva-0354_有って.mp3] -te Form<br>有る<br>(I1)
+有ろう<br>	[sound:jva-0355_有ろう.mp3] Volitional<br>有る<br>(I1)
+有れる<br>	[sound:jva-0356_有れる.mp3] Potential<br>有る<br>(I1)
+有られる<br>	[sound:jva-0357_有られる.mp3] Passive<br>有る<br>(I1)
+有らせる<br>	[sound:jva-0358_有らせる.mp3] Causative<br>有る<br>(I1)
+有れ<br>	[sound:jva-0359_有れ.mp3] Imperative<br>有る<br>(I1)
+有れば<br>	[sound:jva-0360_有れば.mp3] Conditional<br>有る<br>(I1)
+書く<br>	[sound:jva-0361_書く.mp3] Present Positive Plain<br>書く<br>(J1)
+書かない<br>	[sound:jva-0362_書かない.mp3] Present Negative Plain<br>書く<br>(J1)
+書きます<br>	[sound:jva-0363_書きます.mp3] Present Positive Polite<br>書く<br>(J1)
+書きません<br>	[sound:jva-0364_書きません.mp3] Present Negative Polite<br>書く<br>(J1)
+書いた<br>	[sound:jva-0365_書いた.mp3] Past Positive Plain<br>書く<br>(J1)
+書かなかった<br>	[sound:jva-0366_書かなかった.mp3] Past Negative Plain<br>書く<br>(J1)
+書きました<br>	[sound:jva-0367_書きました.mp3] Past Positive Polite<br>書く<br>(J1)
+書きませんでした<br>	[sound:jva-0368_書きませんでした.mp3] Past Negative Polite<br>書く<br>(J1)
+書いて<br>	[sound:jva-0369_書いて.mp3] -te Form<br>書く<br>(J1)
+書こう<br>	[sound:jva-0370_書こう.mp3] Volitional<br>書く<br>(J1)
+書ける<br>	[sound:jva-0371_書ける.mp3] Potential<br>書く<br>(J1)
+書かれる<br>	[sound:jva-0372_書かれる.mp3] Passive<br>書く<br>(J1)
+書かせる<br>	[sound:jva-0373_書かせる.mp3] Causative<br>書く<br>(J1)
+書け<br>	[sound:jva-0374_書け.mp3] Imperative<br>書く<br>(J1)
+書けば<br>	[sound:jva-0375_書けば.mp3] Conditional<br>書く<br>(J1)
+聞く<br>	[sound:jva-0376_聞く.mp3] Present Positive Plain<br>聞く<br>(J2)
+聞かない<br>	[sound:jva-0377_聞かない.mp3] Present Negative Plain<br>聞く<br>(J2)
+聞きます<br>	[sound:jva-0378_聞きます.mp3] Present Positive Polite<br>聞く<br>(J2)
+聞きません<br>	[sound:jva-0379_聞きません.mp3] Present Negative Polite<br>聞く<br>(J2)
+聞いた<br>	[sound:jva-0380_聞いた.mp3] Past Positive Plain<br>聞く<br>(J2)
+聞かなかった<br>	[sound:jva-0381_聞かなかった.mp3] Past Negative Plain<br>聞く<br>(J2)
+聞きました<br>	[sound:jva-0382_聞きました.mp3] Past Positive Polite<br>聞く<br>(J2)
+聞きませんでした<br>	[sound:jva-0383_聞きませんでした.mp3] Past Negative Polite<br>聞く<br>(J2)
+聞いて<br>	[sound:jva-0384_聞いて.mp3] -te Form<br>聞く<br>(J2)
+聞こう<br>	[sound:jva-0385_聞こう.mp3] Volitional<br>聞く<br>(J2)
+聞ける<br>	[sound:jva-0386_聞ける.mp3] Potential<br>聞く<br>(J2)
+聞かれる<br>	[sound:jva-0387_聞かれる.mp3] Passive<br>聞く<br>(J2)
+聞かせる<br>	[sound:jva-0388_聞かせる.mp3] Causative<br>聞く<br>(J2)
+聞け<br>	[sound:jva-0389_聞け.mp3] Imperative<br>聞く<br>(J2)
+聞けば<br>	[sound:jva-0390_聞けば.mp3] Conditional<br>聞く<br>(J2)
+置く<br>	[sound:jva-0391_置く.mp3] Present Positive Plain<br>置く<br>(J3)
+置かない<br>	[sound:jva-0392_置かない.mp3] Present Negative Plain<br>置く<br>(J3)
+置きます<br>	[sound:jva-0393_置きます.mp3] Present Positive Polite<br>置く<br>(J3)
+置きません<br>	[sound:jva-0394_置きません.mp3] Present Negative Polite<br>置く<br>(J3)
+置いた<br>	[sound:jva-0395_置いた.mp3] Past Positive Plain<br>置く<br>(J3)
+置かなかった<br>	[sound:jva-0396_置かなかった.mp3] Past Negative Plain<br>置く<br>(J3)
+置きました<br>	[sound:jva-0397_置きました.mp3] Past Positive Polite<br>置く<br>(J3)
+置きませんでした<br>	[sound:jva-0398_置きませんでした.mp3] Past Negative Polite<br>置く<br>(J3)
+置いて<br>	[sound:jva-0399_置いて.mp3] -te Form<br>置く<br>(J3)
+置こう<br>	[sound:jva-0400_置こう.mp3] Volitional<br>置く<br>(J3)
+置ける<br>	[sound:jva-0401_置ける.mp3] Potential<br>置く<br>(J3)
+置かれる<br>	[sound:jva-0402_置かれる.mp3] Passive<br>置く<br>(J3)
+置かせる<br>	[sound:jva-0403_置かせる.mp3] Causative<br>置く<br>(J3)
+置け<br>	[sound:jva-0404_置け.mp3] Imperative<br>置く<br>(J3)
+置けば<br>	[sound:jva-0405_置けば.mp3] Conditional<br>置く<br>(J3)
+接する<br>	[sound:jva-0406_接する.mp3] Present Positive Plain<br>接する<br>(K1)
+接しない<br>	[sound:jva-0407_接しない.mp3] Present Negative Plain<br>接する<br>(K1)
+接します<br>	[sound:jva-0408_接します.mp3] Present Positive Polite<br>接する<br>(K1)
+接しません<br>	[sound:jva-0409_接しません.mp3] Present Negative Polite<br>接する<br>(K1)
+接した<br>	[sound:jva-0410_接した.mp3] Past Positive Plain<br>接する<br>(K1)
+接しなかった<br>	[sound:jva-0411_接しなかった.mp3] Past Negative Plain<br>接する<br>(K1)
+接しました<br>	[sound:jva-0412_接しました.mp3] Past Positive Polite<br>接する<br>(K1)
+接しませんでした<br>	[sound:jva-0413_接しませんでした.mp3] Past Negative Polite<br>接する<br>(K1)
+接して<br>	[sound:jva-0414_接して.mp3] -te Form<br>接する<br>(K1)
+接しよう<br>	[sound:jva-0415_接しよう.mp3] Volitional<br>接する<br>(K1)
+接できる<br>	[sound:jva-0416_接できる.mp3] Potential<br>接する<br>(K1)
+接される<br>	[sound:jva-0417_接される.mp3] Passive<br>接する<br>(K1)
+接させる<br>	[sound:jva-0418_接させる.mp3] Causative<br>接する<br>(K1)
+接せよ<br>	[sound:jva-0419_接せよ.mp3] Imperative<br>接する<br>(K1)
+接すれば<br>	[sound:jva-0420_接すれば.mp3] Conditional<br>接する<br>(K1)
+発する<br>	[sound:jva-0421_発する.mp3] Present Positive Plain<br>発する<br>(K2)
+発しない<br>	[sound:jva-0422_発しない.mp3] Present Negative Plain<br>発する<br>(K2)
+発します<br>	[sound:jva-0423_発します.mp3] Present Positive Polite<br>発する<br>(K2)
+発しません<br>	[sound:jva-0424_発しません.mp3] Present Negative Polite<br>発する<br>(K2)
+発した<br>	[sound:jva-0425_発した.mp3] Past Positive Plain<br>発する<br>(K2)
+発さなかった<br>	[sound:jva-0426_発さなかった.mp3] Past Negative Plain<br>発する<br>(K2)
+発しました<br>	[sound:jva-0427_発しました.mp3] Past Positive Polite<br>発する<br>(K2)
+発しませんでした<br>	[sound:jva-0428_発しませんでした.mp3] Past Negative Polite<br>発する<br>(K2)
+発して<br>	[sound:jva-0429_発して.mp3] -te Form<br>発する<br>(K2)
+発そう<br>	[sound:jva-0430_発そう.mp3] Volitional<br>発する<br>(K2)
+発できる<br>	[sound:jva-0431_発できる.mp3] Potential<br>発する<br>(K2)
+発される<br>	[sound:jva-0432_発される.mp3] Passive<br>発する<br>(K2)
+発させる<br>	[sound:jva-0433_発させる.mp3] Causative<br>発する<br>(K2)
+発せよ<br>	[sound:jva-0434_発せよ.mp3] Imperative<br>発する<br>(K2)
+発すれば<br>	[sound:jva-0435_発すれば.mp3] Conditional<br>発する<br>(K2)
+罰する<br>	[sound:jva-0436_罰する.mp3] Present Positive Plain<br>罰する<br>(K3)
+罰しない<br>	[sound:jva-0437_罰しない.mp3] Present Negative Plain<br>罰する<br>(K3)
+罰します<br>	[sound:jva-0438_罰します.mp3] Present Positive Polite<br>罰する<br>(K3)
+罰しません<br>	[sound:jva-0439_罰しません.mp3] Present Negative Polite<br>罰する<br>(K3)
+罰した<br>	[sound:jva-0440_罰した.mp3] Past Positive Plain<br>罰する<br>(K3)
+罰さなかった<br>	[sound:jva-0441_罰さなかった.mp3] Past Negative Plain<br>罰する<br>(K3)
+罰しました<br>	[sound:jva-0442_罰しました.mp3] Past Positive Polite<br>罰する<br>(K3)
+罰しませんでした<br>	[sound:jva-0443_罰しませんでした.mp3] Past Negative Polite<br>罰する<br>(K3)
+罰して<br>	[sound:jva-0444_罰して.mp3] -te Form<br>罰する<br>(K3)
+罰そう<br>	[sound:jva-0445_罰そう.mp3] Volitional<br>罰する<br>(K3)
+罰できる<br>	[sound:jva-0446_罰できる.mp3] Potential<br>罰する<br>(K3)
+罰される<br>	[sound:jva-0447_罰される.mp3] Passive<br>罰する<br>(K3)
+罰させる<br>	[sound:jva-0448_罰させる.mp3] Causative<br>罰する<br>(K3)
+罰せよ<br>	[sound:jva-0449_罰せよ.mp3] Imperative<br>罰する<br>(K3)
+罰すれば<br>	[sound:jva-0450_罰すれば.mp3] Conditional<br>罰する<br>(K3)
+指す<br>	[sound:jva-0451_指す.mp3] Present Positive Plain<br>指す<br>(L1)
+指さない<br>	[sound:jva-0452_指さない.mp3] Present Negative Plain<br>指す<br>(L1)
+指します<br>	[sound:jva-0453_指します.mp3] Present Positive Polite<br>指す<br>(L1)
+指しません<br>	[sound:jva-0454_指しません.mp3] Present Negative Polite<br>指す<br>(L1)
+指した<br>	[sound:jva-0455_指した.mp3] Past Positive Plain<br>指す<br>(L1)
+指さなかった<br>	[sound:jva-0456_指さなかった.mp3] Past Negative Plain<br>指す<br>(L1)
+指しました<br>	[sound:jva-0457_指しました.mp3] Past Positive Polite<br>指す<br>(L1)
+指しませんでした<br>	[sound:jva-0458_指しませんでした.mp3] Past Negative Polite<br>指す<br>(L1)
+指して<br>	[sound:jva-0459_指して.mp3] -te Form<br>指す<br>(L1)
+指そう<br>	[sound:jva-0460_指そう.mp3] Volitional<br>指す<br>(L1)
+指せる<br>	[sound:jva-0461_指せる.mp3] Potential<br>指す<br>(L1)
+指される<br>	[sound:jva-0462_指される.mp3] Passive<br>指す<br>(L1)
+指させる<br>	[sound:jva-0463_指させる.mp3] Causative<br>指す<br>(L1)
+指せ<br>	[sound:jva-0464_指せ.mp3] Imperative<br>指す<br>(L1)
+指せば<br>	[sound:jva-0465_指せば.mp3] Conditional<br>指す<br>(L1)
+話す<br>	[sound:jva-0466_話す.mp3] Present Positive Plain<br>話す<br>(L2)
+話さない<br>	[sound:jva-0467_話さない.mp3] Present Negative Plain<br>話す<br>(L2)
+話します<br>	[sound:jva-0468_話します.mp3] Present Positive Polite<br>話す<br>(L2)
+話しません<br>	[sound:jva-0469_話しません.mp3] Present Negative Polite<br>話す<br>(L2)
+話した<br>	[sound:jva-0470_話した.mp3] Past Positive Plain<br>話す<br>(L2)
+話さなかった<br>	[sound:jva-0471_話さなかった.mp3] Past Negative Plain<br>話す<br>(L2)
+話しました<br>	[sound:jva-0472_話しました.mp3] Past Positive Polite<br>話す<br>(L2)
+話しませんでした<br>	[sound:jva-0473_話しませんでした.mp3] Past Negative Polite<br>話す<br>(L2)
+話して<br>	[sound:jva-0474_話して.mp3] -te Form<br>話す<br>(L2)
+話そう<br>	[sound:jva-0475_話そう.mp3] Volitional<br>話す<br>(L2)
+話せる<br>	[sound:jva-0476_話せる.mp3] Potential<br>話す<br>(L2)
+話される<br>	[sound:jva-0477_話される.mp3] Passive<br>話す<br>(L2)
+話させる<br>	[sound:jva-0478_話させる.mp3] Causative<br>話す<br>(L2)
+話せ<br>	[sound:jva-0479_話せ.mp3] Imperative<br>話す<br>(L2)
+話せば<br>	[sound:jva-0480_話せば.mp3] Conditional<br>話す<br>(L2)
+示す<br>	[sound:jva-0481_示す.mp3] Present Positive Plain<br>示す<br>(L3)
+示さない<br>	[sound:jva-0482_示さない.mp3] Present Negative Plain<br>示す<br>(L3)
+示します<br>	[sound:jva-0483_示します.mp3] Present Positive Polite<br>示す<br>(L3)
+示しません<br>	[sound:jva-0484_示しません.mp3] Present Negative Polite<br>示す<br>(L3)
+示した<br>	[sound:jva-0485_示した.mp3] Past Positive Plain<br>示す<br>(L3)
+示さなかった<br>	[sound:jva-0486_示さなかった.mp3] Past Negative Plain<br>示す<br>(L3)
+示しました<br>	[sound:jva-0487_示しました.mp3] Past Positive Polite<br>示す<br>(L3)
+示しませんでした<br>	[sound:jva-0488_示しませんでした.mp3] Past Negative Polite<br>示す<br>(L3)
+示して<br>	[sound:jva-0489_示して.mp3] -te Form<br>示す<br>(L3)
+示そう<br>	[sound:jva-0490_示そう.mp3] Volitional<br>示す<br>(L3)
+示せる<br>	[sound:jva-0491_示せる.mp3] Potential<br>示す<br>(L3)
+示される<br>	[sound:jva-0492_示される.mp3] Passive<br>示す<br>(L3)
+示させる<br>	[sound:jva-0493_示させる.mp3] Causative<br>示す<br>(L3)
+示せ<br>	[sound:jva-0494_示せ.mp3] Imperative<br>示す<br>(L3)
+示せば<br>	[sound:jva-0495_示せば.mp3] Conditional<br>示す<br>(L3)
+愛する<br>	[sound:jva-0496_愛する.mp3] Present Positive Plain<br>愛する<br>(M1)
+愛さない<br>	[sound:jva-0497_愛さない.mp3] Present Negative Plain<br>愛する<br>(M1)
+愛します<br>	[sound:jva-0498_愛します.mp3] Present Positive Polite<br>愛する<br>(M1)
+愛しません<br>	[sound:jva-0499_愛しません.mp3] Present Negative Polite<br>愛する<br>(M1)
+愛した<br>	[sound:jva-0500_愛した.mp3] Past Positive Plain<br>愛する<br>(M1)
+愛さなかった<br>	[sound:jva-0501_愛さなかった.mp3] Past Negative Plain<br>愛する<br>(M1)
+愛しました<br>	[sound:jva-0502_愛しました.mp3] Past Positive Polite<br>愛する<br>(M1)
+愛しませんでした<br>	[sound:jva-0503_愛しませんでした.mp3] Past Negative Polite<br>愛する<br>(M1)
+愛して<br>	[sound:jva-0504_愛して.mp3] -te Form<br>愛する<br>(M1)
+愛しよう<br>	[sound:jva-0505_愛しよう.mp3] Volitional<br>愛する<br>(M1)
+愛せる<br>	[sound:jva-0506_愛せる.mp3] Potential<br>愛する<br>(M1)
+愛される<br>	[sound:jva-0507_愛される.mp3] Passive<br>愛する<br>(M1)
+愛させる<br>	[sound:jva-0508_愛させる.mp3] Causative<br>愛する<br>(M1)
+愛せ<br>	[sound:jva-0509_愛せ.mp3] Imperative<br>愛する<br>(M1)
+愛せば<br>	[sound:jva-0510_愛せば.mp3] Conditional<br>愛する<br>(M1)
+化する<br>	[sound:jva-0511_化する.mp3] Present Positive Plain<br>化する<br>(M2)
+化しない<br>	[sound:jva-0512_化しない.mp3] Present Negative Plain<br>化する<br>(M2)
+化します<br>	[sound:jva-0513_化します.mp3] Present Positive Polite<br>化する<br>(M2)
+化しません<br>	[sound:jva-0514_化しません.mp3] Present Negative Polite<br>化する<br>(M2)
+化した<br>	[sound:jva-0515_化した.mp3] Past Positive Plain<br>化する<br>(M2)
+化さなかった<br>	[sound:jva-0516_化さなかった.mp3] Past Negative Plain<br>化する<br>(M2)
+化しました<br>	[sound:jva-0517_化しました.mp3] Past Positive Polite<br>化する<br>(M2)
+化しませんでした<br>	[sound:jva-0518_化しませんでした.mp3] Past Negative Polite<br>化する<br>(M2)
+化して<br>	[sound:jva-0519_化して.mp3] -te Form<br>化する<br>(M2)
+化そう<br>	[sound:jva-0520_化そう.mp3] Volitional<br>化する<br>(M2)
+化せる<br>	[sound:jva-0521_化せる.mp3] Potential<br>化する<br>(M2)
+化される<br>	[sound:jva-0522_化される.mp3] Passive<br>化する<br>(M2)
+化させる<br>	[sound:jva-0523_化させる.mp3] Causative<br>化する<br>(M2)
+化せよ<br>	[sound:jva-0524_化せよ.mp3] Imperative<br>化する<br>(M2)
+化せば<br>	[sound:jva-0525_化せば.mp3] Conditional<br>化する<br>(M2)
+属する<br>	[sound:jva-0526_属する.mp3] Present Positive Plain<br>属する<br>(M3)
+属さない<br>	[sound:jva-0527_属さない.mp3] Present Negative Plain<br>属する<br>(M3)
+属します<br>	[sound:jva-0528_属します.mp3] Present Positive Polite<br>属する<br>(M3)
+属しません<br>	[sound:jva-0529_属しません.mp3] Present Negative Polite<br>属する<br>(M3)
+属した<br>	[sound:jva-0530_属した.mp3] Past Positive Plain<br>属する<br>(M3)
+属さなかった<br>	[sound:jva-0531_属さなかった.mp3] Past Negative Plain<br>属する<br>(M3)
+属しました<br>	[sound:jva-0532_属しました.mp3] Past Positive Polite<br>属する<br>(M3)
+属しませんでした<br>	[sound:jva-0533_属しませんでした.mp3] Past Negative Polite<br>属する<br>(M3)
+属して<br>	[sound:jva-0534_属して.mp3] -te Form<br>属する<br>(M3)
+属しよう<br>	[sound:jva-0535_属しよう.mp3] Volitional<br>属する<br>(M3)
+属せる<br>	[sound:jva-0536_属せる.mp3] Potential<br>属する<br>(M3)
+属される<br>	[sound:jva-0537_属される.mp3] Passive<br>属する<br>(M3)
+属させる<br>	[sound:jva-0538_属させる.mp3] Causative<br>属する<br>(M3)
+属せ<br>	[sound:jva-0539_属せ.mp3] Imperative<br>属する<br>(M3)
+属せば<br>	[sound:jva-0540_属せば.mp3] Conditional<br>属する<br>(M3)
+待つ<br>	[sound:jva-0541_待つ.mp3] Present Positive Plain<br>待つ<br>(N1)
+待たない<br>	[sound:jva-0542_待たない.mp3] Present Negative Plain<br>待つ<br>(N1)
+待ちます<br>	[sound:jva-0543_待ちます.mp3] Present Positive Polite<br>待つ<br>(N1)
+待ちません<br>	[sound:jva-0544_待ちません.mp3] Present Negative Polite<br>待つ<br>(N1)
+待った<br>	[sound:jva-0545_待った.mp3] Past Positive Plain<br>待つ<br>(N1)
+待たなかった<br>	[sound:jva-0546_待たなかった.mp3] Past Negative Plain<br>待つ<br>(N1)
+待ちました<br>	[sound:jva-0547_待ちました.mp3] Past Positive Polite<br>待つ<br>(N1)
+待ちませんでした<br>	[sound:jva-0548_待ちませんでした.mp3] Past Negative Polite<br>待つ<br>(N1)
+待って<br>	[sound:jva-0549_待って.mp3] -te Form<br>待つ<br>(N1)
+待とう<br>	[sound:jva-0550_待とう.mp3] Volitional<br>待つ<br>(N1)
+待てる<br>	[sound:jva-0551_待てる.mp3] Potential<br>待つ<br>(N1)
+待たれる<br>	[sound:jva-0552_待たれる.mp3] Passive<br>待つ<br>(N1)
+待たせる<br>	[sound:jva-0553_待たせる.mp3] Causative<br>待つ<br>(N1)
+待て<br>	[sound:jva-0554_待て.mp3] Imperative<br>待つ<br>(N1)
+待てば<br>	[sound:jva-0555_待てば.mp3] Conditional<br>待つ<br>(N1)
+持つ<br>	[sound:jva-0556_持つ.mp3] Present Positive Plain<br>持つ<br>(N2)
+持たない<br>	[sound:jva-0557_持たない.mp3] Present Negative Plain<br>持つ<br>(N2)
+持ちます<br>	[sound:jva-0558_持ちます.mp3] Present Positive Polite<br>持つ<br>(N2)
+持ちません<br>	[sound:jva-0559_持ちません.mp3] Present Negative Polite<br>持つ<br>(N2)
+持った<br>	[sound:jva-0560_持った.mp3] Past Positive Plain<br>持つ<br>(N2)
+持たなかった<br>	[sound:jva-0561_持たなかった.mp3] Past Negative Plain<br>持つ<br>(N2)
+持ちました<br>	[sound:jva-0562_持ちました.mp3] Past Positive Polite<br>持つ<br>(N2)
+持ちませんでした<br>	[sound:jva-0563_持ちませんでした.mp3] Past Negative Polite<br>持つ<br>(N2)
+持って<br>	[sound:jva-0564_持って.mp3] -te Form<br>持つ<br>(N2)
+持とう<br>	[sound:jva-0565_持とう.mp3] Volitional<br>持つ<br>(N2)
+持てる<br>	[sound:jva-0566_持てる.mp3] Potential<br>持つ<br>(N2)
+持たれる<br>	[sound:jva-0567_持たれる.mp3] Passive<br>持つ<br>(N2)
+持たせる<br>	[sound:jva-0568_持たせる.mp3] Causative<br>持つ<br>(N2)
+持て<br>	[sound:jva-0569_持て.mp3] Imperative<br>持つ<br>(N2)
+持てば<br>	[sound:jva-0570_持てば.mp3] Conditional<br>持つ<br>(N2)
+立つ<br>	[sound:jva-0571_立つ.mp3] Present Positive Plain<br>立つ<br>(N3)
+立たない<br>	[sound:jva-0572_立たない.mp3] Present Negative Plain<br>立つ<br>(N3)
+立ちます<br>	[sound:jva-0573_立ちます.mp3] Present Positive Polite<br>立つ<br>(N3)
+立ちません<br>	[sound:jva-0574_立ちません.mp3] Present Negative Polite<br>立つ<br>(N3)
+立った<br>	[sound:jva-0575_立った.mp3] Past Positive Plain<br>立つ<br>(N3)
+立たなかった<br>	[sound:jva-0576_立たなかった.mp3] Past Negative Plain<br>立つ<br>(N3)
+立ちました<br>	[sound:jva-0577_立ちました.mp3] Past Positive Polite<br>立つ<br>(N3)
+立ちませんでした<br>	[sound:jva-0578_立ちませんでした.mp3] Past Negative Polite<br>立つ<br>(N3)
+立って<br>	[sound:jva-0579_立って.mp3] -te Form<br>立つ<br>(N3)
+立とう<br>	[sound:jva-0580_立とう.mp3] Volitional<br>立つ<br>(N3)
+立てる<br>	[sound:jva-0581_立てる.mp3] Potential<br>立つ<br>(N3)
+立たれる<br>	[sound:jva-0582_立たれる.mp3] Passive<br>立つ<br>(N3)
+立たせる<br>	[sound:jva-0583_立たせる.mp3] Causative<br>立つ<br>(N3)
+立て<br>	[sound:jva-0584_立て.mp3] Imperative<br>立つ<br>(N3)
+立てば<br>	[sound:jva-0585_立てば.mp3] Conditional<br>立つ<br>(N3)
+在る<br>	[sound:jva-0586_在る.mp3] Present Positive Plain<br>在る<br>(O1)
+在らない<br>	[sound:jva-0587_在らない.mp3] Present Negative Plain<br>在る<br>(O1)
+在ります<br>	[sound:jva-0588_在ります.mp3] Present Positive Polite<br>在る<br>(O1)
+在りません<br>	[sound:jva-0589_在りません.mp3] Present Negative Polite<br>在る<br>(O1)
+在った<br>	[sound:jva-0590_在った.mp3] Past Positive Plain<br>在る<br>(O1)
+在らなかった<br>	[sound:jva-0591_在らなかった.mp3] Past Negative Plain<br>在る<br>(O1)
+在りました<br>	[sound:jva-0592_在りました.mp3] Past Positive Polite<br>在る<br>(O1)
+在りませんでした<br>	[sound:jva-0593_在りませんでした.mp3] Past Negative Polite<br>在る<br>(O1)
+在って<br>	[sound:jva-0594_在って.mp3] -te Form<br>在る<br>(O1)
+在ろう<br>	[sound:jva-0595_在ろう.mp3] Volitional<br>在る<br>(O1)
+在れる<br>	[sound:jva-0596_在れる.mp3] Potential<br>在る<br>(O1)
+在られる<br>	[sound:jva-0597_在られる.mp3] Passive<br>在る<br>(O1)
+在らせる<br>	[sound:jva-0598_在らせる.mp3] Causative<br>在る<br>(O1)
+在れ<br>	[sound:jva-0599_在れ.mp3] Imperative<br>在る<br>(O1)
+在れば<br>	[sound:jva-0600_在れば.mp3] Conditional<br>在る<br>(O1)
+問う<br>	[sound:jva-0601_問う.mp3] Present Positive Plain<br>問う<br>(P1)
+問わない<br>	[sound:jva-0602_問わない.mp3] Present Negative Plain<br>問う<br>(P1)
+問います<br>	[sound:jva-0603_問います.mp3] Present Positive Polite<br>問う<br>(P1)
+問いません<br>	[sound:jva-0604_問いません.mp3] Present Negative Polite<br>問う<br>(P1)
+問った<br>	[sound:jva-0605_問った.mp3] Past Positive Plain<br>問う<br>(P1)
+問わなかった<br>	[sound:jva-0606_問わなかった.mp3] Past Negative Plain<br>問う<br>(P1)
+問いました<br>	[sound:jva-0607_問いました.mp3] Past Positive Polite<br>問う<br>(P1)
+問いませんでした<br>	[sound:jva-0608_問いませんでした.mp3] Past Negative Polite<br>問う<br>(P1)
+問って<br>	[sound:jva-0609_問って.mp3] -te Form<br>問う<br>(P1)
+問おう<br>	[sound:jva-0610_問おう.mp3] Volitional<br>問う<br>(P1)
+問える<br>	[sound:jva-0611_問える.mp3] Potential<br>問う<br>(P1)
+問われる<br>	[sound:jva-0612_問われる.mp3] Passive<br>問う<br>(P1)
+問わせる<br>	[sound:jva-0613_問わせる.mp3] Causative<br>問う<br>(P1)
+問え<br>	[sound:jva-0614_問え.mp3] Imperative<br>問う<br>(P1)
+問えば<br>	[sound:jva-0615_問えば.mp3] Conditional<br>問う<br>(P1)
+呼ぶ<br>	[sound:jva-0616_呼ぶ.mp3] Present Positive Plain<br>呼ぶ<br>(Q1)
+呼ばない<br>	[sound:jva-0617_呼ばない.mp3] Present Negative Plain<br>呼ぶ<br>(Q1)
+呼びます<br>	[sound:jva-0618_呼びます.mp3] Present Positive Polite<br>呼ぶ<br>(Q1)
+呼びません<br>	[sound:jva-0619_呼びません.mp3] Present Negative Polite<br>呼ぶ<br>(Q1)
+呼んだ<br>	[sound:jva-0620_呼んだ.mp3] Past Positive Plain<br>呼ぶ<br>(Q1)
+呼ばなかった<br>	[sound:jva-0621_呼ばなかった.mp3] Past Negative Plain<br>呼ぶ<br>(Q1)
+呼びました<br>	[sound:jva-0622_呼びました.mp3] Past Positive Polite<br>呼ぶ<br>(Q1)
+呼びませんでした<br>	[sound:jva-0623_呼びませんでした.mp3] Past Negative Polite<br>呼ぶ<br>(Q1)
+呼んで<br>	[sound:jva-0624_呼んで.mp3] -te Form<br>呼ぶ<br>(Q1)
+呼ぼう<br>	[sound:jva-0625_呼ぼう.mp3] Volitional<br>呼ぶ<br>(Q1)
+呼べる<br>	[sound:jva-0626_呼べる.mp3] Potential<br>呼ぶ<br>(Q1)
+呼ばれる<br>	[sound:jva-0627_呼ばれる.mp3] Passive<br>呼ぶ<br>(Q1)
+呼ばせる<br>	[sound:jva-0628_呼ばせる.mp3] Causative<br>呼ぶ<br>(Q1)
+呼べ<br>	[sound:jva-0629_呼べ.mp3] Imperative<br>呼ぶ<br>(Q1)
+呼べば<br>	[sound:jva-0630_呼べば.mp3] Conditional<br>呼ぶ<br>(Q1)
+学ぶ<br>	[sound:jva-0631_学ぶ.mp3] Present Positive Plain<br>学ぶ<br>(Q2)
+学ばない<br>	[sound:jva-0632_学ばない.mp3] Present Negative Plain<br>学ぶ<br>(Q2)
+学びます<br>	[sound:jva-0633_学びます.mp3] Present Positive Polite<br>学ぶ<br>(Q2)
+学びません<br>	[sound:jva-0634_学びません.mp3] Present Negative Polite<br>学ぶ<br>(Q2)
+学んだ<br>	[sound:jva-0635_学んだ.mp3] Past Positive Plain<br>学ぶ<br>(Q2)
+学ばなかった<br>	[sound:jva-0636_学ばなかった.mp3] Past Negative Plain<br>学ぶ<br>(Q2)
+学びました<br>	[sound:jva-0637_学びました.mp3] Past Positive Polite<br>学ぶ<br>(Q2)
+学びませんでした<br>	[sound:jva-0638_学びませんでした.mp3] Past Negative Polite<br>学ぶ<br>(Q2)
+学んで<br>	[sound:jva-0639_学んで.mp3] -te Form<br>学ぶ<br>(Q2)
+学ぼう<br>	[sound:jva-0640_学ぼう.mp3] Volitional<br>学ぶ<br>(Q2)
+学べる<br>	[sound:jva-0641_学べる.mp3] Potential<br>学ぶ<br>(Q2)
+学ばれる<br>	[sound:jva-0642_学ばれる.mp3] Passive<br>学ぶ<br>(Q2)
+学ばせる<br>	[sound:jva-0643_学ばせる.mp3] Causative<br>学ぶ<br>(Q2)
+学べ<br>	[sound:jva-0644_学べ.mp3] Imperative<br>学ぶ<br>(Q2)
+学べば<br>	[sound:jva-0645_学べば.mp3] Conditional<br>学ぶ<br>(Q2)
+並ぶ<br>	[sound:jva-0646_並ぶ.mp3] Present Positive Plain<br>並ぶ<br>(Q3)
+並ばない<br>	[sound:jva-0647_並ばない.mp3] Present Negative Plain<br>並ぶ<br>(Q3)
+並びます<br>	[sound:jva-0648_並びます.mp3] Present Positive Polite<br>並ぶ<br>(Q3)
+並びません<br>	[sound:jva-0649_並びません.mp3] Present Negative Polite<br>並ぶ<br>(Q3)
+並んだ<br>	[sound:jva-0650_並んだ.mp3] Past Positive Plain<br>並ぶ<br>(Q3)
+並ばなかった<br>	[sound:jva-0651_並ばなかった.mp3] Past Negative Plain<br>並ぶ<br>(Q3)
+並びました<br>	[sound:jva-0652_並びました.mp3] Past Positive Polite<br>並ぶ<br>(Q3)
+並びませんでした<br>	[sound:jva-0653_並びませんでした.mp3] Past Negative Polite<br>並ぶ<br>(Q3)
+並んで<br>	[sound:jva-0654_並んで.mp3] -te Form<br>並ぶ<br>(Q3)
+並ぼう<br>	[sound:jva-0655_並ぼう.mp3] Volitional<br>並ぶ<br>(Q3)
+並べる<br>	[sound:jva-0656_並べる.mp3] Potential<br>並ぶ<br>(Q3)
+並ばれる<br>	[sound:jva-0657_並ばれる.mp3] Passive<br>並ぶ<br>(Q3)
+並ばせる<br>	[sound:jva-0658_並ばせる.mp3] Causative<br>並ぶ<br>(Q3)
+並べ<br>	[sound:jva-0659_並べ.mp3] Imperative<br>並ぶ<br>(Q3)
+並べば<br>	[sound:jva-0660_並べば.mp3] Conditional<br>並ぶ<br>(Q3)
+入る<br>	[sound:jva-0661_入る.mp3] Present Positive Plain<br>入る<br>(R1)
+入らない<br>	[sound:jva-0662_入らない.mp3] Present Negative Plain<br>入る<br>(R1)
+入ります<br>	[sound:jva-0663_入ります.mp3] Present Positive Polite<br>入る<br>(R1)
+入りません<br>	[sound:jva-0664_入りません.mp3] Present Negative Polite<br>入る<br>(R1)
+入った<br>	[sound:jva-0665_入った.mp3] Past Positive Plain<br>入る<br>(R1)
+入らなかった<br>	[sound:jva-0666_入らなかった.mp3] Past Negative Plain<br>入る<br>(R1)
+入りました<br>	[sound:jva-0667_入りました.mp3] Past Positive Polite<br>入る<br>(R1)
+入りませんでした<br>	[sound:jva-0668_入りませんでした.mp3] Past Negative Polite<br>入る<br>(R1)
+入って<br>	[sound:jva-0669_入って.mp3] -te Form<br>入る<br>(R1)
+入ろう<br>	[sound:jva-0670_入ろう.mp3] Volitional<br>入る<br>(R1)
+入れる<br>	[sound:jva-0671_入れる.mp3] Potential<br>入る<br>(R1)
+入られる<br>	[sound:jva-0672_入られる.mp3] Passive<br>入る<br>(R1)
+入れさせる<br>	[sound:jva-0673_入れさせる.mp3] Causative<br>入る<br>(R1)
+入れ<br>	[sound:jva-0674_入れ.mp3] Imperative<br>入る<br>(R1)
+入れば<br>	[sound:jva-0675_入れば.mp3] Conditional<br>入る<br>(R1)
+作る<br>	[sound:jva-0676_作る.mp3] Present Positive Plain<br>作る<br>(R2)
+作らない<br>	[sound:jva-0677_作らない.mp3] Present Negative Plain<br>作る<br>(R2)
+作ります<br>	[sound:jva-0678_作ります.mp3] Present Positive Polite<br>作る<br>(R2)
+作りません<br>	[sound:jva-0679_作りません.mp3] Present Negative Polite<br>作る<br>(R2)
+作った<br>	[sound:jva-0680_作った.mp3] Past Positive Plain<br>作る<br>(R2)
+作らなかった<br>	[sound:jva-0681_作らなかった.mp3] Past Negative Plain<br>作る<br>(R2)
+作りました<br>	[sound:jva-0682_作りました.mp3] Past Positive Polite<br>作る<br>(R2)
+作りませんでした<br>	[sound:jva-0683_作りませんでした.mp3] Past Negative Polite<br>作る<br>(R2)
+作って<br>	[sound:jva-0684_作って.mp3] -te Form<br>作る<br>(R2)
+作ろう<br>	[sound:jva-0685_作ろう.mp3] Volitional<br>作る<br>(R2)
+作れる<br>	[sound:jva-0686_作れる.mp3] Potential<br>作る<br>(R2)
+作られる<br>	[sound:jva-0687_作られる.mp3] Passive<br>作る<br>(R2)
+作らせる<br>	[sound:jva-0688_作らせる.mp3] Causative<br>作る<br>(R2)
+作れ<br>	[sound:jva-0689_作れ.mp3] Imperative<br>作る<br>(R2)
+作れば<br>	[sound:jva-0690_作れば.mp3] Conditional<br>作る<br>(R2)
+知る<br>	[sound:jva-0691_知る.mp3] Present Positive Plain<br>知る<br>(R3)
+知らない<br>	[sound:jva-0692_知らない.mp3] Present Negative Plain<br>知る<br>(R3)
+知ります<br>	[sound:jva-0693_知ります.mp3] Present Positive Polite<br>知る<br>(R3)
+知りません<br>	[sound:jva-0694_知りません.mp3] Present Negative Polite<br>知る<br>(R3)
+知った<br>	[sound:jva-0695_知った.mp3] Past Positive Plain<br>知る<br>(R3)
+知らなかった<br>	[sound:jva-0696_知らなかった.mp3] Past Negative Plain<br>知る<br>(R3)
+知りました<br>	[sound:jva-0697_知りました.mp3] Past Positive Polite<br>知る<br>(R3)
+知りませんでした<br>	[sound:jva-0698_知りませんでした.mp3] Past Negative Polite<br>知る<br>(R3)
+知って<br>	[sound:jva-0699_知って.mp3] -te Form<br>知る<br>(R3)
+知ろう<br>	[sound:jva-0700_知ろう.mp3] Volitional<br>知る<br>(R3)
+知れる<br>	[sound:jva-0701_知れる.mp3] Potential<br>知る<br>(R3)
+知られる<br>	[sound:jva-0702_知られる.mp3] Passive<br>知る<br>(R3)
+知らせる<br>	[sound:jva-0703_知らせる.mp3] Causative<br>知る<br>(R3)
+知れ<br>	[sound:jva-0704_知れ.mp3] Imperative<br>知る<br>(R3)
+知れば<br>	[sound:jva-0705_知れば.mp3] Conditional<br>知る<br>(R3)
+分かる<br>	[sound:jva-0706_分かる.mp3] Present Positive Plain<br>分かる<br>(R4)
+分からない<br>	[sound:jva-0707_分からない.mp3] Present Negative Plain<br>分かる<br>(R4)
+分かります<br>	[sound:jva-0708_分かります.mp3] Present Positive Polite<br>分かる<br>(R4)
+分かりません<br>	[sound:jva-0709_分かりません.mp3] Present Negative Polite<br>分かる<br>(R4)
+分かった<br>	[sound:jva-0710_分かった.mp3] Past Positive Plain<br>分かる<br>(R4)
+分からなかった<br>	[sound:jva-0711_分からなかった.mp3] Past Negative Plain<br>分かる<br>(R4)
+分かりました<br>	[sound:jva-0712_分かりました.mp3] Past Positive Polite<br>分かる<br>(R4)
+分かりませんでした<br>	[sound:jva-0713_分かりませんでした.mp3] Past Negative Polite<br>分かる<br>(R4)
+分かって<br>	[sound:jva-0714_分かって.mp3] -te Form<br>分かる<br>(R4)
+分かろう<br>	[sound:jva-0715_分かろう.mp3] Volitional<br>分かる<br>(R4)
+分かれる<br>	[sound:jva-0716_分かれる.mp3] Potential<br>分かる<br>(R4)
+分かれる<br>	[sound:jva-0717_分かれる.mp3] Passive<br>分かる<br>(R4)
+分からせる<br>	[sound:jva-0718_分からせる.mp3] Causative<br>分かる<br>(R4)
+分かれ<br>	[sound:jva-0719_分かれ.mp3] Imperative<br>分かる<br>(R4)
+分かれば<br>	[sound:jva-0720_分かれば.mp3] Conditional<br>分かる<br>(R4)
+なさる<br>	[sound:jva-0721_なさる.mp3] Present Positive Plain<br>なさる<br>(S1)
+なさらない<br>	[sound:jva-0722_なさらない.mp3] Present Negative Plain<br>なさる<br>(S1)
+なさいます<br>	[sound:jva-0723_なさいます.mp3] Present Positive Polite<br>なさる<br>(S1)
+なさいません<br>	[sound:jva-0724_なさいません.mp3] Present Negative Polite<br>なさる<br>(S1)
+なさった<br>	[sound:jva-0725_なさった.mp3] Past Positive Plain<br>なさる<br>(S1)
+なさらなかった<br>	[sound:jva-0726_なさらなかった.mp3] Past Negative Plain<br>なさる<br>(S1)
+なさいました<br>	[sound:jva-0727_なさいました.mp3] Past Positive Polite<br>なさる<br>(S1)
+なさいませんでした<br>	[sound:jva-0728_なさいませんでした.mp3] Past Negative Polite<br>なさる<br>(S1)
+なさって<br>	[sound:jva-0729_なさって.mp3] -te Form<br>なさる<br>(S1)
+なさろう<br>	[sound:jva-0730_なさろう.mp3] Volitional<br>なさる<br>(S1)
+なされる<br>	[sound:jva-0731_なされる.mp3] Potential<br>なさる<br>(S1)
+なさられる<br>	[sound:jva-0732_なさられる.mp3] Passive<br>なさる<br>(S1)
+なさらせる<br>	[sound:jva-0733_なさらせる.mp3] Causative<br>なさる<br>(S1)
+なさって<br>	[sound:jva-0734_なさって.mp3] Imperative<br>なさる<br>(S1)
+なされば<br>	[sound:jva-0735_なされば.mp3] Conditional<br>なさる<br>(S1)
+下さる<br>	[sound:jva-0736_下さる.mp3] Present Positive Plain<br>下さる<br>(S2)
+下さらない<br>	[sound:jva-0737_下さらない.mp3] Present Negative Plain<br>下さる<br>(S2)
+下さいます<br>	[sound:jva-0738_下さいます.mp3] Present Positive Polite<br>下さる<br>(S2)
+下さいません<br>	[sound:jva-0739_下さいません.mp3] Present Negative Polite<br>下さる<br>(S2)
+下さった<br>	[sound:jva-0740_下さった.mp3] Past Positive Plain<br>下さる<br>(S2)
+下さらなかった<br>	[sound:jva-0741_下さらなかった.mp3] Past Negative Plain<br>下さる<br>(S2)
+下さいました<br>	[sound:jva-0742_下さいました.mp3] Past Positive Polite<br>下さる<br>(S2)
+下さいませんでした<br>	[sound:jva-0743_下さいませんでした.mp3] Past Negative Polite<br>下さる<br>(S2)
+下さって<br>	[sound:jva-0744_下さって.mp3] -te Form<br>下さる<br>(S2)
+下さろう<br>	[sound:jva-0745_下さろう.mp3] Volitional<br>下さる<br>(S2)
+下される<br>	[sound:jva-0746_下される.mp3] Potential<br>下さる<br>(S2)
+下さられる<br>	[sound:jva-0747_下さられる.mp3] Passive<br>下さる<br>(S2)
+下さらせる<br>	[sound:jva-0748_下さらせる.mp3] Causative<br>下さる<br>(S2)
+下さい<br>	[sound:jva-0749_下さい.mp3] Imperative<br>下さる<br>(S2)
+下されば<br>	[sound:jva-0750_下されば.mp3] Conditional<br>下さる<br>(S2)
+仰る<br>	[sound:jva-0751_仰る.mp3] Present Positive Plain<br>仰る<br>(S3)
+仰らない<br>	[sound:jva-0752_仰らない.mp3] Present Negative Plain<br>仰る<br>(S3)
+仰います<br>	[sound:jva-0753_仰います.mp3] Present Positive Polite<br>仰る<br>(S3)
+仰いません<br>	[sound:jva-0754_仰いません.mp3] Present Negative Polite<br>仰る<br>(S3)
+仰った<br>	[sound:jva-0755_仰った.mp3] Past Positive Plain<br>仰る<br>(S3)
+仰らなかった<br>	[sound:jva-0756_仰らなかった.mp3] Past Negative Plain<br>仰る<br>(S3)
+仰いました<br>	[sound:jva-0757_仰いました.mp3] Past Positive Polite<br>仰る<br>(S3)
+仰いませんでした<br>	[sound:jva-0758_仰いませんでした.mp3] Past Negative Polite<br>仰る<br>(S3)
+仰って<br>	[sound:jva-0759_仰って.mp3] -te Form<br>仰る<br>(S3)
+仰りましょう<br>	[sound:jva-0760_仰りましょう.mp3] Volitional<br>仰る<br>(S3)
+仰れる<br>	[sound:jva-0761_仰れる.mp3] Potential<br>仰る<br>(S3)
+仰られる<br>	[sound:jva-0762_仰られる.mp3] Passive<br>仰る<br>(S3)
+仰らせる<br>	[sound:jva-0763_仰らせる.mp3] Causative<br>仰る<br>(S3)
+仰って<br>	[sound:jva-0764_仰って.mp3] Imperative<br>仰る<br>(S3)
+仰れば<br>	[sound:jva-0765_仰れば.mp3] Conditional<br>仰る<br>(S3)
+だ<br>	[sound:jva-0766_だ.mp3] Present Positive Plain<br>だ<br>(T1)
+ではない<br>	[sound:jva-0767_ではない.mp3] Present Negative Plain<br>だ<br>(T1)
+です<br>	[sound:jva-0768_です.mp3] Present Positive Polite<br>だ<br>(T1)
+ではありません<br>	[sound:jva-0769_ではありません.mp3] Present Negative Polite<br>だ<br>(T1)
+だった<br>	[sound:jva-0770_だった.mp3] Past Positive Plain<br>だ<br>(T1)
+ではなかった<br>	[sound:jva-0771_ではなかった.mp3] Past Negative Plain<br>だ<br>(T1)
+でした<br>	[sound:jva-0772_でした.mp3] Past Positive Polite<br>だ<br>(T1)
+ではありませんでした<br>	[sound:jva-0773_ではありませんでした.mp3] Past Negative Polite<br>だ<br>(T1)
+で<br>	[sound:jva-0774_で.mp3] -te Form<br>だ<br>(T1)
+だろう<br>	[sound:jva-0775_だろう.mp3] Volitional<br>だ<br>(T1)
+できる<br>	[sound:jva-0776_できる.mp3] Potential<br>だ<br>(T1)
+される<br>	[sound:jva-0777_される.mp3] Passive<br>だ<br>(T1)
+させる<br>	[sound:jva-0778_させる.mp3] Causative<br>だ<br>(T1)
+だろ<br>	[sound:jva-0779_だろ.mp3] Imperative<br>だ<br>(T1)
+なら<br>	[sound:jva-0780_なら.mp3] Conditional<br>だ<br>(T1)
+する<br>	[sound:jva-0781_する.mp3] Present Positive Plain<br>する<br>(U1)
+しない<br>	[sound:jva-0782_しない.mp3] Present Negative Plain<br>する<br>(U1)
+します<br>	[sound:jva-0783_します.mp3] Present Positive Polite<br>する<br>(U1)
+しません<br>	[sound:jva-0784_しません.mp3] Present Negative Polite<br>する<br>(U1)
+した<br>	[sound:jva-0785_した.mp3] Past Positive Plain<br>する<br>(U1)
+しなかった<br>	[sound:jva-0786_しなかった.mp3] Past Negative Plain<br>する<br>(U1)
+しました<br>	[sound:jva-0787_しました.mp3] Past Positive Polite<br>する<br>(U1)
+しませんでした<br>	[sound:jva-0788_しませんでした.mp3] Past Negative Polite<br>する<br>(U1)
+して<br>	[sound:jva-0789_して.mp3] -te Form<br>する<br>(U1)
+しよう<br>	[sound:jva-0790_しよう.mp3] Volitional<br>する<br>(U1)
+できる<br>	[sound:jva-0791_できる.mp3] Potential<br>する<br>(U1)
+される<br>	[sound:jva-0792_される.mp3] Passive<br>する<br>(U1)
+させる<br>	[sound:jva-0793_させる.mp3] Causative<br>する<br>(U1)
+しろ<br>	[sound:jva-0794_しろ.mp3] Imperative<br>する<br>(U1)
+すれば<br>	[sound:jva-0795_すれば.mp3] Conditional<br>する<br>(U1)
+使用する<br>	[sound:jva-0796_使用する.mp3] Present Positive Plain<br>使用する<br>(U2)
+使用しない<br>	[sound:jva-0797_使用しない.mp3] Present Negative Plain<br>使用する<br>(U2)
+使用します<br>	[sound:jva-0798_使用します.mp3] Present Positive Polite<br>使用する<br>(U2)
+使用しません<br>	[sound:jva-0799_使用しません.mp3] Present Negative Polite<br>使用する<br>(U2)
+使用した<br>	[sound:jva-0800_使用した.mp3] Past Positive Plain<br>使用する<br>(U2)
+使用しなかった<br>	[sound:jva-0801_使用しなかった.mp3] Past Negative Plain<br>使用する<br>(U2)
+使用しました<br>	[sound:jva-0802_使用しました.mp3] Past Positive Polite<br>使用する<br>(U2)
+使用しませんでした<br>	[sound:jva-0803_使用しませんでした.mp3] Past Negative Polite<br>使用する<br>(U2)
+使用して<br>	[sound:jva-0804_使用して.mp3] -te Form<br>使用する<br>(U2)
+使用しよう<br>	[sound:jva-0805_使用しよう.mp3] Volitional<br>使用する<br>(U2)
+使用できる<br>	[sound:jva-0806_使用できる.mp3] Potential<br>使用する<br>(U2)
+使用される<br>	[sound:jva-0807_使用される.mp3] Passive<br>使用する<br>(U2)
+使用させる<br>	[sound:jva-0808_使用させる.mp3] Causative<br>使用する<br>(U2)
+使用しろ<br>	[sound:jva-0809_使用しろ.mp3] Imperative<br>使用する<br>(U2)
+使用すれば<br>	[sound:jva-0810_使用すれば.mp3] Conditional<br>使用する<br>(U2)
+表示する<br>	[sound:jva-0811_表示する.mp3] Present Positive Plain<br>表示する<br>(U3)
+表示しない<br>	[sound:jva-0812_表示しない.mp3] Present Negative Plain<br>表示する<br>(U3)
+表示します<br>	[sound:jva-0813_表示します.mp3] Present Positive Polite<br>表示する<br>(U3)
+表示しません<br>	[sound:jva-0814_表示しません.mp3] Present Negative Polite<br>表示する<br>(U3)
+表示した<br>	[sound:jva-0815_表示した.mp3] Past Positive Plain<br>表示する<br>(U3)
+表示しなかった<br>	[sound:jva-0816_表示しなかった.mp3] Past Negative Plain<br>表示する<br>(U3)
+表示しました<br>	[sound:jva-0817_表示しました.mp3] Past Positive Polite<br>表示する<br>(U3)
+表示しませんでした<br>	[sound:jva-0818_表示しませんでした.mp3] Past Negative Polite<br>表示する<br>(U3)
+表示して<br>	[sound:jva-0819_表示して.mp3] -te Form<br>表示する<br>(U3)
+表示しよう<br>	[sound:jva-0820_表示しよう.mp3] Volitional<br>表示する<br>(U3)
+表示できる<br>	[sound:jva-0821_表示できる.mp3] Potential<br>表示する<br>(U3)
+表示される<br>	[sound:jva-0822_表示される.mp3] Passive<br>表示する<br>(U3)
+表示させる<br>	[sound:jva-0823_表示させる.mp3] Causative<br>表示する<br>(U3)
+表示しろ<br>	[sound:jva-0824_表示しろ.mp3] Imperative<br>表示する<br>(U3)
+表示すれば<br>	[sound:jva-0825_表示すれば.mp3] Conditional<br>表示する<br>(U3)
+くれる<br>	[sound:jva-0826_くれる.mp3] Present Positive Plain<br>くれる<br>(V1)
+くれない<br>	[sound:jva-0827_くれない.mp3] Present Negative Plain<br>くれる<br>(V1)
+くれます<br>	[sound:jva-0828_くれます.mp3] Present Positive Polite<br>くれる<br>(V1)
+くれません<br>	[sound:jva-0829_くれません.mp3] Present Negative Polite<br>くれる<br>(V1)
+くれた<br>	[sound:jva-0830_くれた.mp3] Past Positive Plain<br>くれる<br>(V1)
+くれなかった<br>	[sound:jva-0831_くれなかった.mp3] Past Negative Plain<br>くれる<br>(V1)
+くれました<br>	[sound:jva-0832_くれました.mp3] Past Positive Polite<br>くれる<br>(V1)
+くれませんでした<br>	[sound:jva-0833_くれませんでした.mp3] Past Negative Polite<br>くれる<br>(V1)
+くれて<br>	[sound:jva-0834_くれて.mp3] -te Form<br>くれる<br>(V1)
+くれよう<br>	[sound:jva-0835_くれよう.mp3] Volitional<br>くれる<br>(V1)
+くれる<br>	[sound:jva-0836_くれる.mp3] Potential<br>くれる<br>(V1)
+くれられる<br>	[sound:jva-0837_くれられる.mp3] Passive<br>くれる<br>(V1)
+くれさせる<br>	[sound:jva-0838_くれさせる.mp3] Causative<br>くれる<br>(V1)
+くれ<br>	[sound:jva-0839_くれ.mp3] Imperative<br>くれる<br>(V1)
+くれれば<br>	[sound:jva-0840_くれれば.mp3] Conditional<br>くれる<br>(V1)
+呉れる<br>	[sound:jva-0841_呉れる.mp3] Present Positive Plain<br>呉れる<br>(V2)
+呉れない<br>	[sound:jva-0842_呉れない.mp3] Present Negative Plain<br>呉れる<br>(V2)
+呉れます<br>	[sound:jva-0843_呉れます.mp3] Present Positive Polite<br>呉れる<br>(V2)
+呉れません<br>	[sound:jva-0844_呉れません.mp3] Present Negative Polite<br>呉れる<br>(V2)
+呉れた<br>	[sound:jva-0845_呉れた.mp3] Past Positive Plain<br>呉れる<br>(V2)
+呉れなかった<br>	[sound:jva-0846_呉れなかった.mp3] Past Negative Plain<br>呉れる<br>(V2)
+呉れました<br>	[sound:jva-0847_呉れました.mp3] Past Positive Polite<br>呉れる<br>(V2)
+呉れませんでした<br>	[sound:jva-0848_呉れませんでした.mp3] Past Negative Polite<br>呉れる<br>(V2)
+呉れて<br>	[sound:jva-0849_呉れて.mp3] -te Form<br>呉れる<br>(V2)
+呉れよう<br>	[sound:jva-0850_呉れよう.mp3] Volitional<br>呉れる<br>(V2)
+呉れる<br>	[sound:jva-0851_呉れる.mp3] Potential<br>呉れる<br>(V2)
+呉れられる<br>	[sound:jva-0852_呉れられる.mp3] Passive<br>呉れる<br>(V2)
+呉れさせる<br>	[sound:jva-0853_呉れさせる.mp3] Causative<br>呉れる<br>(V2)
+呉れ<br>	[sound:jva-0854_呉れ.mp3] Imperative<br>呉れる<br>(V2)
+呉れれば<br>	[sound:jva-0855_呉れれば.mp3] Conditional<br>呉れる<br>(V2)
+ある<br>	[sound:jva-0856_ある.mp3] Present Positive Plain<br>ある<br>(W1)
+ない<br>	[sound:jva-0857_ない.mp3] Present Negative Plain<br>ある<br>(W1)
+あります<br>	[sound:jva-0858_あります.mp3] Present Positive Polite<br>ある<br>(W1)
+ありません<br>	[sound:jva-0859_ありません.mp3] Present Negative Polite<br>ある<br>(W1)
+あった<br>	[sound:jva-0860_あった.mp3] Past Positive Plain<br>ある<br>(W1)
+なかった<br>	[sound:jva-0861_なかった.mp3] Past Negative Plain<br>ある<br>(W1)
+ありました<br>	[sound:jva-0862_ありました.mp3] Past Positive Polite<br>ある<br>(W1)
+ありませんでした<br>	[sound:jva-0863_ありませんでした.mp3] Past Negative Polite<br>ある<br>(W1)
+あって<br>	[sound:jva-0864_あって.mp3] -te Form<br>ある<br>(W1)
+あろう<br>	[sound:jva-0865_あろう.mp3] Volitional<br>ある<br>(W1)
+ありえる<br>	[sound:jva-0866_ありえる.mp3] Potential<br>ある<br>(W1)
+ありえる<br>	[sound:jva-0867_ありえる.mp3] Passive<br>ある<br>(W1)
+あらせる<br>	[sound:jva-0868_あらせる.mp3] Causative<br>ある<br>(W1)
+あれ<br>	[sound:jva-0869_あれ.mp3] Imperative<br>ある<br>(W1)
 あれば		Conditional<br>ある<br>(W1)
